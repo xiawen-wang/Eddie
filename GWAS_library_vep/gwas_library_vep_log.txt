@@ -1,0 +1,605 @@
+python gwas_library_vep_loop.py
+python gwas_library_vep_loop_v2.py 10
+2021-06-19 14:44:19.443062 
+
+
+GWAS_library_vep/vep_input/vep_temp_9.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_9.txt -o GWAS_library_vep/vep_output/vep_ouput_9.txt --port 3337
+python gwas_library_vep_loop_v2.py 2
+2021-06-19 14:44:19.443078 
+
+
+GWAS_library_vep/vep_input/vep_temp_10.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_10.txt -o GWAS_library_vep/vep_output/vep_ouput_10.txt --port 3337
+python gwas_library_vep_loop_v2.py 3
+2021-06-19 14:44:19.443028 
+
+
+GWAS_library_vep/vep_input/vep_temp_2.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_2.txt -o GWAS_library_vep/vep_output/vep_ouput_2.txt --port 3337
+python gwas_library_vep_loop_v2.py 4
+2021-06-19 14:44:19.418701 
+
+
+GWAS_library_vep/vep_input/vep_temp_3.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_3.txt -o GWAS_library_vep/vep_output/vep_ouput_3.txt --port 3337
+python gwas_library_vep_loop_v2.py 5
+2021-06-19 14:44:19.443181 
+
+
+GWAS_library_vep/vep_input/vep_temp_4.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_4.txt -o GWAS_library_vep/vep_output/vep_ouput_4.txt --port 3337
+python gwas_library_vep_loop_v2.py 6
+2021-06-19 14:44:19.443179 
+
+
+GWAS_library_vep/vep_input/vep_temp_5.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_5.txt -o GWAS_library_vep/vep_output/vep_ouput_5.txt --port 3337
+python gwas_library_vep_loop_v2.py 7
+2021-06-19 14:44:19.418882 
+
+
+GWAS_library_vep/vep_input/vep_temp_6.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_6.txt -o GWAS_library_vep/vep_output/vep_ouput_6.txt --port 3337
+python gwas_library_vep_loop_v2.py 8
+2021-06-19 14:44:19.443120 
+
+
+GWAS_library_vep/vep_input/vep_temp_7.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_7.txt -o GWAS_library_vep/vep_output/vep_ouput_7.txt --port 3337
+python gwas_library_vep_loop_v2.py 9
+2021-06-19 14:44:19.443041 
+
+
+GWAS_library_vep/vep_input/vep_temp_8.txt
+vep --database -i GWAS_library_vep/vep_input/vep_temp_8.txt -o GWAS_library_vep/vep_output/vep_ouput_8.txt --port 3337
+
+
+## 10 array jobs
+[s1544765@node2c10(eddie) xiawen]$ qacct -j 12507267 >> gwas_library_vep_log.txt
+==============================================================
+qname        eddie               
+hostname     node2B05.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       7                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.122
+end_time     06/19/2021 21:04:34.630
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 22816.508    
+ru_utime     12396.045    
+ru_stime     32.811       
+ru_maxrss    3922180             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    6611031             
+ru_majflt    0                   
+ru_nswap     0                   
+ru_inblock   0                   
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     731492              
+ru_nivcsw    44939               
+wallclock    22816.557    
+cpu          12428.856    
+mem          27706.789         
+io           2.991             
+iow          0.000             
+ioops        1421938             
+maxvmem      4.269G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  1,0
+==============================================================
+qname        eddie               
+hostname     node2B05.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       4                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.100
+end_time     06/19/2021 21:16:44.169
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 23546.069    
+ru_utime     12570.990    
+ru_stime     53.564       
+ru_maxrss    3851940             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    7381154             
+ru_majflt    0                   
+ru_nswap     0                   
+ru_inblock   0                   
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     733924              
+ru_nivcsw    2835851             
+wallclock    23546.182    
+cpu          12624.555    
+mem          27227.915         
+io           2.935             
+iow          0.000             
+ioops        1416440             
+maxvmem      4.201G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,5
+==============================================================
+qname        eddie               
+hostname     node1j08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       3                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.110
+end_time     06/19/2021 21:35:32.096
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 24673.986    
+ru_utime     14396.633    
+ru_stime     40.728       
+ru_maxrss    3882408             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    7969181             
+ru_majflt    12                  
+ru_nswap     0                   
+ru_inblock   784                 
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     740529              
+ru_nivcsw    28814               
+wallclock    24674.669    
+cpu          14437.361    
+mem          32025.032         
+io           2.877             
+iow          0.180             
+ioops        1419592             
+maxvmem      4.230G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,1
+==============================================================
+qname        eddie               
+hostname     node1j08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       10                  
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.318
+end_time     06/19/2021 21:56:07.718
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 25909.400    
+ru_utime     15101.086    
+ru_stime     43.070       
+ru_maxrss    3947940             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    9025953             
+ru_majflt    11                  
+ru_nswap     0                   
+ru_inblock   568                 
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     786004              
+ru_nivcsw    31033               
+wallclock    25909.462    
+cpu          15144.156    
+mem          33135.728         
+io           3.244             
+iow          0.170             
+ioops        1497803             
+maxvmem      4.294G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,6
+==============================================================
+qname        eddie               
+hostname     node1j08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       6                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.209
+end_time     06/19/2021 22:00:01.754
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 26143.545    
+ru_utime     15687.185    
+ru_stime     41.631       
+ru_maxrss    3859528             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    8415285             
+ru_majflt    10                  
+ru_nswap     0                   
+ru_inblock   160                 
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     760646              
+ru_nivcsw    31862               
+wallclock    26143.625    
+cpu          15728.815    
+mem          34438.549         
+io           3.139             
+iow          0.180             
+ioops        1451376             
+maxvmem      4.210G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,3
+==============================================================
+qname        eddie               
+hostname     node1j08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       5                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.164
+end_time     06/19/2021 22:00:42.236
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 26184.072    
+ru_utime     15517.677    
+ru_stime     42.733       
+ru_maxrss    3968860             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    8883303             
+ru_majflt    10                  
+ru_nswap     0                   
+ru_inblock   208                 
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     772712              
+ru_nivcsw    31851               
+wallclock    26184.156    
+cpu          15560.409    
+mem          34311.211         
+io           3.016             
+iow          0.170             
+ioops        1477703             
+maxvmem      4.313G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,2
+==============================================================
+qname        eddie               
+hostname     node1j08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       9                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.290
+end_time     06/19/2021 22:05:04.357
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 26446.067    
+ru_utime     15610.792    
+ru_stime     43.260       
+ru_maxrss    3992908             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    8677597             
+ru_majflt    10                  
+ru_nswap     0                   
+ru_inblock   512                 
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     783423              
+ru_nivcsw    32881               
+wallclock    26446.142    
+cpu          15654.052    
+mem          35250.446         
+io           3.105             
+iow          0.180             
+ioops        1503064             
+maxvmem      4.337G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,5
+==============================================================
+qname        eddie               
+hostname     node1j08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       2                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.066
+end_time     06/19/2021 22:11:47.109
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 26849.043    
+ru_utime     15656.356    
+ru_stime     39.614       
+ru_maxrss    4094348             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    8886975             
+ru_majflt    12                  
+ru_nswap     0                   
+ru_inblock   328                 
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     820395              
+ru_nivcsw    47335               
+wallclock    26849.409    
+cpu          15695.970    
+mem          36144.550         
+io           3.248             
+iow          0.180             
+ioops        1554175             
+maxvmem      4.434G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,0
+==============================================================
+qname        eddie               
+hostname     node1j08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12507267            
+taskid       8                   
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub -t 2-10 gwas_library_vep_loop.sh
+qsub_time    06/19/2021 14:43:20.167
+start_time   06/19/2021 14:44:18.253
+end_time     06/19/2021 22:18:06.323
+granted_pe   NONE                
+slots        1                   
+failed       0    
+deleted_by   NONE
+exit_status  0                   
+ru_wallclock 27228.070    
+ru_utime     16077.061    
+ru_stime     44.300       
+ru_maxrss    4064040             
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    8604758             
+ru_majflt    12                  
+ru_nswap     0                   
+ru_inblock   616                 
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     800830              
+ru_nivcsw    33186               
+wallclock    27228.147    
+cpu          16121.361    
+mem          36892.532         
+io           3.182             
+iow          0.180             
+ioops        1525345             
+maxvmem      4.405G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,4
+
+
+
+## loop job without arrays
+## exceed limited memory 
+[s1544765@node2c10(eddie) xiawen]$ qacct -j 12497344 >>gwas_library_vep_log.txt
+==============================================================
+qname        eddie               
+hostname     node1h08.ecdf.ed.ac.uk
+group        eddie_users         
+owner        s1544765            
+project      uoe_baseline        
+department   defaultdepartment   
+jobname      VEP                 
+jobnumber    12497344            
+taskid       undefined
+pe_taskid    NONE                
+account      sge                 
+priority     0                   
+cwd          /exports/cmvm/eddie/sbms/groups/young-lab/xiawen
+submit_host  node2C10.ecdf.ed.ac.uk
+submit_cmd   qsub gwas_library_vep_loop.sh
+qsub_time    06/18/2021 19:59:55.873
+start_time   06/18/2021 20:00:56.389
+end_time     06/19/2021 10:41:27.622
+granted_pe   NONE                
+slots        1                   
+failed       46  : execd enforced h_vmem limit
+deleted_by   NONE
+exit_status  137                 
+ru_wallclock 52831.233    
+ru_utime     0.024        
+ru_stime     0.015        
+ru_maxrss    9824                
+ru_ixrss     0                   
+ru_ismrss    0                   
+ru_idrss     0                   
+ru_isrss     0                   
+ru_minflt    2542                
+ru_majflt    0                   
+ru_nswap     0                   
+ru_inblock   0                   
+ru_oublock   16                  
+ru_msgsnd    0                   
+ru_msgrcv    0                   
+ru_nsignals  0                   
+ru_nvcsw     84                  
+ru_nivcsw    11                  
+wallclock    52831.321    
+cpu          30844.100    
+mem          64115.056         
+io           8.439             
+iow          0.150             
+ioops        4017313             
+maxvmem      4.003G
+maxrss       0.000
+maxpss       0.000
+arid         undefined
+jc_name      NONE
+bound_cores  0,7
