@@ -1,0 +1,1990 @@
+hg19/0_projections.fa.gz
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+chimp is not mapped at chr1:3740837-3740839
+chimp is not mapped at chr1:65588499-65588501
+Closest species match to neither!
+chimp is not mapped at chr1:93767969-93767971
+chimp is not mapped at chr11:88590108-88590110
+chimp is not mapped at chr16:50039137-50039139
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43666250-43666252
+Closest species match to neither!
+chimp is not mapped at chr16:56117915-56117917
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43688578-43688580
+Closest species match to neither!
+chimp is not mapped at chr17:43833920-43833922
+Closest species match to neither!
+chimp is not mapped at chr17:43830684-43830686
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43836577-43836579
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43827430-43827432
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934015-43934017
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44050281-44050283
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44047608-44047610
+chimp is not mapped at chr17:44285141-44285143
+chimp is not mapped at chr17:44172697-44172699
+Closest species match to neither!
+chimp is not mapped at chr17:44167728-44167730
+chimp is not mapped at chr17:44316388-44316390
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44179968-44179970
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44195423-44195425
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44170017-44170019
+Closest species match to neither!
+chimp is not mapped at chr17:44181932-44181934
+chimp is not mapped at chr17:44298278-44298280
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr20:23313830-23313832
+Closest species match to neither!
+chimp is not mapped at chr17:44350918-44350920
+chimp is not mapped at chr17:44343124-44343126
+Closest species match to neither!
+chimp is not mapped at chr17:44334051-44334053
+chimp is not mapped at chr17:44345652-44345654
+chimp is not mapped at chr17:44352871-44352873
+Closest species match to neither!
+chimp is not mapped at chr19:11430373-11430375
+Closest species match to neither!
+chimp is not mapped at chr3:46119790-46119792
+Closest species match to neither!
+chimp is not mapped at chr3:101271304-101271306
+chimp is not mapped at chr3:46420780-46420782
+chimp is not mapped at chr3:101327788-101327790
+chimp is not mapped at chr3:101397876-101397878
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr6:31118941-31118943
+chimp is not mapped at chr8:8730487-8730489
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 38
+human allele match to reference alleles: 482
+chimp allele match to reference alleles: 231     Rate: 47.53086419753087
+chimp allele match to alternative alleles: 120   Rate: 24.691358024691358
+chimp allele match to neither: 93        Rate: 19.1358024691358
+
+hg19/1_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+Closest species match to neither!
+chimp is not mapped at chr1:61298260-61298262
+Closest species match to neither!
+chimp is not mapped at chr11:88082519-88082521
+Closest species match to neither!
+chimp is not mapped at chr17:43692934-43692936
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43666905-43666907
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr12:114993427-114993429
+Closest species match to neither!
+chimp is not mapped at chr16:50330509-50330511
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43827470-43827472
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43825710-43825712
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43833980-43833982
+Closest species match to neither!
+chimp is not mapped at chr17:43830937-43830939
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43836672-43836674
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934115-43934117
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44047801-44047803
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44050339-44050341
+Closest species match to neither!
+chimp is not mapped at chr17:44028044-44028046
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44182180-44182182
+Closest species match to neither!
+chimp is not mapped at chr17:44282006-44282008
+Closest species match to neither!
+chimp is not mapped at chr17:44179991-44179993
+chimp is not mapped at chr17:44168507-44168509
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44172772-44172774
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44170237-44170239
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44302880-44302882
+Closest species match to neither!
+chimp is not mapped at chr17:44316448-44316450
+chimp is not mapped at chr17:44351284-44351286
+Closest species match to neither!
+chimp is not mapped at chr19:14392306-14392308
+chimp is not mapped at chr17:44343281-44343283
+chimp is not mapped at chr17:44335751-44335753
+chimp is not mapped at chr17:44346673-44346675
+chimp is not mapped at chr20:23313889-23313891
+chimp is not mapped at chr17:44353413-44353415
+chimp is not mapped at chr21:33660596-33660598
+chimp is not mapped at chr3:46180415-46180417
+Closest species match to neither!
+chimp is not mapped at chr3:101517023-101517025
+chimp is not mapped at chr3:46292338-46292340
+Closest species match to neither!
+chimp is not mapped at chr3:101398918-101398920
+chimp is not mapped at chr3:101328483-101328485
+chimp is not mapped at chr3:46420798-46420800
+chimp is not mapped at chr5:54086897-54086899
+chimp is not mapped at chr9:113187048-113187050
+chimp is not mapped at chr5:127816861-127816863
+Closest species match to neither!
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 40
+human allele match to reference alleles: 479
+chimp allele match to reference alleles: 211     Rate: 43.68530020703933
+chimp allele match to alternative alleles: 111   Rate: 22.981366459627328
+chimp allele match to neither: 117       Rate: 24.22360248447205
+
+hg19/2_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+chimp is not mapped at chr11:129894919-129894921
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43519759-43519761
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43693537-43693539
+chimp is not mapped at chr17:43668016-43668018
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43825724-43825726
+chimp is not mapped at chr17:43827507-43827509
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43831111-43831113
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43834073-43834075
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934313-43934315
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44050394-44050396
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44042782-44042784
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44102603-44102605
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44282891-44282893
+chimp is not mapped at chr17:44182335-44182337
+chimp is not mapped at chr17:44170413-44170415
+chimp is not mapped at chr17:44305025-44305027
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44168676-44168678
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44180172-44180174
+chimp is not mapped at chr17:44173178-44173180
+chimp is not mapped at chr21:34595254-34595256
+chimp is not mapped at chr20:23318462-23318464
+Closest species match to neither!
+chimp is not mapped at chr17:44343290-44343292
+chimp is not mapped at chr17:47868920-47868922
+chimp is not mapped at chr21:34574056-34574058
+Closest species match to neither!
+chimp is not mapped at chr17:77405807-77405809
+chimp is not mapped at chr17:44338966-44338968
+chimp is not mapped at chr19:14407432-14407434
+chimp is not mapped at chr17:44351386-44351388
+chimp is not mapped at chr17:44316887-44316889
+chimp is not mapped at chr17:44347217-44347219
+chimp is not mapped at chr17:44353692-44353694
+chimp is not mapped at chr3:46183559-46183561
+chimp is not mapped at chr3:45737712-45737714
+chimp is not mapped at chr3:101399125-101399127
+chimp is not mapped at chr3:101361505-101361507
+chimp is not mapped at chr3:101474932-101474934
+chimp is not mapped at chr3:46370803-46370805
+chimp is not mapped at chr3:101423138-101423140
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr5:30823813-30823815
+Closest species match to neither!
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 39
+human allele match to reference alleles: 485
+chimp allele match to reference alleles: 220     Rate: 44.989775051124745
+chimp allele match to alternative alleles: 117   Rate: 23.92638036809816
+chimp allele match to neither: 107       Rate: 21.881390593047033
+
+hg19/3_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+chimp is not mapped at chr11:97784663-97784665
+chimp is not mapped at chr1:154810015-154810017
+chimp is not mapped at chr11:88096899-88096901
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43704030-43704032
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43572418-43572420
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:5072133-5072135
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43671098-43671100
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43825911-43825913
+chimp is not mapped at chr17:43828220-43828222
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43832114-43832116
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43834313-43834315
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934671-43934673
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44042867-44042869
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44287309-44287311
+chimp is not mapped at chr17:44180441-44180443
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44283021-44283023
+Closest species match to neither!
+chimp is not mapped at chr17:44169376-44169378
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44305198-44305200
+chimp is not mapped at chr17:44182705-44182707
+chimp is not mapped at chr17:44170611-44170613
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44347637-44347639
+chimp is not mapped at chr17:44317102-44317104
+chimp is not mapped at chr17:44339407-44339409
+chimp is not mapped at chr17:44351532-44351534
+chimp is not mapped at chr17:44343303-44343305
+Closest species match to neither!
+chimp is not mapped at chr19:10423337-10423339
+chimp is not mapped at chr3:46183560-46183562
+Closest species match to neither!
+chimp is not mapped at chr3:51932001-51932003
+chimp is not mapped at chr3:46423665-46423667
+chimp is not mapped at chr3:46371580-46371582
+chimp is not mapped at chr3:46437399-46437401
+chimp is not mapped at chr3:101399259-101399261
+chimp is not mapped at chr3:46293783-46293785
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr4:69615098-69615100
+chimp is not mapped at chr9:86549938-86549940
+chimp is not mapped at chr5:30824045-30824047
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 36
+human allele match to reference alleles: 476
+chimp allele match to reference alleles: 227     Rate: 47.291666666666664
+chimp allele match to alternative alleles: 105   Rate: 21.875
+chimp allele match to neither: 106       Rate: 22.083333333333332
+
+hg19/4_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+Closest species match to neither!
+chimp is not mapped at chr11:97796382-97796384
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43683610-43683612
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43704418-43704420
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43826304-43826306
+Closest species match to neither!
+chimp is not mapped at chr17:43832336-43832338
+chimp is not mapped at chr17:43834481-43834483
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43828616-43828618
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934775-43934777
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43976643-43976645
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44036935-44036937
+Closest species match to neither!
+chimp is not mapped at chr17:44042938-44042940
+Closest species match to neither!
+chimp is not mapped at chr17:44096485-44096487
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44182916-44182918
+chimp is not mapped at chr17:44294785-44294787
+Closest species match to neither!
+chimp is not mapped at chr17:44305251-44305253
+Closest species match to neither!
+chimp is not mapped at chr17:44166310-44166312
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44283138-44283140
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44290758-44290760
+Closest species match to neither!
+chimp is not mapped at chr17:44169405-44169407
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44180953-44180955
+chimp is not mapped at chr17:44171023-44171025
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44353884-44353886
+chimp is not mapped at chr17:44351685-44351687
+chimp is not mapped at chr2:167974761-167974763
+chimp is not mapped at chr19:46173213-46173215
+chimp is not mapped at chr19:10423814-10423816
+chimp is not mapped at chr20:46106930-46106932
+chimp is not mapped at chr17:44343718-44343720
+chimp is not mapped at chr17:44318183-44318185
+chimp is not mapped at chr17:44348220-44348222
+chimp is not mapped at chr17:44339472-44339474
+chimp is not mapped at chr3:46056910-46056912
+chimp is not mapped at chr3:101399582-101399584
+Closest species match to neither!
+chimp is not mapped at chr3:46371792-46371794
+chimp is not mapped at chr3:51933177-51933179
+chimp is not mapped at chr3:101313939-101313941
+Closest species match to neither!
+chimp is not mapped at chr9:136127267-136127269
+human allele does not match to reference
+human allele does not match to reference
+Closest species match to neither!
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 37
+human allele match to reference alleles: 474
+chimp allele match to reference alleles: 212     Rate: 44.35146443514644
+chimp allele match to alternative alleles: 111   Rate: 23.221757322175733
+chimp allele match to neither: 115       Rate: 24.05857740585774
+
+hg19/5_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+chimp is not mapped at chr11:97796501-97796503
+Closest species match to neither!
+chimp is not mapped at chr11:88596424-88596426
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43573230-43573232
+Closest species match to neither!
+chimp is not mapped at chr15:63395427-63395429
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43717414-43717416
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43684562-43684564
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43776390-43776392
+Closest species match to neither!
+human allele does not match to reference
+chimp is not mapped at chr17:43826350-43826352
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43832366-43832368
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43828697-43828699
+chimp is not mapped at chr17:43834969-43834971
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934825-43934827
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44042950-44042952
+Closest species match to neither!
+chimp is not mapped at chr17:44096552-44096554
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44037078-44037080
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44290909-44290911
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44313756-44313758
+Closest species match to neither!
+chimp is not mapped at chr17:44180996-44180998
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44171553-44171555
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44283760-44283762
+chimp is not mapped at chr17:44166499-44166501
+Closest species match to neither!
+chimp is not mapped at chr17:44296229-44296231
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44203519-44203521
+chimp is not mapped at chr17:44340252-44340254
+chimp is not mapped at chr17:44351928-44351930
+chimp is not mapped at chr17:44319365-44319367
+chimp is not mapped at chr19:10424950-10424952
+chimp is not mapped at chr17:44343929-44343931
+chimp is not mapped at chr17:44354102-44354104
+chimp is not mapped at chr17:44348264-44348266
+chimp is not mapped at chr3:46057232-46057234
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr3:46372377-46372379
+chimp is not mapped at chr3:58802379-58802381
+chimp is not mapped at chr3:46425959-46425961
+Closest species match to neither!
+chimp is not mapped at chr3:101316836-101316838
+Closest species match to neither!
+chimp is not mapped at chr4:69660186-69660188
+chimp is not mapped at chr6:29798793-29798795
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 37
+human allele match to reference alleles: 480
+chimp allele match to reference alleles: 224     Rate: 46.28099173553719
+chimp allele match to alternative alleles: 117   Rate: 24.173553719008265
+chimp allele match to neither: 102       Rate: 21.074380165289256
+
+hg19/6_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+Closest species match to neither!
+chimp is not mapped at chr11:88602555-88602557
+chimp is not mapped at chr17:43573418-43573420
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43685697-43685699
+Closest species match to neither!
+chimp is not mapped at chr17:43737039-43737041
+chimp is not mapped at chr13:43321474-43321476
+human allele does not match to reference
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43828934-43828936
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43826636-43826638
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43835350-43835352
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43832617-43832619
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43933306-43933308
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934895-43934897
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44284056-44284058
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44169580-44169582
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44171564-44171566
+chimp is not mapped at chr17:44296250-44296252
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44166645-44166647
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44314065-44314067
+chimp is not mapped at chr17:44181117-44181119
+chimp is not mapped at chr17:44348369-44348371
+chimp is not mapped at chr17:44354230-44354232
+chimp is not mapped at chr17:44319368-44319370
+Closest species match to neither!
+chimp is not mapped at chr17:44344096-44344098
+chimp is not mapped at chr19:4582761-4582763
+chimp is not mapped at chr19:49321910-49321912
+chimp is not mapped at chr17:44340327-44340329
+chimp is not mapped at chr3:46123838-46123840
+chimp is not mapped at chr3:46107497-46107499
+Closest species match to neither!
+chimp is not mapped at chr3:46426006-46426008
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr3:58802749-58802751
+chimp is not mapped at chr5:38366132-38366134
+chimp is not mapped at chr9:15410554-15410556
+chimp is not mapped at chr7:158746666-158746668
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 32
+human allele match to reference alleles: 473
+chimp allele match to reference alleles: 222     Rate: 46.540880503144656
+chimp allele match to alternative alleles: 113   Rate: 23.68972746331237
+chimp allele match to neither: 106       Rate: 22.22222222222222
+
+hg19/7_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+chimp is not mapped at chr12:29229855-29229857
+Closest species match to neither!
+chimp is not mapped at chr12:58108051-58108053
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43664334-43664336
+Closest species match to neither!
+chimp is not mapped at chr17:43685825-43685827
+human allele does not match to reference
+Closest species match to neither!
+chimp is not mapped at chr17:43705600-43705602
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43835853-43835855
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43827208-43827210
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43832863-43832865
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43996720-43996722
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43934947-43934949
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43933578-43933580
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44284419-44284421
+chimp is not mapped at chr17:44172326-44172328
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44167100-44167102
+chimp is not mapped at chr17:44296521-44296523
+Closest species match to neither!
+chimp is not mapped at chr17:44169604-44169606
+chimp is not mapped at chr17:44314178-44314180
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44181453-44181455
+Closest species match to neither!
+chimp is not mapped at chr17:44271151-44271153
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44352360-44352362
+chimp is not mapped at chr19:4589189-4589191
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44344455-44344457
+chimp is not mapped at chr17:44340505-44340507
+chimp is not mapped at chr19:47013269-47013271
+chimp is not mapped at chr17:44348931-44348933
+chimp is not mapped at chr17:44355302-44355304
+chimp is not mapped at chr17:44333422-44333424
+chimp is not mapped at chr3:46124417-46124419
+chimp is not mapped at chr3:46184724-46184726
+chimp is not mapped at chr3:46107600-46107602
+chimp is not mapped at chr3:101318902-101318904
+chimp is not mapped at chr3:101400987-101400989
+Closest species match to neither!
+chimp is not mapped at chr3:58808180-58808182
+chimp is not mapped at chr5:38368369-38368371
+chimp is not mapped at chr6:32667170-32667172
+chimp is not mapped at chr9:15411304-15411306
+chimp is not mapped at chr9:136170731-136170733
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 37
+human allele match to reference alleles: 478
+chimp allele match to reference alleles: 215     Rate: 44.60580912863071
+chimp allele match to alternative alleles: 127   Rate: 26.348547717842326
+chimp allele match to neither: 100       Rate: 20.74688796680498
+
+hg19/8_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+Closest species match to neither!
+chimp is not mapped at chr1:65588328-65588330
+chimp is not mapped at chr12:58108201-58108203
+Closest species match to neither!
+chimp is not mapped at chr17:43665467-43665469
+Closest species match to neither!
+chimp is not mapped at chr17:43705755-43705757
+Closest species match to neither!
+chimp is not mapped at chr14:28733842-28733844
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr15:78323095-78323097
+Closest species match to neither!
+chimp is not mapped at chr17:43686419-43686421
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43830381-43830383
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43832939-43832941
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43836050-43836052
+Closest species match to neither!
+chimp is not mapped at chr17:43827243-43827245
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43935117-43935119
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43933672-43933674
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44049866-44049868
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44169758-44169760
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44284541-44284543
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44296522-44296524
+chimp is not mapped at chr17:44172390-44172392
+Closest species match to neither!
+chimp is not mapped at chr17:44179722-44179724
+chimp is not mapped at chr17:44181507-44181509
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44167463-44167465
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44316075-44316077
+Closest species match to neither!
+chimp is not mapped at chr17:44352620-44352622
+chimp is not mapped at chr17:44809000-44809002
+chimp is not mapped at chr17:44340524-44340526
+chimp is not mapped at chr17:44333888-44333890
+chimp is not mapped at chr19:4729330-4729332
+chimp is not mapped at chr17:44349866-44349868
+chimp is not mapped at chr17:44344809-44344811
+chimp is not mapped at chr17:44356948-44356950
+Closest species match to neither!
+chimp is not mapped at chr3:46108284-46108286
+chimp is not mapped at chr3:46216244-46216246
+chimp is not mapped at chr3:101324062-101324064
+Closest species match to neither!
+chimp is not mapped at chr8:59903270-59903272
+human allele does not match to reference
+chimp is not mapped at chr9:15411345-15411347
+chimp is not mapped at chr5:38368933-38368935
+chimp is not mapped at chr9:136296529-136296531
+human allele does not match to reference
+Closest species match to neither!
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 37
+human allele match to reference alleles: 486
+chimp allele match to reference alleles: 237     Rate: 48.36734693877551
+chimp allele match to alternative alleles: 104   Rate: 21.224489795918366
+chimp allele match to neither: 108       Rate: 22.040816326530614
+
+hg19/9_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+chimp is not mapped at chr12:68043158-68043160
+chimp is not mapped at chr10:12667473-12667475
+Closest species match to neither!
+chimp is not mapped at chr1:65588419-65588421
+chimp is not mapped at chr12:42620760-42620762
+chimp is not mapped at chr1:65585502-65585504
+chimp is not mapped at chr17:43688386-43688388
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43719869-43719871
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr14:28733846-28733848
+chimp is not mapped at chr16:10645716-10645718
+chimp is not mapped at chr17:43665808-43665810
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43836190-43836192
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43827390-43827392
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43833823-43833825
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:43933878-43933880
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44047215-44047217
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44049899-44049901
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44181680-44181682
+Closest species match to neither!
+chimp is not mapped at chr17:44169768-44169770
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44284733-44284735
+chimp is not mapped at chr17:44172407-44172409
+chimp is not mapped at chr17:44167660-44167662
+chimp is not mapped at chr17:44316279-44316281
+Closest species match to neither!
+chimp is not mapped at chr17:44179748-44179750
+Closest species match to neither!
+chimp is not mapped at chr17:44298101-44298103
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+Closest species match to neither!
+chimp is not mapped at chr17:44342326-44342328
+chimp is not mapped at chr19:50868753-50868755
+chimp is not mapped at chr17:44333889-44333891
+chimp is not mapped at chr17:44350089-44350091
+chimp is not mapped at chr17:44352638-44352640
+Closest species match to neither!
+chimp is not mapped at chr17:44364648-44364650
+Closest species match to neither!
+chimp is not mapped at chr3:45909527-45909529
+human allele does not match to reference
+chimp is not mapped at chr3:46108399-46108401
+chimp is not mapped at chr3:46244272-46244274
+chimp is not mapped at chr3:101327768-101327770
+chimp is not mapped at chr3:101450257-101450259
+chimp is not mapped at chr3:101397622-101397624
+chimp is not mapped at chr5:91686871-91686873
+Closest species match to neither!
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to chimp: 37
+human allele match to reference alleles: 478
+chimp allele match to reference alleles: 209     Rate: 43.36099585062241
+chimp allele match to alternative alleles: 123   Rate: 25.518672199170123
+chimp allele match to neither: 110       Rate: 22.821576763485478

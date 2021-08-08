@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to canFam3: 254
+human allele match to reference alleles: 482
+canFam3 allele match to reference alleles: 108	 Rate: 22.22222222222222
+canFam3 allele match to alternative alleles: 89	 Rate: 18.31275720164609
+canFam3 allele match to neither: 31	 Rate: 6.378600823045268
+
+human allele does not match to reference: 4
+no liftover from human to canFam3: 260
+human allele match to reference alleles: 479
+canFam3 allele match to reference alleles: 109	 Rate: 22.56728778467909
+canFam3 allele match to alternative alleles: 80	 Rate: 16.563146997929607
+canFam3 allele match to neither: 30	 Rate: 6.211180124223603
+
+human allele does not match to reference: 6
+no liftover from human to canFam3: 274
+human allele match to reference alleles: 483
+canFam3 allele match to reference alleles: 105	 Rate: 21.472392638036812
+canFam3 allele match to alternative alleles: 82	 Rate: 16.768916155419223
+canFam3 allele match to neither: 22	 Rate: 4.4989775051124745
+
+human allele does not match to reference: 6
+no liftover from human to canFam3: 249
+human allele match to reference alleles: 474
+canFam3 allele match to reference alleles: 109	 Rate: 22.708333333333332
+canFam3 allele match to alternative alleles: 90	 Rate: 18.75
+canFam3 allele match to neither: 26	 Rate: 5.416666666666667
+
+human allele does not match to reference: 3
+no liftover from human to canFam3: 263
+human allele match to reference alleles: 475
+canFam3 allele match to reference alleles: 109	 Rate: 22.80334728033473
+canFam3 allele match to alternative alleles: 71	 Rate: 14.853556485355648
+canFam3 allele match to neither: 32	 Rate: 6.694560669456067
+
+human allele does not match to reference: 4
+no liftover from human to canFam3: 256
+human allele match to reference alleles: 480
+canFam3 allele match to reference alleles: 99	 Rate: 20.454545454545457
+canFam3 allele match to alternative alleles: 98	 Rate: 20.24793388429752
+canFam3 allele match to neither: 27	 Rate: 5.578512396694215
+
+human allele does not match to reference: 4
+no liftover from human to canFam3: 247
+human allele match to reference alleles: 473
+canFam3 allele match to reference alleles: 117	 Rate: 24.528301886792452
+canFam3 allele match to alternative alleles: 72	 Rate: 15.09433962264151
+canFam3 allele match to neither: 37	 Rate: 7.756813417190776
+
+human allele does not match to reference: 3
+no liftover from human to canFam3: 278
+human allele match to reference alleles: 479
+canFam3 allele match to reference alleles: 96	 Rate: 19.91701244813278
+canFam3 allele match to alternative alleles: 76	 Rate: 15.767634854771783
+canFam3 allele match to neither: 29	 Rate: 6.016597510373444
+
+human allele does not match to reference: 4
+no liftover from human to canFam3: 265
+human allele match to reference alleles: 486
+canFam3 allele match to reference alleles: 123	 Rate: 25.102040816326532
+canFam3 allele match to alternative alleles: 66	 Rate: 13.46938775510204
+canFam3 allele match to neither: 32	 Rate: 6.530612244897959
+
+human allele does not match to reference: 3
+no liftover from human to canFam3: 272
+human allele match to reference alleles: 479
+canFam3 allele match to reference alleles: 77	 Rate: 15.975103734439832
+canFam3 allele match to alternative alleles: 83	 Rate: 17.219917012448132
+canFam3 allele match to neither: 47	 Rate: 9.751037344398341
+

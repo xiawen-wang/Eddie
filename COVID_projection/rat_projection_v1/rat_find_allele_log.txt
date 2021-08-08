@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to Rattus: 344
+human allele match to reference alleles: 482
+Rattus allele match to reference alleles: 67	 Rate: 13.786008230452676
+Rattus allele match to alternative alleles: 39	 Rate: 8.024691358024691
+Rattus allele match to neither: 32	 Rate: 6.584362139917696
+
+human allele does not match to reference: 4
+no liftover from human to Rattus: 347
+human allele match to reference alleles: 479
+Rattus allele match to reference alleles: 57	 Rate: 11.801242236024844
+Rattus allele match to alternative alleles: 49	 Rate: 10.144927536231885
+Rattus allele match to neither: 26	 Rate: 5.383022774327122
+
+human allele does not match to reference: 6
+no liftover from human to Rattus: 360
+human allele match to reference alleles: 483
+Rattus allele match to reference alleles: 56	 Rate: 11.451942740286299
+Rattus allele match to alternative alleles: 39	 Rate: 7.975460122699387
+Rattus allele match to neither: 28	 Rate: 5.725971370143149
+
+human allele does not match to reference: 6
+no liftover from human to Rattus: 340
+human allele match to reference alleles: 474
+Rattus allele match to reference alleles: 57	 Rate: 11.875
+Rattus allele match to alternative alleles: 51	 Rate: 10.625
+Rattus allele match to neither: 26	 Rate: 5.416666666666667
+
+human allele does not match to reference: 3
+no liftover from human to Rattus: 360
+human allele match to reference alleles: 475
+Rattus allele match to reference alleles: 53	 Rate: 11.08786610878661
+Rattus allele match to alternative alleles: 39	 Rate: 8.158995815899582
+Rattus allele match to neither: 23	 Rate: 4.811715481171548
+
+human allele does not match to reference: 4
+no liftover from human to Rattus: 347
+human allele match to reference alleles: 480
+Rattus allele match to reference alleles: 53	 Rate: 10.950413223140496
+Rattus allele match to alternative alleles: 49	 Rate: 10.12396694214876
+Rattus allele match to neither: 31	 Rate: 6.40495867768595
+
+human allele does not match to reference: 4
+no liftover from human to Rattus: 351
+human allele match to reference alleles: 473
+Rattus allele match to reference alleles: 60	 Rate: 12.578616352201259
+Rattus allele match to alternative alleles: 40	 Rate: 8.385744234800839
+Rattus allele match to neither: 22	 Rate: 4.612159329140461
+
+human allele does not match to reference: 3
+no liftover from human to Rattus: 354
+human allele match to reference alleles: 479
+Rattus allele match to reference alleles: 57	 Rate: 11.825726141078837
+Rattus allele match to alternative alleles: 44	 Rate: 9.12863070539419
+Rattus allele match to neither: 24	 Rate: 4.979253112033195
+
+human allele does not match to reference: 4
+no liftover from human to Rattus: 353
+human allele match to reference alleles: 486
+Rattus allele match to reference alleles: 62	 Rate: 12.653061224489795
+Rattus allele match to alternative alleles: 42	 Rate: 8.571428571428571
+Rattus allele match to neither: 29	 Rate: 5.918367346938775
+
+human allele does not match to reference: 3
+no liftover from human to Rattus: 356
+human allele match to reference alleles: 479
+Rattus allele match to reference alleles: 60	 Rate: 12.448132780082988
+Rattus allele match to alternative alleles: 35	 Rate: 7.261410788381744
+Rattus allele match to neither: 28	 Rate: 5.809128630705394
+

@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to oviBos: 254
+human allele match to reference alleles: 482
+oviBos allele match to reference alleles: 84	 Rate: 17.28395061728395
+oviBos allele match to alternative alleles: 68	 Rate: 13.991769547325102
+oviBos allele match to neither: 76	 Rate: 15.637860082304528
+
+human allele does not match to reference: 4
+no liftover from human to oviBos: 263
+human allele match to reference alleles: 479
+oviBos allele match to reference alleles: 78	 Rate: 16.149068322981368
+oviBos allele match to alternative alleles: 59	 Rate: 12.215320910973086
+oviBos allele match to neither: 79	 Rate: 16.35610766045549
+
+human allele does not match to reference: 6
+no liftover from human to oviBos: 265
+human allele match to reference alleles: 483
+oviBos allele match to reference alleles: 76	 Rate: 15.541922290388548
+oviBos allele match to alternative alleles: 65	 Rate: 13.29243353783231
+oviBos allele match to neither: 77	 Rate: 15.746421267893659
+
+human allele does not match to reference: 6
+no liftover from human to oviBos: 259
+human allele match to reference alleles: 474
+oviBos allele match to reference alleles: 80	 Rate: 16.666666666666664
+oviBos allele match to alternative alleles: 48	 Rate: 10.0
+oviBos allele match to neither: 87	 Rate: 18.125
+
+human allele does not match to reference: 3
+no liftover from human to oviBos: 272
+human allele match to reference alleles: 475
+oviBos allele match to reference alleles: 62	 Rate: 12.97071129707113
+oviBos allele match to alternative alleles: 58	 Rate: 12.133891213389122
+oviBos allele match to neither: 83	 Rate: 17.364016736401673
+
+human allele does not match to reference: 4
+no liftover from human to oviBos: 259
+human allele match to reference alleles: 480
+oviBos allele match to reference alleles: 99	 Rate: 20.454545454545457
+oviBos allele match to alternative alleles: 52	 Rate: 10.743801652892563
+oviBos allele match to neither: 70	 Rate: 14.46280991735537
+
+human allele does not match to reference: 4
+no liftover from human to oviBos: 250
+human allele match to reference alleles: 473
+oviBos allele match to reference alleles: 99	 Rate: 20.754716981132077
+oviBos allele match to alternative alleles: 48	 Rate: 10.062893081761008
+oviBos allele match to neither: 76	 Rate: 15.932914046121594
+
+human allele does not match to reference: 3
+no liftover from human to oviBos: 260
+human allele match to reference alleles: 479
+oviBos allele match to reference alleles: 82	 Rate: 17.012448132780083
+oviBos allele match to alternative alleles: 57	 Rate: 11.825726141078837
+oviBos allele match to neither: 80	 Rate: 16.59751037344398
+
+human allele does not match to reference: 4
+no liftover from human to oviBos: 270
+human allele match to reference alleles: 486
+oviBos allele match to reference alleles: 77	 Rate: 15.714285714285714
+oviBos allele match to alternative alleles: 54	 Rate: 11.020408163265307
+oviBos allele match to neither: 85	 Rate: 17.346938775510203
+
+human allele does not match to reference: 3
+no liftover from human to oviBos: 261
+human allele match to reference alleles: 479
+oviBos allele match to reference alleles: 77	 Rate: 15.975103734439832
+oviBos allele match to alternative alleles: 62	 Rate: 12.863070539419086
+oviBos allele match to neither: 79	 Rate: 16.390041493775932
+

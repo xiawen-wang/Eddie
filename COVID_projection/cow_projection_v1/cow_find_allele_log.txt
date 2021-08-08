@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to bosTau8: 259
+human allele match to reference alleles: 482
+bosTau8 allele match to reference alleles: 109	 Rate: 22.42798353909465
+bosTau8 allele match to alternative alleles: 78	 Rate: 16.049382716049383
+bosTau8 allele match to neither: 36	 Rate: 7.4074074074074066
+
+human allele does not match to reference: 4
+no liftover from human to bosTau8: 267
+human allele match to reference alleles: 479
+bosTau8 allele match to reference alleles: 101	 Rate: 20.910973084886127
+bosTau8 allele match to alternative alleles: 76	 Rate: 15.734989648033126
+bosTau8 allele match to neither: 35	 Rate: 7.246376811594203
+
+human allele does not match to reference: 6
+no liftover from human to bosTau8: 268
+human allele match to reference alleles: 483
+bosTau8 allele match to reference alleles: 101	 Rate: 20.654396728016362
+bosTau8 allele match to alternative alleles: 83	 Rate: 16.973415132924334
+bosTau8 allele match to neither: 31	 Rate: 6.339468302658487
+
+human allele does not match to reference: 6
+no liftover from human to bosTau8: 267
+human allele match to reference alleles: 474
+bosTau8 allele match to reference alleles: 94	 Rate: 19.583333333333332
+bosTau8 allele match to alternative alleles: 79	 Rate: 16.458333333333332
+bosTau8 allele match to neither: 34	 Rate: 7.083333333333333
+
+human allele does not match to reference: 3
+no liftover from human to bosTau8: 281
+human allele match to reference alleles: 475
+bosTau8 allele match to reference alleles: 93	 Rate: 19.456066945606697
+bosTau8 allele match to alternative alleles: 70	 Rate: 14.644351464435147
+bosTau8 allele match to neither: 31	 Rate: 6.485355648535565
+
+human allele does not match to reference: 4
+no liftover from human to bosTau8: 274
+human allele match to reference alleles: 480
+bosTau8 allele match to reference alleles: 98	 Rate: 20.24793388429752
+bosTau8 allele match to alternative alleles: 78	 Rate: 16.115702479338843
+bosTau8 allele match to neither: 30	 Rate: 6.198347107438017
+
+human allele does not match to reference: 4
+no liftover from human to bosTau8: 259
+human allele match to reference alleles: 473
+bosTau8 allele match to reference alleles: 106	 Rate: 22.22222222222222
+bosTau8 allele match to alternative alleles: 62	 Rate: 12.997903563941298
+bosTau8 allele match to neither: 46	 Rate: 9.643605870020965
+
+human allele does not match to reference: 3
+no liftover from human to bosTau8: 266
+human allele match to reference alleles: 479
+bosTau8 allele match to reference alleles: 103	 Rate: 21.369294605809127
+bosTau8 allele match to alternative alleles: 80	 Rate: 16.59751037344398
+bosTau8 allele match to neither: 30	 Rate: 6.224066390041494
+
+human allele does not match to reference: 4
+no liftover from human to bosTau8: 275
+human allele match to reference alleles: 486
+bosTau8 allele match to reference alleles: 112	 Rate: 22.857142857142858
+bosTau8 allele match to alternative alleles: 61	 Rate: 12.448979591836734
+bosTau8 allele match to neither: 38	 Rate: 7.755102040816326
+
+human allele does not match to reference: 3
+no liftover from human to bosTau8: 265
+human allele match to reference alleles: 479
+bosTau8 allele match to reference alleles: 92	 Rate: 19.08713692946058
+bosTau8 allele match to alternative alleles: 81	 Rate: 16.804979253112034
+bosTau8 allele match to neither: 41	 Rate: 8.506224066390041
+

@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to micOch1: 334
+human allele match to reference alleles: 482
+micOch1 allele match to reference alleles: 68	 Rate: 13.991769547325102
+micOch1 allele match to alternative alleles: 30	 Rate: 6.172839506172839
+micOch1 allele match to neither: 50	 Rate: 10.2880658436214
+
+human allele does not match to reference: 4
+no liftover from human to micOch1: 341
+human allele match to reference alleles: 479
+micOch1 allele match to reference alleles: 50	 Rate: 10.351966873706004
+micOch1 allele match to alternative alleles: 37	 Rate: 7.6604554865424435
+micOch1 allele match to neither: 51	 Rate: 10.559006211180124
+
+human allele does not match to reference: 6
+no liftover from human to micOch1: 356
+human allele match to reference alleles: 483
+micOch1 allele match to reference alleles: 42	 Rate: 8.588957055214724
+micOch1 allele match to alternative alleles: 32	 Rate: 6.5439672801636
+micOch1 allele match to neither: 53	 Rate: 10.838445807770961
+
+human allele does not match to reference: 6
+no liftover from human to micOch1: 332
+human allele match to reference alleles: 474
+micOch1 allele match to reference alleles: 51	 Rate: 10.625
+micOch1 allele match to alternative alleles: 36	 Rate: 7.5
+micOch1 allele match to neither: 55	 Rate: 11.458333333333332
+
+human allele does not match to reference: 3
+no liftover from human to micOch1: 356
+human allele match to reference alleles: 475
+micOch1 allele match to reference alleles: 39	 Rate: 8.158995815899582
+micOch1 allele match to alternative alleles: 32	 Rate: 6.694560669456067
+micOch1 allele match to neither: 48	 Rate: 10.0418410041841
+
+human allele does not match to reference: 4
+no liftover from human to micOch1: 349
+human allele match to reference alleles: 480
+micOch1 allele match to reference alleles: 46	 Rate: 9.50413223140496
+micOch1 allele match to alternative alleles: 33	 Rate: 6.8181818181818175
+micOch1 allele match to neither: 52	 Rate: 10.743801652892563
+
+human allele does not match to reference: 4
+no liftover from human to micOch1: 341
+human allele match to reference alleles: 473
+micOch1 allele match to reference alleles: 57	 Rate: 11.949685534591195
+micOch1 allele match to alternative alleles: 24	 Rate: 5.031446540880504
+micOch1 allele match to neither: 51	 Rate: 10.69182389937107
+
+human allele does not match to reference: 3
+no liftover from human to micOch1: 349
+human allele match to reference alleles: 479
+micOch1 allele match to reference alleles: 44	 Rate: 9.12863070539419
+micOch1 allele match to alternative alleles: 36	 Rate: 7.468879668049793
+micOch1 allele match to neither: 50	 Rate: 10.37344398340249
+
+human allele does not match to reference: 4
+no liftover from human to micOch1: 344
+human allele match to reference alleles: 486
+micOch1 allele match to reference alleles: 53	 Rate: 10.816326530612246
+micOch1 allele match to alternative alleles: 36	 Rate: 7.346938775510205
+micOch1 allele match to neither: 53	 Rate: 10.816326530612246
+
+human allele does not match to reference: 3
+no liftover from human to micOch1: 346
+human allele match to reference alleles: 479
+micOch1 allele match to reference alleles: 50	 Rate: 10.37344398340249
+micOch1 allele match to alternative alleles: 30	 Rate: 6.224066390041494
+micOch1 allele match to neither: 53	 Rate: 10.995850622406639
+

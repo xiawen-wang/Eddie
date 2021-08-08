@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to gorGor3: 56
+human allele match to reference alleles: 482
+gorGor3 allele match to reference alleles: 262	 Rate: 53.90946502057613
+gorGor3 allele match to alternative alleles: 152	 Rate: 31.275720164609055
+gorGor3 allele match to neither: 12	 Rate: 2.4691358024691357
+
+human allele does not match to reference: 4
+no liftover from human to gorGor3: 57
+human allele match to reference alleles: 479
+gorGor3 allele match to reference alleles: 259	 Rate: 53.62318840579711
+gorGor3 allele match to alternative alleles: 150	 Rate: 31.05590062111801
+gorGor3 allele match to neither: 13	 Rate: 2.691511387163561
+
+human allele does not match to reference: 6
+no liftover from human to gorGor3: 58
+human allele match to reference alleles: 483
+gorGor3 allele match to reference alleles: 249	 Rate: 50.920245398773
+gorGor3 allele match to alternative alleles: 162	 Rate: 33.12883435582822
+gorGor3 allele match to neither: 14	 Rate: 2.8629856850715747
+
+human allele does not match to reference: 6
+no liftover from human to gorGor3: 52
+human allele match to reference alleles: 474
+gorGor3 allele match to reference alleles: 244	 Rate: 50.83333333333333
+gorGor3 allele match to alternative alleles: 169	 Rate: 35.208333333333336
+gorGor3 allele match to neither: 9	 Rate: 1.875
+
+human allele does not match to reference: 3
+no liftover from human to gorGor3: 51
+human allele match to reference alleles: 475
+gorGor3 allele match to reference alleles: 257	 Rate: 53.76569037656904
+gorGor3 allele match to alternative alleles: 157	 Rate: 32.84518828451883
+gorGor3 allele match to neither: 10	 Rate: 2.092050209205021
+
+human allele does not match to reference: 4
+no liftover from human to gorGor3: 64
+human allele match to reference alleles: 480
+gorGor3 allele match to reference alleles: 243	 Rate: 50.20661157024794
+gorGor3 allele match to alternative alleles: 166	 Rate: 34.29752066115703
+gorGor3 allele match to neither: 7	 Rate: 1.4462809917355373
+
+human allele does not match to reference: 4
+no liftover from human to gorGor3: 59
+human allele match to reference alleles: 473
+gorGor3 allele match to reference alleles: 257	 Rate: 53.878406708595385
+gorGor3 allele match to alternative alleles: 145	 Rate: 30.398322851153043
+gorGor3 allele match to neither: 12	 Rate: 2.515723270440252
+
+human allele does not match to reference: 3
+no liftover from human to gorGor3: 59
+human allele match to reference alleles: 479
+gorGor3 allele match to reference alleles: 249	 Rate: 51.65975103734441
+gorGor3 allele match to alternative alleles: 161	 Rate: 33.40248962655601
+gorGor3 allele match to neither: 10	 Rate: 2.0746887966804977
+
+human allele does not match to reference: 4
+no liftover from human to gorGor3: 62
+human allele match to reference alleles: 486
+gorGor3 allele match to reference alleles: 269	 Rate: 54.89795918367347
+gorGor3 allele match to alternative alleles: 146	 Rate: 29.795918367346943
+gorGor3 allele match to neither: 9	 Rate: 1.8367346938775513
+
+human allele does not match to reference: 3
+no liftover from human to gorGor3: 70
+human allele match to reference alleles: 479
+gorGor3 allele match to reference alleles: 244	 Rate: 50.62240663900415
+gorGor3 allele match to alternative alleles: 160	 Rate: 33.19502074688796
+gorGor3 allele match to neither: 5	 Rate: 1.0373443983402488
+

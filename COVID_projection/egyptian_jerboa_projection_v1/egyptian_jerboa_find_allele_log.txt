@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to jacJac1: 336
+human allele match to reference alleles: 482
+jacJac1 allele match to reference alleles: 45	 Rate: 9.25925925925926
+jacJac1 allele match to alternative alleles: 43	 Rate: 8.847736625514404
+jacJac1 allele match to neither: 58	 Rate: 11.934156378600823
+
+human allele does not match to reference: 4
+no liftover from human to jacJac1: 332
+human allele match to reference alleles: 479
+jacJac1 allele match to reference alleles: 52	 Rate: 10.766045548654244
+jacJac1 allele match to alternative alleles: 37	 Rate: 7.6604554865424435
+jacJac1 allele match to neither: 58	 Rate: 12.008281573498964
+
+human allele does not match to reference: 6
+no liftover from human to jacJac1: 351
+human allele match to reference alleles: 483
+jacJac1 allele match to reference alleles: 52	 Rate: 10.633946830265849
+jacJac1 allele match to alternative alleles: 29	 Rate: 5.930470347648262
+jacJac1 allele match to neither: 51	 Rate: 10.429447852760736
+
+human allele does not match to reference: 6
+no liftover from human to jacJac1: 322
+human allele match to reference alleles: 474
+jacJac1 allele match to reference alleles: 58	 Rate: 12.083333333333334
+jacJac1 allele match to alternative alleles: 40	 Rate: 8.333333333333332
+jacJac1 allele match to neither: 54	 Rate: 11.25
+
+human allele does not match to reference: 3
+no liftover from human to jacJac1: 346
+human allele match to reference alleles: 475
+jacJac1 allele match to reference alleles: 36	 Rate: 7.531380753138076
+jacJac1 allele match to alternative alleles: 35	 Rate: 7.322175732217573
+jacJac1 allele match to neither: 58	 Rate: 12.133891213389122
+
+human allele does not match to reference: 4
+no liftover from human to jacJac1: 335
+human allele match to reference alleles: 480
+jacJac1 allele match to reference alleles: 61	 Rate: 12.603305785123966
+jacJac1 allele match to alternative alleles: 37	 Rate: 7.644628099173553
+jacJac1 allele match to neither: 47	 Rate: 9.710743801652892
+
+human allele does not match to reference: 4
+no liftover from human to jacJac1: 334
+human allele match to reference alleles: 473
+jacJac1 allele match to reference alleles: 54	 Rate: 11.320754716981133
+jacJac1 allele match to alternative alleles: 31	 Rate: 6.498951781970649
+jacJac1 allele match to neither: 54	 Rate: 11.320754716981133
+
+human allele does not match to reference: 3
+no liftover from human to jacJac1: 346
+human allele match to reference alleles: 479
+jacJac1 allele match to reference alleles: 44	 Rate: 9.12863070539419
+jacJac1 allele match to alternative alleles: 39	 Rate: 8.091286307053942
+jacJac1 allele match to neither: 50	 Rate: 10.37344398340249
+
+human allele does not match to reference: 4
+no liftover from human to jacJac1: 335
+human allele match to reference alleles: 486
+jacJac1 allele match to reference alleles: 56	 Rate: 11.428571428571429
+jacJac1 allele match to alternative alleles: 35	 Rate: 7.142857142857142
+jacJac1 allele match to neither: 60	 Rate: 12.244897959183673
+
+human allele does not match to reference: 3
+no liftover from human to jacJac1: 333
+human allele match to reference alleles: 479
+jacJac1 allele match to reference alleles: 56	 Rate: 11.618257261410788
+jacJac1 allele match to alternative alleles: 33	 Rate: 6.846473029045644
+jacJac1 allele match to neither: 57	 Rate: 11.825726141078837
+

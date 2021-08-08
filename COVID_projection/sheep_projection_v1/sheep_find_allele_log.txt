@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to oviAri3: 262
+human allele match to reference alleles: 482
+oviAri3 allele match to reference alleles: 77	 Rate: 15.843621399176955
+oviAri3 allele match to alternative alleles: 67	 Rate: 13.786008230452676
+oviAri3 allele match to neither: 76	 Rate: 15.637860082304528
+
+human allele does not match to reference: 4
+no liftover from human to oviAri3: 272
+human allele match to reference alleles: 479
+oviAri3 allele match to reference alleles: 72	 Rate: 14.906832298136646
+oviAri3 allele match to alternative alleles: 58	 Rate: 12.008281573498964
+oviAri3 allele match to neither: 77	 Rate: 15.942028985507244
+
+human allele does not match to reference: 6
+no liftover from human to oviAri3: 267
+human allele match to reference alleles: 483
+oviAri3 allele match to reference alleles: 74	 Rate: 15.132924335378323
+oviAri3 allele match to alternative alleles: 63	 Rate: 12.883435582822086
+oviAri3 allele match to neither: 79	 Rate: 16.155419222903884
+
+human allele does not match to reference: 6
+no liftover from human to oviAri3: 267
+human allele match to reference alleles: 474
+oviAri3 allele match to reference alleles: 75	 Rate: 15.625
+oviAri3 allele match to alternative alleles: 46	 Rate: 9.583333333333334
+oviAri3 allele match to neither: 86	 Rate: 17.916666666666668
+
+human allele does not match to reference: 3
+no liftover from human to oviAri3: 279
+human allele match to reference alleles: 475
+oviAri3 allele match to reference alleles: 58	 Rate: 12.133891213389122
+oviAri3 allele match to alternative alleles: 56	 Rate: 11.715481171548117
+oviAri3 allele match to neither: 82	 Rate: 17.154811715481173
+
+human allele does not match to reference: 4
+no liftover from human to oviAri3: 269
+human allele match to reference alleles: 480
+oviAri3 allele match to reference alleles: 93	 Rate: 19.214876033057852
+oviAri3 allele match to alternative alleles: 47	 Rate: 9.710743801652892
+oviAri3 allele match to neither: 71	 Rate: 14.669421487603307
+
+human allele does not match to reference: 4
+no liftover from human to oviAri3: 259
+human allele match to reference alleles: 473
+oviAri3 allele match to reference alleles: 95	 Rate: 19.91614255765199
+oviAri3 allele match to alternative alleles: 46	 Rate: 9.643605870020965
+oviAri3 allele match to neither: 73	 Rate: 15.30398322851153
+
+human allele does not match to reference: 3
+no liftover from human to oviAri3: 267
+human allele match to reference alleles: 479
+oviAri3 allele match to reference alleles: 78	 Rate: 16.182572614107883
+oviAri3 allele match to alternative alleles: 56	 Rate: 11.618257261410788
+oviAri3 allele match to neither: 78	 Rate: 16.182572614107883
+
+human allele does not match to reference: 4
+no liftover from human to oviAri3: 277
+human allele match to reference alleles: 486
+oviAri3 allele match to reference alleles: 73	 Rate: 14.897959183673471
+oviAri3 allele match to alternative alleles: 48	 Rate: 9.795918367346939
+oviAri3 allele match to neither: 88	 Rate: 17.959183673469386
+
+human allele does not match to reference: 3
+no liftover from human to oviAri3: 266
+human allele match to reference alleles: 479
+oviAri3 allele match to reference alleles: 74	 Rate: 15.352697095435685
+oviAri3 allele match to alternative alleles: 61	 Rate: 12.655601659751037
+oviAri3 allele match to neither: 78	 Rate: 16.182572614107883
+

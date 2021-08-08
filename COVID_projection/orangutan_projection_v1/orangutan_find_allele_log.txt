@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to ponAbe2: 76
+human allele match to reference alleles: 482
+ponAbe2 allele match to reference alleles: 194	 Rate: 39.91769547325103
+ponAbe2 allele match to alternative alleles: 118	 Rate: 24.279835390946502
+ponAbe2 allele match to neither: 94	 Rate: 19.34156378600823
+
+human allele does not match to reference: 4
+no liftover from human to ponAbe2: 82
+human allele match to reference alleles: 479
+ponAbe2 allele match to reference alleles: 188	 Rate: 38.923395445134574
+ponAbe2 allele match to alternative alleles: 98	 Rate: 20.28985507246377
+ponAbe2 allele match to neither: 111	 Rate: 22.981366459627328
+
+human allele does not match to reference: 6
+no liftover from human to ponAbe2: 79
+human allele match to reference alleles: 483
+ponAbe2 allele match to reference alleles: 186	 Rate: 38.036809815950924
+ponAbe2 allele match to alternative alleles: 108	 Rate: 22.085889570552148
+ponAbe2 allele match to neither: 110	 Rate: 22.494887525562373
+
+human allele does not match to reference: 6
+no liftover from human to ponAbe2: 88
+human allele match to reference alleles: 474
+ponAbe2 allele match to reference alleles: 190	 Rate: 39.58333333333333
+ponAbe2 allele match to alternative alleles: 94	 Rate: 19.583333333333332
+ponAbe2 allele match to neither: 102	 Rate: 21.25
+
+human allele does not match to reference: 3
+no liftover from human to ponAbe2: 86
+human allele match to reference alleles: 475
+ponAbe2 allele match to reference alleles: 176	 Rate: 36.82008368200837
+ponAbe2 allele match to alternative alleles: 106	 Rate: 22.17573221757322
+ponAbe2 allele match to neither: 107	 Rate: 22.384937238493723
+
+human allele does not match to reference: 4
+no liftover from human to ponAbe2: 85
+human allele match to reference alleles: 480
+ponAbe2 allele match to reference alleles: 188	 Rate: 38.84297520661157
+ponAbe2 allele match to alternative alleles: 105	 Rate: 21.694214876033058
+ponAbe2 allele match to neither: 102	 Rate: 21.074380165289256
+
+human allele does not match to reference: 4
+no liftover from human to ponAbe2: 74
+human allele match to reference alleles: 473
+ponAbe2 allele match to reference alleles: 198	 Rate: 41.509433962264154
+ponAbe2 allele match to alternative alleles: 95	 Rate: 19.91614255765199
+ponAbe2 allele match to neither: 106	 Rate: 22.22222222222222
+
+human allele does not match to reference: 3
+no liftover from human to ponAbe2: 84
+human allele match to reference alleles: 479
+ponAbe2 allele match to reference alleles: 183	 Rate: 37.96680497925311
+ponAbe2 allele match to alternative alleles: 106	 Rate: 21.991701244813278
+ponAbe2 allele match to neither: 106	 Rate: 21.991701244813278
+
+human allele does not match to reference: 4
+no liftover from human to ponAbe2: 85
+human allele match to reference alleles: 486
+ponAbe2 allele match to reference alleles: 198	 Rate: 40.40816326530612
+ponAbe2 allele match to alternative alleles: 104	 Rate: 21.224489795918366
+ponAbe2 allele match to neither: 99	 Rate: 20.20408163265306
+
+human allele does not match to reference: 3
+no liftover from human to ponAbe2: 83
+human allele match to reference alleles: 479
+ponAbe2 allele match to reference alleles: 185	 Rate: 38.38174273858922
+ponAbe2 allele match to alternative alleles: 111	 Rate: 23.029045643153527
+ponAbe2 allele match to neither: 100	 Rate: 20.74688796680498
+

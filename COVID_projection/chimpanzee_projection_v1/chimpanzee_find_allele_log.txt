@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to panTro4: 38
+human allele match to reference alleles: 482
+panTro4 allele match to reference alleles: 231	 Rate: 47.53086419753087
+panTro4 allele match to alternative alleles: 120	 Rate: 24.691358024691358
+panTro4 allele match to neither: 93	 Rate: 19.1358024691358
+
+human allele does not match to reference: 4
+no liftover from human to panTro4: 40
+human allele match to reference alleles: 479
+panTro4 allele match to reference alleles: 211	 Rate: 43.68530020703933
+panTro4 allele match to alternative alleles: 111	 Rate: 22.981366459627328
+panTro4 allele match to neither: 117	 Rate: 24.22360248447205
+
+human allele does not match to reference: 6
+no liftover from human to panTro4: 39
+human allele match to reference alleles: 483
+panTro4 allele match to reference alleles: 220	 Rate: 44.989775051124745
+panTro4 allele match to alternative alleles: 117	 Rate: 23.92638036809816
+panTro4 allele match to neither: 107	 Rate: 21.881390593047033
+
+human allele does not match to reference: 6
+no liftover from human to panTro4: 36
+human allele match to reference alleles: 474
+panTro4 allele match to reference alleles: 227	 Rate: 47.291666666666664
+panTro4 allele match to alternative alleles: 105	 Rate: 21.875
+panTro4 allele match to neither: 106	 Rate: 22.083333333333332
+
+human allele does not match to reference: 3
+no liftover from human to panTro4: 37
+human allele match to reference alleles: 475
+panTro4 allele match to reference alleles: 212	 Rate: 44.35146443514644
+panTro4 allele match to alternative alleles: 111	 Rate: 23.221757322175733
+panTro4 allele match to neither: 115	 Rate: 24.05857740585774
+
+human allele does not match to reference: 4
+no liftover from human to panTro4: 37
+human allele match to reference alleles: 480
+panTro4 allele match to reference alleles: 224	 Rate: 46.28099173553719
+panTro4 allele match to alternative alleles: 117	 Rate: 24.173553719008265
+panTro4 allele match to neither: 102	 Rate: 21.074380165289256
+
+human allele does not match to reference: 4
+no liftover from human to panTro4: 32
+human allele match to reference alleles: 473
+panTro4 allele match to reference alleles: 222	 Rate: 46.540880503144656
+panTro4 allele match to alternative alleles: 113	 Rate: 23.68972746331237
+panTro4 allele match to neither: 106	 Rate: 22.22222222222222
+
+human allele does not match to reference: 3
+no liftover from human to panTro4: 37
+human allele match to reference alleles: 479
+panTro4 allele match to reference alleles: 215	 Rate: 44.60580912863071
+panTro4 allele match to alternative alleles: 127	 Rate: 26.348547717842326
+panTro4 allele match to neither: 100	 Rate: 20.74688796680498
+
+human allele does not match to reference: 4
+no liftover from human to panTro4: 37
+human allele match to reference alleles: 486
+panTro4 allele match to reference alleles: 237	 Rate: 48.36734693877551
+panTro4 allele match to alternative alleles: 104	 Rate: 21.224489795918366
+panTro4 allele match to neither: 108	 Rate: 22.040816326530614
+
+human allele does not match to reference: 3
+no liftover from human to panTro4: 37
+human allele match to reference alleles: 479
+panTro4 allele match to reference alleles: 209	 Rate: 43.36099585062241
+panTro4 allele match to alternative alleles: 123	 Rate: 25.518672199170123
+panTro4 allele match to neither: 110	 Rate: 22.821576763485478
+

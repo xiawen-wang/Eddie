@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to C57B6J: 339
+human allele match to reference alleles: 482
+C57B6J allele match to reference alleles: 66	 Rate: 13.580246913580247
+C57B6J allele match to alternative alleles: 40	 Rate: 8.23045267489712
+C57B6J allele match to neither: 37	 Rate: 7.613168724279835
+
+human allele does not match to reference: 4
+no liftover from human to C57B6J: 344
+human allele match to reference alleles: 479
+C57B6J allele match to reference alleles: 58	 Rate: 12.008281573498964
+C57B6J allele match to alternative alleles: 53	 Rate: 10.973084886128365
+C57B6J allele match to neither: 24	 Rate: 4.968944099378882
+
+human allele does not match to reference: 6
+no liftover from human to C57B6J: 365
+human allele match to reference alleles: 483
+C57B6J allele match to reference alleles: 50	 Rate: 10.224948875255624
+C57B6J allele match to alternative alleles: 37	 Rate: 7.566462167689162
+C57B6J allele match to neither: 31	 Rate: 6.339468302658487
+
+human allele does not match to reference: 6
+no liftover from human to C57B6J: 332
+human allele match to reference alleles: 474
+C57B6J allele match to reference alleles: 59	 Rate: 12.291666666666666
+C57B6J allele match to alternative alleles: 54	 Rate: 11.25
+C57B6J allele match to neither: 29	 Rate: 6.041666666666667
+
+human allele does not match to reference: 3
+no liftover from human to C57B6J: 361
+human allele match to reference alleles: 475
+C57B6J allele match to reference alleles: 58	 Rate: 12.133891213389122
+C57B6J allele match to alternative alleles: 37	 Rate: 7.740585774058577
+C57B6J allele match to neither: 19	 Rate: 3.9748953974895396
+
+human allele does not match to reference: 4
+no liftover from human to C57B6J: 353
+human allele match to reference alleles: 480
+C57B6J allele match to reference alleles: 54	 Rate: 11.15702479338843
+C57B6J allele match to alternative alleles: 42	 Rate: 8.677685950413224
+C57B6J allele match to neither: 31	 Rate: 6.40495867768595
+
+human allele does not match to reference: 4
+no liftover from human to C57B6J: 346
+human allele match to reference alleles: 473
+C57B6J allele match to reference alleles: 57	 Rate: 11.949685534591195
+C57B6J allele match to alternative alleles: 42	 Rate: 8.80503144654088
+C57B6J allele match to neither: 28	 Rate: 5.870020964360587
+
+human allele does not match to reference: 3
+no liftover from human to C57B6J: 355
+human allele match to reference alleles: 479
+C57B6J allele match to reference alleles: 48	 Rate: 9.95850622406639
+C57B6J allele match to alternative alleles: 46	 Rate: 9.54356846473029
+C57B6J allele match to neither: 30	 Rate: 6.224066390041494
+
+human allele does not match to reference: 4
+no liftover from human to C57B6J: 347
+human allele match to reference alleles: 486
+C57B6J allele match to reference alleles: 66	 Rate: 13.46938775510204
+C57B6J allele match to alternative alleles: 45	 Rate: 9.183673469387756
+C57B6J allele match to neither: 28	 Rate: 5.714285714285714
+
+human allele does not match to reference: 3
+no liftover from human to C57B6J: 347
+human allele match to reference alleles: 479
+C57B6J allele match to reference alleles: 66	 Rate: 13.692946058091287
+C57B6J allele match to alternative alleles: 42	 Rate: 8.71369294605809
+C57B6J allele match to neither: 24	 Rate: 4.979253112033195
+

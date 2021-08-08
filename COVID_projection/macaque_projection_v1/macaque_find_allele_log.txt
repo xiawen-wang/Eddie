@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to rheMac3: 68
+human allele match to reference alleles: 482
+rheMac3 allele match to reference alleles: 181	 Rate: 37.242798353909464
+rheMac3 allele match to alternative alleles: 126	 Rate: 25.925925925925924
+rheMac3 allele match to neither: 107	 Rate: 22.016460905349795
+
+human allele does not match to reference: 4
+no liftover from human to rheMac3: 79
+human allele match to reference alleles: 479
+rheMac3 allele match to reference alleles: 179	 Rate: 37.060041407867494
+rheMac3 allele match to alternative alleles: 103	 Rate: 21.325051759834366
+rheMac3 allele match to neither: 118	 Rate: 24.43064182194617
+
+human allele does not match to reference: 6
+no liftover from human to rheMac3: 77
+human allele match to reference alleles: 483
+rheMac3 allele match to reference alleles: 176	 Rate: 35.991820040899796
+rheMac3 allele match to alternative alleles: 103	 Rate: 21.063394683026583
+rheMac3 allele match to neither: 127	 Rate: 25.971370143149286
+
+human allele does not match to reference: 6
+no liftover from human to rheMac3: 72
+human allele match to reference alleles: 474
+rheMac3 allele match to reference alleles: 195	 Rate: 40.625
+rheMac3 allele match to alternative alleles: 95	 Rate: 19.791666666666664
+rheMac3 allele match to neither: 112	 Rate: 23.333333333333332
+
+human allele does not match to reference: 3
+no liftover from human to rheMac3: 82
+human allele match to reference alleles: 475
+rheMac3 allele match to reference alleles: 167	 Rate: 34.93723849372385
+rheMac3 allele match to alternative alleles: 106	 Rate: 22.17573221757322
+rheMac3 allele match to neither: 120	 Rate: 25.10460251046025
+
+human allele does not match to reference: 4
+no liftover from human to rheMac3: 74
+human allele match to reference alleles: 480
+rheMac3 allele match to reference alleles: 189	 Rate: 39.0495867768595
+rheMac3 allele match to alternative alleles: 114	 Rate: 23.553719008264462
+rheMac3 allele match to neither: 103	 Rate: 21.280991735537192
+
+human allele does not match to reference: 4
+no liftover from human to rheMac3: 66
+human allele match to reference alleles: 473
+rheMac3 allele match to reference alleles: 195	 Rate: 40.88050314465409
+rheMac3 allele match to alternative alleles: 99	 Rate: 20.754716981132077
+rheMac3 allele match to neither: 113	 Rate: 23.68972746331237
+
+human allele does not match to reference: 3
+no liftover from human to rheMac3: 77
+human allele match to reference alleles: 479
+rheMac3 allele match to reference alleles: 184	 Rate: 38.17427385892116
+rheMac3 allele match to alternative alleles: 103	 Rate: 21.369294605809127
+rheMac3 allele match to neither: 115	 Rate: 23.858921161825727
+
+human allele does not match to reference: 4
+no liftover from human to rheMac3: 78
+human allele match to reference alleles: 486
+rheMac3 allele match to reference alleles: 187	 Rate: 38.163265306122454
+rheMac3 allele match to alternative alleles: 109	 Rate: 22.244897959183675
+rheMac3 allele match to neither: 112	 Rate: 22.857142857142858
+
+human allele does not match to reference: 3
+no liftover from human to rheMac3: 77
+human allele match to reference alleles: 479
+rheMac3 allele match to reference alleles: 170	 Rate: 35.26970954356847
+rheMac3 allele match to alternative alleles: 118	 Rate: 24.481327800829874
+rheMac3 allele match to neither: 114	 Rate: 23.651452282157674
+

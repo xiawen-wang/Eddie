@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to felCat8: 253
+human allele match to reference alleles: 482
+felCat8 allele match to reference alleles: 110	 Rate: 22.633744855967077
+felCat8 allele match to alternative alleles: 81	 Rate: 16.666666666666664
+felCat8 allele match to neither: 38	 Rate: 7.818930041152264
+
+human allele does not match to reference: 4
+no liftover from human to felCat8: 270
+human allele match to reference alleles: 479
+felCat8 allele match to reference alleles: 98	 Rate: 20.28985507246377
+felCat8 allele match to alternative alleles: 78	 Rate: 16.149068322981368
+felCat8 allele match to neither: 33	 Rate: 6.832298136645963
+
+human allele does not match to reference: 6
+no liftover from human to felCat8: 283
+human allele match to reference alleles: 483
+felCat8 allele match to reference alleles: 90	 Rate: 18.404907975460123
+felCat8 allele match to alternative alleles: 77	 Rate: 15.746421267893659
+felCat8 allele match to neither: 33	 Rate: 6.748466257668712
+
+human allele does not match to reference: 6
+no liftover from human to felCat8: 259
+human allele match to reference alleles: 474
+felCat8 allele match to reference alleles: 100	 Rate: 20.833333333333336
+felCat8 allele match to alternative alleles: 82	 Rate: 17.083333333333332
+felCat8 allele match to neither: 33	 Rate: 6.875000000000001
+
+human allele does not match to reference: 3
+no liftover from human to felCat8: 266
+human allele match to reference alleles: 475
+felCat8 allele match to reference alleles: 104	 Rate: 21.75732217573222
+felCat8 allele match to alternative alleles: 70	 Rate: 14.644351464435147
+felCat8 allele match to neither: 35	 Rate: 7.322175732217573
+
+human allele does not match to reference: 4
+no liftover from human to felCat8: 262
+human allele match to reference alleles: 480
+felCat8 allele match to reference alleles: 94	 Rate: 19.421487603305785
+felCat8 allele match to alternative alleles: 100	 Rate: 20.66115702479339
+felCat8 allele match to neither: 24	 Rate: 4.958677685950414
+
+human allele does not match to reference: 4
+no liftover from human to felCat8: 253
+human allele match to reference alleles: 473
+felCat8 allele match to reference alleles: 114	 Rate: 23.89937106918239
+felCat8 allele match to alternative alleles: 64	 Rate: 13.417190775681343
+felCat8 allele match to neither: 42	 Rate: 8.80503144654088
+
+human allele does not match to reference: 3
+no liftover from human to felCat8: 269
+human allele match to reference alleles: 479
+felCat8 allele match to reference alleles: 106	 Rate: 21.991701244813278
+felCat8 allele match to alternative alleles: 73	 Rate: 15.145228215767634
+felCat8 allele match to neither: 31	 Rate: 6.431535269709543
+
+human allele does not match to reference: 4
+no liftover from human to felCat8: 273
+human allele match to reference alleles: 486
+felCat8 allele match to reference alleles: 110	 Rate: 22.448979591836736
+felCat8 allele match to alternative alleles: 77	 Rate: 15.714285714285714
+felCat8 allele match to neither: 26	 Rate: 5.3061224489795915
+
+human allele does not match to reference: 3
+no liftover from human to felCat8: 270
+human allele match to reference alleles: 479
+felCat8 allele match to reference alleles: 89	 Rate: 18.464730290456433
+felCat8 allele match to alternative alleles: 84	 Rate: 17.42738589211618
+felCat8 allele match to neither: 36	 Rate: 7.468879668049793
+

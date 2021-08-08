@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to oryCun2: 314
+human allele match to reference alleles: 482
+oryCun2 allele match to reference alleles: 70	 Rate: 14.40329218106996
+oryCun2 allele match to alternative alleles: 35	 Rate: 7.20164609053498
+oryCun2 allele match to neither: 63	 Rate: 12.962962962962962
+
+human allele does not match to reference: 4
+no liftover from human to oryCun2: 311
+human allele match to reference alleles: 479
+oryCun2 allele match to reference alleles: 63	 Rate: 13.043478260869565
+oryCun2 allele match to alternative alleles: 45	 Rate: 9.316770186335404
+oryCun2 allele match to neither: 60	 Rate: 12.422360248447205
+
+human allele does not match to reference: 6
+no liftover from human to oryCun2: 322
+human allele match to reference alleles: 483
+oryCun2 allele match to reference alleles: 71	 Rate: 14.519427402862986
+oryCun2 allele match to alternative alleles: 39	 Rate: 7.975460122699387
+oryCun2 allele match to neither: 51	 Rate: 10.429447852760736
+
+human allele does not match to reference: 6
+no liftover from human to oryCun2: 311
+human allele match to reference alleles: 474
+oryCun2 allele match to reference alleles: 59	 Rate: 12.291666666666666
+oryCun2 allele match to alternative alleles: 41	 Rate: 8.541666666666666
+oryCun2 allele match to neither: 63	 Rate: 13.125
+
+human allele does not match to reference: 3
+no liftover from human to oryCun2: 313
+human allele match to reference alleles: 475
+oryCun2 allele match to reference alleles: 60	 Rate: 12.552301255230125
+oryCun2 allele match to alternative alleles: 43	 Rate: 8.99581589958159
+oryCun2 allele match to neither: 59	 Rate: 12.343096234309623
+
+human allele does not match to reference: 4
+no liftover from human to oryCun2: 327
+human allele match to reference alleles: 480
+oryCun2 allele match to reference alleles: 65	 Rate: 13.429752066115702
+oryCun2 allele match to alternative alleles: 43	 Rate: 8.884297520661157
+oryCun2 allele match to neither: 45	 Rate: 9.297520661157025
+
+human allele does not match to reference: 4
+no liftover from human to oryCun2: 326
+human allele match to reference alleles: 473
+oryCun2 allele match to reference alleles: 65	 Rate: 13.626834381551362
+oryCun2 allele match to alternative alleles: 27	 Rate: 5.660377358490567
+oryCun2 allele match to neither: 55	 Rate: 11.530398322851152
+
+human allele does not match to reference: 3
+no liftover from human to oryCun2: 317
+human allele match to reference alleles: 479
+oryCun2 allele match to reference alleles: 67	 Rate: 13.900414937759336
+oryCun2 allele match to alternative alleles: 42	 Rate: 8.71369294605809
+oryCun2 allele match to neither: 53	 Rate: 10.995850622406639
+
+human allele does not match to reference: 4
+no liftover from human to oryCun2: 323
+human allele match to reference alleles: 486
+oryCun2 allele match to reference alleles: 71	 Rate: 14.489795918367346
+oryCun2 allele match to alternative alleles: 34	 Rate: 6.938775510204081
+oryCun2 allele match to neither: 58	 Rate: 11.83673469387755
+
+human allele does not match to reference: 3
+no liftover from human to oryCun2: 323
+human allele match to reference alleles: 479
+oryCun2 allele match to reference alleles: 64	 Rate: 13.278008298755188
+oryCun2 allele match to alternative alleles: 33	 Rate: 6.846473029045644
+oryCun2 allele match to neither: 59	 Rate: 12.240663900414937
+

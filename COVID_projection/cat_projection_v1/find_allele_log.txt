@@ -1,0 +1,4299 @@
+cat allele match to reference alleles: 61        Rate: 12.551440329218108
+cat allele match to alternative alleles: 58      Rate: 11.934156378600823
+cat allele match to neither: 110         Rate: 22.633744855967077
+
+cat allele match to reference alleles: 50        Rate: 10.351966873706004
+cat allele match to alternative alleles: 46      Rate: 9.523809523809524
+cat allele match to neither: 113         Rate: 23.395445134575567
+
+cat allele match to reference alleles: 63        Rate: 12.883435582822086
+cat allele match to alternative alleles: 46      Rate: 9.406952965235174
+cat allele match to neither: 91  Rate: 18.609406952965234
+
+cat allele match to reference alleles: 53        Rate: 11.041666666666666
+cat allele match to alternative alleles: 53      Rate: 11.041666666666666
+cat allele match to neither: 109         Rate: 22.708333333333332
+
+cat allele match to reference alleles: 64        Rate: 13.389121338912133
+cat allele match to alternative alleles: 56      Rate: 11.715481171548117
+cat allele match to neither: 89  Rate: 18.619246861924683
+
+cat allele match to reference alleles: 67        Rate: 13.842975206611571
+cat allele match to alternative alleles: 43      Rate: 8.884297520661157
+cat allele match to neither: 108         Rate: 22.31404958677686
+
+cat allele match to reference alleles: 58        Rate: 12.159329140461216
+cat allele match to alternative alleles: 49      Rate: 10.272536687631026
+cat allele match to neither: 113         Rate: 23.68972746331237
+
+cat allele match to reference alleles: 59        Rate: 12.240663900414937
+cat allele match to alternative alleles: 49      Rate: 10.16597510373444
+cat allele match to neither: 102         Rate: 21.16182572614108
+
+cat allele match to reference alleles: 51        Rate: 10.408163265306122
+cat allele match to alternative alleles: 64      Rate: 13.061224489795919
+cat allele match to neither: 98  Rate: 20.0
+
+cat allele match to reference alleles: 52        Rate: 10.78838174273859
+cat allele match to alternative alleles: 56      Rate: 11.618257261410788
+cat allele match to neither: 101         Rate: 20.95435684647303
+
+
+hg19/0_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+cat is not mapped at chr12:113369176-113369178
+cat is not mapped at chr12:113364780-113364782
+cat allele match to neither
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr12:113361157-113361159
+cat is not mapped at chr11:97768214-97768216
+cat allele match to neither
+cat is not mapped at chr1:3740837-3740839
+cat is not mapped at chr1:155099962-155099964
+cat is not mapped at chr12:113372538-113372540
+cat allele match to neither
+cat is not mapped at chr11:23254028-23254030
+cat is not mapped at chr11:28447961-28447963
+cat is not mapped at chr1:65588499-65588501
+cat is not mapped at chr1:65591113-65591115
+cat allele match to neither
+cat is not mapped at chr12:113367421-113367423
+cat allele match to neither
+cat is not mapped at chr1:93767969-93767971
+cat allele match to neither
+cat is not mapped at chr12:76540284-76540286
+cat allele match to neither
+cat is not mapped at chr11:88590108-88590110
+cat allele match to neither
+cat is not mapped at chr1:188492215-188492217
+cat is not mapped at chr11:1064610-1064612
+cat is not mapped at chr1:65582393-65582395
+cat is not mapped at chr12:113365686-113365688
+cat allele match to neither
+cat is not mapped at chr11:81455048-81455050
+cat is not mapped at chr12:113362973-113362975
+cat is not mapped at chr11:28404400-28404402
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113382976-113382978
+cat is not mapped at chr12:113375982-113375984
+cat is not mapped at chr12:113363921-113363923
+cat is not mapped at chr12:113379122-113379124
+cat is not mapped at chr12:19816505-19816507
+cat allele match to neither
+cat is not mapped at chr12:113392181-113392183
+cat is not mapped at chr1:228424253-228424255
+cat is not mapped at chr12:113359576-113359578
+cat is not mapped at chr11:120754722-120754724
+cat is not mapped at chr16:50039137-50039139
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113420603-113420605
+cat allele match to neither
+cat is not mapped at chr15:49452286-49452288
+cat is not mapped at chr17:43740855-43740857
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr14:28734654-28734656
+cat is not mapped at chr17:43775545-43775547
+cat is not mapped at chr15:49500122-49500124
+cat is not mapped at chr12:114237916-114237918
+cat is not mapped at chr17:43715426-43715428
+cat allele match to neither
+cat is not mapped at chr17:43721282-43721284
+cat is not mapped at chr17:43758077-43758079
+cat is not mapped at chr17:43666250-43666252
+cat allele match to neither
+cat is not mapped at chr13:22419413-22419415
+cat is not mapped at chr16:56117915-56117917
+cat is not mapped at chr12:113405180-113405182
+cat allele match to neither
+cat is not mapped at chr17:43762553-43762555
+cat is not mapped at chr13:46864802-46864804
+cat is not mapped at chr13:111300896-111300898
+cat is not mapped at chr15:26554068-26554070
+cat is not mapped at chr17:43688578-43688580
+cat is not mapped at chr17:43794181-43794183
+cat is not mapped at chr17:43833920-43833922
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43897721-43897723
+cat is not mapped at chr17:43830684-43830686
+cat is not mapped at chr17:43907744-43907746
+cat is not mapped at chr17:43799047-43799049
+cat is not mapped at chr17:43899726-43899728
+cat allele match to neither
+cat is not mapped at chr17:43825575-43825577
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43920377-43920379
+cat is not mapped at chr17:43836577-43836579
+cat is not mapped at chr17:43792894-43792896
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43857989-43857991
+cat is not mapped at chr17:43812683-43812685
+cat allele match to neither
+cat is not mapped at chr17:43786012-43786014
+cat is not mapped at chr17:43809327-43809329
+cat is not mapped at chr17:43791651-43791653
+cat is not mapped at chr17:43838070-43838072
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43927254-43927256
+cat is not mapped at chr17:43932154-43932156
+cat is not mapped at chr17:43979503-43979505
+cat allele match to neither
+cat is not mapped at chr17:43930979-43930981
+cat is not mapped at chr17:43964560-43964562
+cat is not mapped at chr17:43969900-43969902
+cat is not mapped at chr17:43950194-43950196
+cat is not mapped at chr17:43957327-43957329
+cat is not mapped at chr17:44002968-44002970
+cat is not mapped at chr17:43984671-43984673
+cat allele match to neither
+cat is not mapped at chr17:44016340-44016342
+cat allele match to neither
+cat is not mapped at chr17:44007492-44007494
+cat is not mapped at chr17:43939388-43939390
+cat is not mapped at chr17:43944157-43944159
+cat is not mapped at chr17:43963045-43963047
+cat is not mapped at chr17:43952633-43952635
+cat is not mapped at chr17:43937632-43937634
+cat is not mapped at chr17:43960599-43960601
+cat is not mapped at chr17:43953718-43953720
+cat allele match to neither
+cat is not mapped at chr17:43924802-43924804
+cat is not mapped at chr17:43994385-43994387
+cat is not mapped at chr17:43987153-43987155
+cat is not mapped at chr17:43955486-43955488
+cat is not mapped at chr17:43934015-43934017
+cat allele match to neither
+cat is not mapped at chr17:43940020-43940022
+cat is not mapped at chr17:44005328-44005330
+cat allele match to neither
+cat is not mapped at chr17:43968571-43968573
+cat is not mapped at chr17:43992243-43992245
+cat is not mapped at chr17:44010660-44010662
+cat is not mapped at chr17:43959260-43959262
+cat is not mapped at chr17:43966259-43966261
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44069197-44069199
+cat is not mapped at chr17:44139189-44139191
+cat is not mapped at chr17:44147573-44147575
+cat is not mapped at chr17:44028010-44028012
+cat is not mapped at chr17:44036407-44036409
+cat is not mapped at chr17:44119462-44119464
+cat is not mapped at chr17:44078891-44078893
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44032955-44032957
+cat allele match to neither
+cat is not mapped at chr17:44084156-44084158
+cat allele match to neither
+cat is not mapped at chr17:44030772-44030774
+cat is not mapped at chr17:44132886-44132888
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44136762-44136764
+cat is not mapped at chr17:44134094-44134096
+cat is not mapped at chr17:44131021-44131023
+cat is not mapped at chr17:44034485-44034487
+cat is not mapped at chr17:44067830-44067832
+cat is not mapped at chr17:44082431-44082433
+cat is not mapped at chr17:44093495-44093497
+cat allele match to neither
+cat is not mapped at chr17:44125483-44125485
+cat allele match to neither
+cat is not mapped at chr17:44024905-44024907
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44095334-44095336
+cat is not mapped at chr17:44047608-44047610
+cat is not mapped at chr17:44114217-44114219
+cat is not mapped at chr17:44231325-44231327
+cat is not mapped at chr17:44285141-44285143
+cat is not mapped at chr17:44172697-44172699
+cat allele match to neither
+cat is not mapped at chr17:44154945-44154947
+cat allele match to neither
+cat is not mapped at chr17:44316388-44316390
+cat allele match to neither
+cat is not mapped at chr17:44281721-44281723
+cat is not mapped at chr17:44253363-44253365
+cat is not mapped at chr17:44208143-44208145
+cat allele match to neither
+cat is not mapped at chr17:44262402-44262404
+cat allele match to neither
+cat is not mapped at chr17:44224685-44224687
+cat is not mapped at chr17:44202951-44202953
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44220941-44220943
+cat is not mapped at chr17:44258230-44258232
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44149740-44149742
+cat is not mapped at chr17:44170017-44170019
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44298278-44298280
+cat is not mapped at chr17:44157991-44157993
+cat is not mapped at chr17:44251581-44251583
+cat is not mapped at chr17:44151545-44151547
+cat allele match to neither
+cat is not mapped at chr17:44201343-44201345
+cat allele match to neither
+cat is not mapped at chr17:44153606-44153608
+cat is not mapped at chr17:44189857-44189859
+cat is not mapped at chr17:47935296-47935298
+cat allele match to neither
+cat is not mapped at chr2:126514240-126514242
+cat is not mapped at chr19:49306275-49306277
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:47858294-47858296
+cat is not mapped at chr17:44367452-44367454
+cat is not mapped at chr2:103833847-103833849
+cat is not mapped at chr19:50855700-50855702
+cat allele match to neither
+cat is not mapped at chr2:215131542-215131544
+cat allele match to neither
+cat is not mapped at chr21:34622535-34622537
+cat is not mapped at chr17:44343124-44343126
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr18:32791977-32791979
+cat is not mapped at chr19:4708567-4708569
+cat allele match to neither
+cat is not mapped at chr2:126466407-126466409
+cat is not mapped at chr17:44334051-44334053
+cat is not mapped at chr17:44345652-44345654
+cat is not mapped at chr19:10466122-10466124
+cat is not mapped at chr18:8424286-8424288
+cat allele match to neither
+cat is not mapped at chr2:241127314-241127316
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:50871146-50871148
+cat is not mapped at chr21:34593672-34593674
+cat is not mapped at chr20:46096316-46096318
+cat is not mapped at chr19:11430373-11430375
+cat is not mapped at chr19:47016883-47016885
+cat is not mapped at chr2:240632654-240632656
+cat is not mapped at chr3:46055908-46055910
+cat is not mapped at chr3:46200925-46200927
+cat is not mapped at chr3:46065962-46065964
+cat is not mapped at chr3:46179480-46179482
+cat is not mapped at chr3:46090476-46090478
+cat is not mapped at chr3:46046768-46046770
+cat allele match to neither
+cat is not mapped at chr3:46032440-46032442
+cat is not mapped at chr3:46128708-46128710
+cat is not mapped at chr3:46111080-46111082
+cat is not mapped at chr3:45994509-45994511
+cat is not mapped at chr3:46119790-46119792
+cat is not mapped at chr3:45899650-45899652
+cat is not mapped at chr3:45845747-45845749
+cat is not mapped at chr3:45928768-45928770
+cat is not mapped at chr3:46209426-46209428
+cat is not mapped at chr3:46174330-46174332
+cat is not mapped at chr21:34632240-34632242
+cat is not mapped at chr3:46234466-46234468
+cat is not mapped at chr3:46216968-46216970
+cat is not mapped at chr3:46190154-46190156
+cat is not mapped at chr3:45982118-45982120
+cat is not mapped at chr3:46225215-46225217
+cat is not mapped at chr3:46071080-46071082
+cat is not mapped at chr3:46085207-46085209
+cat is not mapped at chr3:46095103-46095105
+cat is not mapped at chr3:46195401-46195403
+cat is not mapped at chr3:45864731-45864733
+cat is not mapped at chr3:46079870-46079872
+cat is not mapped at chr3:46072838-46072840
+cat allele match to neither
+cat is not mapped at chr3:46039598-46039600
+cat is not mapped at chr3:19906004-19906006
+cat is not mapped at chr3:45909643-45909645
+cat is not mapped at chr3:46000869-46000871
+cat is not mapped at chr3:46186637-46186639
+cat is not mapped at chr3:46051907-46051909
+cat is not mapped at chr3:46246815-46246817
+cat is not mapped at chr3:46391647-46391649
+cat allele match to neither
+cat is not mapped at chr3:46330204-46330206
+cat is not mapped at chr3:46433507-46433509
+cat is not mapped at chr3:101452586-101452588
+cat is not mapped at chr3:101271304-101271306
+cat is not mapped at chr3:46376168-46376170
+cat is not mapped at chr3:46301785-46301787
+cat is not mapped at chr3:101507804-101507806
+cat is not mapped at chr3:46475322-46475324
+cat allele match to neither
+cat is not mapped at chr3:46297710-46297712
+cat is not mapped at chr3:46258739-46258741
+cat allele match to neither
+cat is not mapped at chr3:46420780-46420782
+cat allele match to neither
+cat is not mapped at chr3:46322288-46322290
+cat is not mapped at chr3:101386917-101386919
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46385160-46385162
+cat is not mapped at chr3:46468848-46468850
+cat is not mapped at chr3:101434447-101434449
+cat is not mapped at chr3:101327788-101327790
+cat is not mapped at chr3:101189340-101189342
+cat is not mapped at chr3:46261255-46261257
+cat is not mapped at chr3:101360622-101360624
+cat is not mapped at chr3:51936948-51936950
+cat allele match to neither
+cat is not mapped at chr3:101419707-101419709
+cat is not mapped at chr3:46366517-46366519
+cat allele match to neither
+cat is not mapped at chr3:101529775-101529777
+cat is not mapped at chr3:101129447-101129449
+cat allele match to neither
+cat is not mapped at chr3:46271453-46271455
+cat is not mapped at chr7:136792017-136792019
+cat is not mapped at chr9:136139753-136139755
+cat is not mapped at chr8:23432331-23432333
+cat is not mapped at chr5:17727692-17727694
+cat allele match to neither
+cat is not mapped at chr3:197121112-197121114
+cat is not mapped at chr8:125336563-125336565
+cat is not mapped at chr9:113178182-113178184
+cat is not mapped at chr6:77617712-77617714
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr9:23547542-23547544
+cat is not mapped at chr5:107811472-107811474
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr9:1688080-1688082
+cat allele match to neither
+cat is not mapped at chr7:150473694-150473696
+cat is not mapped at chr5:13938071-13938073
+cat is not mapped at chr7:10139854-10139856
+cat is not mapped at chr9:136136962-136136964
+cat is not mapped at chr9:101006014-101006016
+cat is not mapped at chr7:50780090-50780092
+cat allele match to neither
+cat is not mapped at chr7:78111332-78111334
+cat is not mapped at chr3:168576883-168576885
+cat is not mapped at chr6:38858036-38858038
+cat is not mapped at chr7:99630341-99630343
+cat is not mapped at chr5:17191834-17191836
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+cat allele match to neither
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 253
+human allele match to reference alleles: 482
+cat allele match to reference alleles: 61        Rate: 12.551440329218108
+cat allele match to alternative alleles: 58      Rate: 11.934156378600823
+cat allele match to neither: 110         Rate: 22.633744855967077
+
+hg19/1_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat allele match to neither
+cat is not mapped at chr1:65588572-65588574
+cat is not mapped at chr12:113364872-113364874
+cat is not mapped at chr12:113362996-113362998
+cat is not mapped at chr1:228424599-228424601
+cat is not mapped at chr1:244533403-244533405
+cat is not mapped at chr11:124513196-124513198
+cat allele match to neither
+cat is not mapped at chr12:113380007-113380009
+cat is not mapped at chr12:42645628-42645630
+cat is not mapped at chr11:1064690-1064692
+cat allele match to neither
+cat is not mapped at chr10:18565469-18565471
+cat is not mapped at chr11:28455941-28455943
+cat is not mapped at chr12:113384999-113385001
+cat is not mapped at chr1:65591253-65591255
+cat is not mapped at chr11:23254489-23254491
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113376319-113376321
+cat is not mapped at chr1:185230849-185230851
+cat is not mapped at chr12:113363971-113363973
+cat is not mapped at chr12:113367594-113367596
+cat is not mapped at chr11:97793950-97793952
+cat allele match to neither
+cat is not mapped at chr11:97779040-97779042
+cat is not mapped at chr1:65582402-65582404
+cat is not mapped at chr12:113365802-113365804
+cat is not mapped at chr1:228413615-228413617
+cat is not mapped at chr1:65586114-65586116
+cat is not mapped at chr12:113372803-113372805
+cat is not mapped at chr11:97749743-97749745
+cat is not mapped at chr12:19816635-19816637
+cat allele match to neither
+cat is not mapped at chr11:88082519-88082521
+cat is not mapped at chr1:237307327-237307329
+cat is not mapped at chr12:113359702-113359704
+cat is not mapped at chr11:28405770-28405772
+cat is not mapped at chr1:188492413-188492415
+cat allele match to neither
+cat is not mapped at chr1:3744125-3744127
+cat is not mapped at chr17:43729431-43729433
+cat is not mapped at chr16:56137732-56137734
+cat is not mapped at chr17:43707847-43707849
+cat is not mapped at chr16:3165424-3165426
+cat is not mapped at chr17:43692934-43692936
+cat is not mapped at chr17:43770415-43770417
+cat is not mapped at chr17:43766753-43766755
+cat is not mapped at chr17:43721456-43721458
+cat is not mapped at chr17:43666905-43666907
+cat is not mapped at chr17:40383023-40383025
+cat is not mapped at chr15:26555011-26555013
+cat allele match to neither
+cat is not mapped at chr17:43715618-43715620
+cat is not mapped at chr17:43740966-43740968
+cat is not mapped at chr12:113406195-113406197
+cat is not mapped at chr12:113421294-113421296
+cat allele match to neither
+cat is not mapped at chr17:1273540-1273542
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113392743-113392745
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr16:50330509-50330511
+cat is not mapped at chr16:56188422-56188424
+cat allele match to neither
+cat is not mapped at chr17:43711311-43711313
+cat is not mapped at chr14:28734935-28734937
+cat allele match to neither
+cat is not mapped at chr13:34857788-34857790
+cat is not mapped at chr17:43758147-43758149
+cat is not mapped at chr17:43734642-43734644
+cat is not mapped at chr17:43761380-43761382
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr15:92449425-92449427
+cat is not mapped at chr17:43794208-43794210
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43799051-43799053
+cat is not mapped at chr17:43779623-43779625
+cat is not mapped at chr17:43833980-43833982
+cat is not mapped at chr17:43830937-43830939
+cat is not mapped at chr17:43912158-43912160
+cat allele match to neither
+cat is not mapped at chr17:43913556-43913558
+cat is not mapped at chr17:43896615-43896617
+cat is not mapped at chr17:43858186-43858188
+cat allele match to neither
+cat is not mapped at chr17:43836672-43836674
+cat is not mapped at chr17:43910182-43910184
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43790648-43790650
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43838481-43838483
+cat allele match to neither
+cat is not mapped at chr17:43816051-43816053
+cat allele match to neither
+cat is not mapped at chr17:43899735-43899737
+cat is not mapped at chr17:43811672-43811674
+cat allele match to neither
+cat is not mapped at chr17:43792895-43792897
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43975416-43975418
+cat allele match to neither
+cat is not mapped at chr17:43932172-43932174
+cat is not mapped at chr17:43944203-43944205
+cat is not mapped at chr17:43920410-43920412
+cat is not mapped at chr17:43952943-43952945
+cat allele match to neither
+cat is not mapped at chr17:44003396-44003398
+cat is not mapped at chr17:44016461-44016463
+cat is not mapped at chr17:43959660-43959662
+cat is not mapped at chr17:43984863-43984865
+cat is not mapped at chr17:43934115-43934117
+cat is not mapped at chr17:43946317-43946319
+cat is not mapped at chr17:43969951-43969953
+cat is not mapped at chr17:43960811-43960813
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43999405-43999407
+cat is not mapped at chr17:43994434-43994436
+cat is not mapped at chr17:43966281-43966283
+cat is not mapped at chr17:43958078-43958080
+cat allele match to neither
+cat is not mapped at chr17:43963119-43963121
+cat is not mapped at chr17:43968873-43968875
+cat is not mapped at chr17:43992282-43992284
+cat is not mapped at chr17:43927289-43927291
+cat is not mapped at chr17:43987183-43987185
+cat allele match to neither
+cat is not mapped at chr17:43979621-43979623
+cat is not mapped at chr17:44007726-44007728
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43939394-43939396
+cat is not mapped at chr17:43956369-43956371
+cat is not mapped at chr17:43964566-43964568
+cat is not mapped at chr17:43950393-43950395
+cat is not mapped at chr17:44033001-44033003
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44133030-44133032
+cat is not mapped at chr17:44031419-44031421
+cat is not mapped at chr17:44095466-44095468
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44125703-44125705
+cat allele match to neither
+cat is not mapped at chr17:44084532-44084534
+cat is not mapped at chr17:44131558-44131560
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44047801-44047803
+cat allele match to neither
+cat is not mapped at chr17:44063722-44063724
+cat is not mapped at chr17:44075836-44075838
+cat allele match to neither
+cat is not mapped at chr17:44069375-44069377
+cat is not mapped at chr17:44114361-44114363
+cat is not mapped at chr17:44039409-44039411
+cat is not mapped at chr17:44145591-44145593
+cat is not mapped at chr17:44082440-44082442
+cat allele match to neither
+cat is not mapped at chr17:44034672-44034674
+cat allele match to neither
+cat is not mapped at chr17:44119473-44119475
+cat allele match to neither
+cat is not mapped at chr17:44066087-44066089
+cat is not mapped at chr17:44134390-44134392
+cat allele match to neither
+cat is not mapped at chr17:44028044-44028046
+cat is not mapped at chr17:44136802-44136804
+cat allele match to neither
+cat is not mapped at chr17:44093626-44093628
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44036461-44036463
+cat allele match to neither
+cat is not mapped at chr17:44090454-44090456
+cat is not mapped at chr17:44251697-44251699
+cat is not mapped at chr17:44203130-44203132
+cat allele match to neither
+cat is not mapped at chr17:44225233-44225235
+cat is not mapped at chr17:44244925-44244927
+cat is not mapped at chr17:44155156-44155158
+cat is not mapped at chr17:44213203-44213205
+cat is not mapped at chr17:44189909-44189911
+cat is not mapped at chr17:44262417-44262419
+cat is not mapped at chr17:44147598-44147600
+cat is not mapped at chr17:44221041-44221043
+cat is not mapped at chr17:44182180-44182182
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44168507-44168509
+cat allele match to neither
+cat is not mapped at chr17:44276012-44276014
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44188476-44188478
+cat is not mapped at chr17:44292318-44292320
+cat is not mapped at chr17:44172772-44172774
+cat allele match to neither
+cat is not mapped at chr17:44153625-44153627
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44159101-44159103
+cat is not mapped at chr17:44170237-44170239
+cat is not mapped at chr17:44231616-44231618
+cat is not mapped at chr17:44289627-44289629
+cat allele match to neither
+cat is not mapped at chr17:44201666-44201668
+cat is not mapped at chr17:44286088-44286090
+cat allele match to neither
+cat is not mapped at chr2:60741519-60741521
+cat allele match to neither
+cat is not mapped at chr17:44316448-44316450
+cat allele match to neither
+cat is not mapped at chr20:23340663-23340665
+cat allele match to neither
+cat is not mapped at chr19:50851758-50851760
+cat is not mapped at chr19:50855791-50855793
+cat is not mapped at chr2:241128221-241128223
+cat is not mapped at chr19:39079339-39079341
+cat is not mapped at chr19:14392306-14392308
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44343281-44343283
+cat allele match to neither
+cat is not mapped at chr19:4715015-4715017
+cat is not mapped at chr2:126525165-126525167
+cat is not mapped at chr19:49307314-49307316
+cat is not mapped at chr19:47017068-47017070
+cat is not mapped at chr17:44335751-44335753
+cat is not mapped at chr19:50872718-50872720
+cat allele match to neither
+cat is not mapped at chr17:44346673-44346675
+cat is not mapped at chr19:10475651-10475653
+cat allele match to neither
+cat is not mapped at chr21:34593709-34593711
+cat is not mapped at chr17:44787311-44787313
+cat allele match to neither
+cat is not mapped at chr20:46099734-46099736
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:8203750-8203752
+cat allele match to neither
+cat is not mapped at chr21:34609595-34609597
+cat allele match to neither
+cat is not mapped at chr2:240636245-240636247
+cat is not mapped at chr17:44353413-44353415
+cat is not mapped at chr17:47859859-47859861
+cat allele match to neither
+cat is not mapped at chr3:46174394-46174396
+cat is not mapped at chr3:46210511-46210513
+cat is not mapped at chr3:46120516-46120518
+cat is not mapped at chr3:46217739-46217741
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46190326-46190328
+cat is not mapped at chr3:46047031-46047033
+cat is not mapped at chr3:45838012-45838014
+cat allele match to neither
+cat is not mapped at chr3:45949752-45949754
+cat is not mapped at chr21:34632315-34632317
+cat is not mapped at chr3:45867439-45867441
+cat is not mapped at chr3:46052262-46052264
+cat is not mapped at chr3:46225994-46225996
+cat is not mapped at chr3:46186837-46186839
+cat is not mapped at chr3:46095335-46095337
+cat is not mapped at chr3:46201874-46201876
+cat is not mapped at chr3:46032846-46032848
+cat is not mapped at chr3:46080023-46080025
+cat is not mapped at chr3:46067506-46067508
+cat is not mapped at chr3:45983475-45983477
+cat is not mapped at chr3:46154271-46154273
+cat is not mapped at chr3:46056119-46056121
+cat is not mapped at chr3:46128712-46128714
+cat is not mapped at chr3:46082480-46082482
+cat is not mapped at chr3:46090556-46090558
+cat is not mapped at chr3:46016598-46016600
+cat is not mapped at chr3:46142031-46142033
+cat is not mapped at chr3:45846768-45846770
+cat is not mapped at chr3:46073313-46073315
+cat is not mapped at chr3:46111212-46111214
+cat is not mapped at chr3:27860663-27860665
+cat is not mapped at chr3:46039867-46039869
+cat is not mapped at chr3:46195880-46195882
+cat is not mapped at chr3:45674358-45674360
+cat is not mapped at chr3:45995747-45995749
+cat is not mapped at chr3:46085320-46085322
+cat is not mapped at chr3:101517023-101517025
+cat is not mapped at chr3:46573674-46573676
+cat is not mapped at chr3:46350055-46350057
+cat is not mapped at chr3:46292338-46292340
+cat is not mapped at chr3:46262110-46262112
+cat is not mapped at chr3:46475405-46475407
+cat is not mapped at chr3:46330421-46330423
+cat is not mapped at chr3:101474698-101474700
+cat allele match to neither
+cat is not mapped at chr3:101197189-101197191
+cat allele match to neither
+cat is not mapped at chr3:101466004-101466006
+cat is not mapped at chr3:69652765-69652767
+cat is not mapped at chr3:101274910-101274912
+cat is not mapped at chr3:101434448-101434450
+cat is not mapped at chr3:101360962-101360964
+cat is not mapped at chr3:101531379-101531381
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46333660-46333662
+cat is not mapped at chr3:101398918-101398920
+cat is not mapped at chr3:46455540-46455542
+cat is not mapped at chr3:46259295-46259297
+cat is not mapped at chr3:101328483-101328485
+cat is not mapped at chr3:46265534-46265536
+cat is not mapped at chr3:46392088-46392090
+cat allele match to neither
+cat is not mapped at chr3:58744586-58744588
+cat is not mapped at chr3:46272161-46272163
+cat allele match to neither
+cat is not mapped at chr3:46420798-46420800
+cat is not mapped at chr3:46235200-46235202
+cat is not mapped at chr3:101509045-101509047
+cat is not mapped at chr3:101453857-101453859
+cat is not mapped at chr3:46303696-46303698
+cat is not mapped at chr3:46435291-46435293
+cat is not mapped at chr3:46298115-46298117
+cat is not mapped at chr3:101419782-101419784
+cat is not mapped at chr3:46368689-46368691
+cat is not mapped at chr3:101373965-101373967
+cat is not mapped at chr3:46322712-46322714
+cat is not mapped at chr3:46402733-46402735
+cat is not mapped at chr3:46468860-46468862
+cat is not mapped at chr5:54086897-54086899
+cat is not mapped at chr8:29320275-29320277
+cat is not mapped at chr6:153868940-153868942
+cat is not mapped at chr5:17192016-17192018
+cat allele match to neither
+cat is not mapped at chr4:68829885-68829887
+cat is not mapped at chr9:113187048-113187050
+cat allele match to neither
+cat is not mapped at chr6:167624409-167624411
+cat is not mapped at chr5:4654760-4654762
+cat allele match to neither
+cat is not mapped at chr5:116130748-116130750
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr7:107607901-107607903
+cat is not mapped at chr9:136137132-136137134
+cat allele match to neither
+cat is not mapped at chr5:173955314-173955316
+cat is not mapped at chr3:197122813-197122815
+cat allele match to neither
+cat is not mapped at chr8:59910593-59910595
+cat is not mapped at chr8:26827520-26827522
+cat allele match to neither
+cat is not mapped at chr8:101370865-101370867
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr5:131740655-131740657
+cat is not mapped at chr8:26731441-26731443
+cat is not mapped at chr6:90393850-90393852
+cat is not mapped at chr5:13938361-13938363
+cat allele match to neither
+cat is not mapped at chr9:136149710-136149712
+human allele does not match to reference
+human allele does not match to reference
+cat allele match to neither
+cat is not mapped at chr9:136184797-136184799
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 270
+human allele match to reference alleles: 479
+cat allele match to reference alleles: 50        Rate: 10.351966873706004
+cat allele match to alternative alleles: 46      Rate: 9.523809523809524
+cat allele match to neither: 113         Rate: 23.395445134575567
+
+hg19/2_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+cat is not mapped at chr12:68094329-68094331
+cat allele match to neither
+cat is not mapped at chr11:28406586-28406588
+cat is not mapped at chr12:23015225-23015227
+cat is not mapped at chr1:65582403-65582405
+cat is not mapped at chr12:113365064-113365066
+cat is not mapped at chr12:68070863-68070865
+cat is not mapped at chr12:113364331-113364333
+cat is not mapped at chr11:97794443-97794445
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr11:23269921-23269923
+cat is not mapped at chr1:8758793-8758795
+cat is not mapped at chr11:97755802-97755804
+cat is not mapped at chr10:114358805-114358807
+cat is not mapped at chr12:48265537-48265539
+cat is not mapped at chr1:185244567-185244569
+cat is not mapped at chr1:65591574-65591576
+cat is not mapped at chr12:113367894-113367896
+cat allele match to neither
+cat is not mapped at chr12:113372865-113372867
+cat is not mapped at chr10:21568616-21568618
+cat is not mapped at chr11:34041730-34041732
+cat is not mapped at chr12:113376330-113376332
+cat allele match to neither
+cat is not mapped at chr11:88092068-88092070
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr1:155123616-155123618
+cat is not mapped at chr1:65588977-65588979
+cat is not mapped at chr11:1065790-1065792
+cat is not mapped at chr12:113363076-113363078
+cat is not mapped at chr1:65586153-65586155
+cat is not mapped at chr12:113380270-113380272
+cat is not mapped at chr1:188492575-188492577
+cat is not mapped at chr1:237404866-237404868
+cat allele match to neither
+cat is not mapped at chr1:228413634-228413636
+cat is not mapped at chr12:113365827-113365829
+cat is not mapped at chr12:113369758-113369760
+cat is not mapped at chr12:113385245-113385247
+cat is not mapped at chr1:3745131-3745133
+cat is not mapped at chr1:2333030-2333032
+cat allele match to neither
+cat is not mapped at chr12:113360024-113360026
+cat is not mapped at chr17:43722508-43722510
+cat is not mapped at chr12:113424500-113424502
+cat is not mapped at chr17:43730597-43730599
+cat is not mapped at chr17:43764986-43764988
+cat is not mapped at chr17:43715923-43715925
+cat is not mapped at chr17:43707950-43707952
+cat is not mapped at chr17:43762845-43762847
+cat is not mapped at chr17:4955923-4955925
+cat is not mapped at chr17:43761481-43761483
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:128093988-128093990
+cat allele match to neither
+cat is not mapped at chr16:56188969-56188971
+cat is not mapped at chr17:43770442-43770444
+cat is not mapped at chr17:43693537-43693539
+cat is not mapped at chr12:113394018-113394020
+cat is not mapped at chr17:43668016-43668018
+cat allele match to neither
+cat is not mapped at chr15:26559493-26559495
+cat is not mapped at chr14:28735075-28735077
+cat is not mapped at chr12:113406459-113406461
+cat is not mapped at chr17:43735275-43735277
+cat is not mapped at chr17:43748045-43748047
+cat is not mapped at chr17:43758237-43758239
+cat allele match to neither
+cat is not mapped at chr14:43470035-43470037
+cat allele match to neither
+cat is not mapped at chr15:49514284-49514286
+cat is not mapped at chr16:3213514-3213516
+cat allele match to neither
+cat is not mapped at chr17:43741027-43741029
+cat allele match to neither
+cat is not mapped at chr15:49454017-49454019
+cat allele match to neither
+cat is not mapped at chr13:113535740-113535742
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43846667-43846669
+cat is not mapped at chr17:43899785-43899787
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43858306-43858308
+cat is not mapped at chr17:43820740-43820742
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43794285-43794287
+cat is not mapped at chr17:43798159-43798161
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43782491-43782493
+cat is not mapped at chr17:43807954-43807956
+cat is not mapped at chr17:43790910-43790912
+cat is not mapped at chr17:43811791-43811793
+cat is not mapped at chr17:43913557-43913559
+cat is not mapped at chr17:43838677-43838679
+cat is not mapped at chr17:43792974-43792976
+cat is not mapped at chr17:43849895-43849897
+cat is not mapped at chr17:43834073-43834075
+cat allele match to neither
+cat is not mapped at chr17:43968936-43968938
+cat is not mapped at chr17:44003445-44003447
+cat is not mapped at chr17:43959751-43959753
+cat is not mapped at chr17:43958098-43958100
+cat is not mapped at chr17:43994622-43994624
+cat allele match to neither
+cat is not mapped at chr17:43946422-43946424
+cat is not mapped at chr17:43956389-43956391
+cat is not mapped at chr17:43979821-43979823
+cat is not mapped at chr17:43992304-43992306
+cat allele match to neither
+cat is not mapped at chr17:43960910-43960912
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44005614-44005616
+cat allele match to neither
+cat is not mapped at chr17:43939398-43939400
+cat allele match to neither
+cat is not mapped at chr17:44012988-44012990
+cat is not mapped at chr17:43964754-43964756
+cat is not mapped at chr17:43950440-43950442
+cat is not mapped at chr17:43976063-43976065
+cat is not mapped at chr17:43966607-43966609
+cat is not mapped at chr17:43932276-43932278
+cat allele match to neither
+cat is not mapped at chr17:43934313-43934315
+cat is not mapped at chr17:43953015-43953017
+cat is not mapped at chr17:44007763-44007765
+cat is not mapped at chr17:43963281-43963283
+cat is not mapped at chr17:43936803-43936805
+cat is not mapped at chr17:43999528-43999530
+cat is not mapped at chr17:43969994-43969996
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44014383-44014385
+cat is not mapped at chr17:43927707-43927709
+cat is not mapped at chr17:43920973-43920975
+cat is not mapped at chr17:44063765-44063767
+cat is not mapped at chr17:44099668-44099670
+cat is not mapped at chr17:44122895-44122897
+cat is not mapped at chr17:44109247-44109249
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44066171-44066173
+cat is not mapped at chr17:44072016-44072018
+cat allele match to neither
+cat is not mapped at chr17:44093859-44093861
+cat is not mapped at chr17:44042782-44042784
+cat is not mapped at chr17:44145859-44145861
+cat is not mapped at chr17:44134909-44134911
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44036786-44036788
+cat is not mapped at chr17:44082445-44082447
+cat is not mapped at chr17:44084675-44084677
+cat is not mapped at chr17:44031539-44031541
+cat is not mapped at chr17:44048322-44048324
+cat is not mapped at chr17:44068237-44068239
+cat is not mapped at chr17:44126217-44126219
+cat is not mapped at chr17:44119635-44119637
+cat is not mapped at chr17:44075900-44075902
+cat is not mapped at chr17:44133069-44133071
+cat is not mapped at chr17:44039515-44039517
+cat is not mapped at chr17:44131591-44131593
+cat is not mapped at chr17:44028182-44028184
+cat allele match to neither
+cat is not mapped at chr17:44114363-44114365
+cat is not mapped at chr17:44079720-44079722
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44137069-44137071
+cat is not mapped at chr17:44139761-44139763
+cat is not mapped at chr17:44033131-44033133
+cat is not mapped at chr17:44090535-44090537
+cat is not mapped at chr17:44263478-44263480
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44286127-44286129
+cat is not mapped at chr17:44293019-44293021
+cat is not mapped at chr17:44164089-44164091
+cat is not mapped at chr17:44282891-44282893
+cat allele match to neither
+cat is not mapped at chr17:44191084-44191086
+cat is not mapped at chr17:44182335-44182337
+cat is not mapped at chr17:44170413-44170415
+cat is not mapped at chr17:44305025-44305027
+cat allele match to neither
+cat is not mapped at chr17:44251768-44251770
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44153835-44153837
+cat is not mapped at chr17:44168676-44168678
+cat is not mapped at chr17:44188644-44188646
+cat is not mapped at chr17:44225484-44225486
+cat is not mapped at chr17:44217111-44217113
+cat is not mapped at chr17:44147720-44147722
+cat is not mapped at chr17:44279100-44279102
+cat is not mapped at chr17:44201679-44201681
+cat allele match to neither
+cat is not mapped at chr17:44177668-44177670
+cat is not mapped at chr17:44266226-44266228
+cat is not mapped at chr17:44193881-44193883
+cat allele match to neither
+cat is not mapped at chr17:44289831-44289833
+cat is not mapped at chr17:44245765-44245767
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44173178-44173180
+cat is not mapped at chr21:34595254-34595256
+cat is not mapped at chr20:23318462-23318464
+cat is not mapped at chr19:49302285-49302287
+cat allele match to neither
+cat is not mapped at chr17:44343290-44343292
+cat is not mapped at chr17:47868920-47868922
+cat is not mapped at chr19:8328012-8328014
+cat is not mapped at chr19:50874161-50874163
+cat is not mapped at chr21:34574056-34574058
+cat is not mapped at chr19:53626512-53626514
+cat is not mapped at chr2:126530123-126530125
+cat is not mapped at chr17:77405807-77405809
+cat is not mapped at chr17:44338966-44338968
+cat allele match to neither
+cat is not mapped at chr17:44787312-44787314
+cat is not mapped at chr19:50852275-50852277
+cat is not mapped at chr19:39081955-39081957
+cat is not mapped at chr2:126473491-126473493
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:14407432-14407434
+cat allele match to neither
+cat is not mapped at chr20:23359545-23359547
+cat allele match to neither
+cat is not mapped at chr17:44316887-44316889
+cat is not mapped at chr19:50855877-50855879
+cat allele match to neither
+cat is not mapped at chr19:4686052-4686054
+cat is not mapped at chr2:241128301-241128303
+cat is not mapped at chr18:8431492-8431494
+cat is not mapped at chr2:103875474-103875476
+cat is not mapped at chr19:49307938-49307940
+cat allele match to neither
+cat is not mapped at chr2:166918292-166918294
+cat is not mapped at chr19:10477066-10477068
+cat is not mapped at chr18:68809909-68809911
+cat is not mapped at chr3:46012278-46012280
+cat is not mapped at chr3:46197285-46197287
+cat is not mapped at chr3:46073922-46073924
+cat is not mapped at chr3:46052799-46052801
+cat is not mapped at chr3:46202211-46202213
+cat is not mapped at chr21:35322057-35322059
+cat is not mapped at chr3:46187117-46187119
+cat is not mapped at chr3:45932406-45932408
+cat is not mapped at chr3:46154456-46154458
+cat is not mapped at chr3:46111758-46111760
+cat is not mapped at chr3:46086082-46086084
+cat is not mapped at chr3:45996046-45996048
+cat is not mapped at chr3:46080175-46080177
+cat is not mapped at chr3:46068324-46068326
+cat is not mapped at chr3:46190373-46190375
+cat is not mapped at chr3:45985346-45985348
+cat is not mapped at chr3:45737712-45737714
+cat is not mapped at chr3:46047043-46047045
+cat is not mapped at chr3:46211059-46211061
+cat is not mapped at chr3:46096042-46096044
+cat is not mapped at chr3:46056161-46056163
+cat is not mapped at chr3:45951646-45951648
+cat is not mapped at chr3:39040453-39040455
+cat is not mapped at chr3:46174604-46174606
+cat allele match to neither
+cat is not mapped at chr3:46018276-46018278
+cat is not mapped at chr3:46033818-46033820
+cat is not mapped at chr3:45847240-45847242
+cat is not mapped at chr3:46006340-46006342
+cat is not mapped at chr3:46071462-46071464
+cat allele match to neither
+cat is not mapped at chr3:46083200-46083202
+cat is not mapped at chr21:34634044-34634046
+cat is not mapped at chr3:46131224-46131226
+cat is not mapped at chr3:46226164-46226166
+cat is not mapped at chr3:46040677-46040679
+cat is not mapped at chr3:46123042-46123044
+cat is not mapped at chr3:46253978-46253980
+cat is not mapped at chr3:101455965-101455967
+cat is not mapped at chr3:101434918-101434920
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:101306998-101307000
+cat is not mapped at chr3:46293298-46293300
+cat is not mapped at chr3:101336379-101336381
+cat is not mapped at chr3:101361505-101361507
+cat is not mapped at chr3:46460162-46460164
+cat is not mapped at chr3:101142820-101142822
+cat is not mapped at chr3:101474932-101474934
+cat is not mapped at chr3:46386131-46386133
+cat is not mapped at chr3:46330441-46330443
+cat allele match to neither
+cat is not mapped at chr3:46378308-46378310
+cat is not mapped at chr3:101466468-101466470
+cat is not mapped at chr3:101216020-101216022
+cat is not mapped at chr3:101509370-101509372
+cat is not mapped at chr3:46370803-46370805
+cat allele match to neither
+cat is not mapped at chr3:46476709-46476711
+cat is not mapped at chr3:46259914-46259916
+cat is not mapped at chr3:46403239-46403241
+cat is not mapped at chr3:58793719-58793721
+cat is not mapped at chr3:101393293-101393295
+cat is not mapped at chr3:46468979-46468981
+cat is not mapped at chr3:101423138-101423140
+cat is not mapped at chr3:46298372-46298374
+cat is not mapped at chr3:46239648-46239650
+cat is not mapped at chr3:46272439-46272441
+cat is not mapped at chr3:46422644-46422646
+cat is not mapped at chr3:46334845-46334847
+cat allele match to neither
+cat is not mapped at chr3:46313691-46313693
+cat allele match to neither
+cat is not mapped at chr3:46265579-46265581
+cat is not mapped at chr3:69661408-69661410
+cat is not mapped at chr3:46392130-46392132
+cat allele match to neither
+cat is not mapped at chr3:101275901-101275903
+cat is not mapped at chr9:3274740-3274742
+cat is not mapped at chr8:26827553-26827555
+cat allele match to neither
+cat is not mapped at chr5:13935682-13935684
+cat is not mapped at chr5:4655348-4655350
+cat is not mapped at chr6:158968867-158968869
+cat is not mapped at chr5:127820536-127820538
+cat is not mapped at chr7:139665314-139665316
+cat allele match to neither
+cat is not mapped at chr9:136117114-136117116
+cat is not mapped at chr7:1830115-1830117
+cat is not mapped at chr9:86335338-86335340
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr5:13938366-13938368
+cat is not mapped at chr7:150479572-150479574
+cat is not mapped at chr9:113187398-113187400
+cat is not mapped at chr6:90587950-90587952
+cat is not mapped at chr4:896252-896254
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr7:75937326-75937328
+cat is not mapped at chr8:29321086-29321088
+cat is not mapped at chr4:69607819-69607821
+cat is not mapped at chr8:26816005-26816007
+cat is not mapped at chr9:136137139-136137141
+cat is not mapped at chr5:30823813-30823815
+cat is not mapped at chr8:104115220-104115222
+cat is not mapped at chr5:17192097-17192099
+cat allele match to neither
+cat is not mapped at chr8:63408371-63408373
+cat is not mapped at chr3:146406980-146406982
+cat is not mapped at chr5:161385928-161385930
+cat allele match to neither
+human allele does not match to reference
+cat is not mapped at chr9:136185323-136185325
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 283
+human allele match to reference alleles: 485
+cat allele match to reference alleles: 63        Rate: 12.883435582822086
+cat allele match to alternative alleles: 46      Rate: 9.406952965235174
+cat allele match to neither: 91  Rate: 18.609406952965234
+
+hg19/3_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+cat is not mapped at chr12:113360301-113360303
+cat is not mapped at chr1:228414931-228414933
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr12:56883677-56883679
+cat is not mapped at chr12:28987377-28987379
+cat is not mapped at chr1:155130797-155130799
+cat is not mapped at chr12:113358105-113358107
+cat is not mapped at chr12:113366048-113366050
+cat is not mapped at chr1:233791468-233791470
+cat is not mapped at chr11:97784663-97784665
+cat allele match to neither
+cat is not mapped at chr11:23330365-23330367
+cat is not mapped at chr11:97757780-97757782
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr1:154810015-154810017
+cat is not mapped at chr12:113385917-113385919
+cat is not mapped at chr1:188492835-188492837
+cat is not mapped at chr1:65576961-65576963
+cat is not mapped at chr12:113365147-113365149
+cat is not mapped at chr12:113363108-113363110
+cat allele match to neither
+cat is not mapped at chr1:65586539-65586541
+cat is not mapped at chr1:65589832-65589834
+cat is not mapped at chr12:113370426-113370428
+cat is not mapped at chr1:247816748-247816750
+cat is not mapped at chr11:97795431-97795433
+cat allele match to neither
+cat is not mapped at chr12:113380528-113380530
+cat is not mapped at chr1:8873010-8873012
+cat is not mapped at chr12:113364374-113364376
+cat allele match to neither
+cat is not mapped at chr12:113376387-113376389
+cat is not mapped at chr12:113368029-113368031
+cat is not mapped at chr12:113372960-113372962
+cat allele match to neither
+cat is not mapped at chr11:1067617-1067619
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43758381-43758383
+cat is not mapped at chr17:43716884-43716886
+cat is not mapped at chr15:49458282-49458284
+cat is not mapped at chr17:43748100-43748102
+cat is not mapped at chr13:113540424-113540426
+cat allele match to neither
+cat is not mapped at chr12:113395456-113395458
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43572418-43572420
+cat is not mapped at chr17:43712336-43712338
+cat is not mapped at chr16:52380470-52380472
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43763006-43763008
+cat is not mapped at chr16:56124222-56124224
+cat is not mapped at chr17:43730635-43730637
+cat is not mapped at chr17:43765079-43765081
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr16:3214963-3214965
+cat is not mapped at chr17:43707954-43707956
+cat is not mapped at chr17:43671098-43671100
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43770524-43770526
+cat is not mapped at chr14:52904213-52904215
+cat is not mapped at chr14:28737459-28737461
+cat is not mapped at chr17:43754098-43754100
+cat allele match to neither
+cat is not mapped at chr17:43798359-43798361
+cat allele match to neither
+cat is not mapped at chr17:43802524-43802526
+cat allele match to neither
+cat is not mapped at chr17:43792098-43792100
+cat allele match to neither
+cat is not mapped at chr17:43838709-43838711
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43846819-43846821
+cat is not mapped at chr17:43900080-43900082
+cat is not mapped at chr17:43791180-43791182
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43824347-43824349
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43794827-43794829
+cat allele match to neither
+cat is not mapped at chr17:43898962-43898964
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43813369-43813371
+cat allele match to neither
+cat is not mapped at chr17:43834313-43834315
+cat is not mapped at chr17:43793199-43793201
+cat is not mapped at chr17:43858325-43858327
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43811949-43811951
+cat is not mapped at chr17:43816305-43816307
+cat allele match to neither
+cat is not mapped at chr17:43966748-43966750
+cat is not mapped at chr17:43948732-43948734
+cat is not mapped at chr17:43936811-43936813
+cat allele match to neither
+cat is not mapped at chr17:43958138-43958140
+cat is not mapped at chr17:43934671-43934673
+cat is not mapped at chr17:43956424-43956426
+cat is not mapped at chr17:43921209-43921211
+cat is not mapped at chr17:43987800-43987802
+cat is not mapped at chr17:43994647-43994649
+cat allele match to neither
+cat is not mapped at chr17:43959917-43959919
+cat is not mapped at chr17:43950532-43950534
+cat is not mapped at chr17:44003598-44003600
+cat allele match to neither
+cat is not mapped at chr17:43939431-43939433
+cat is not mapped at chr17:43942819-43942821
+cat is not mapped at chr17:44006084-44006086
+cat is not mapped at chr17:43964898-43964900
+cat is not mapped at chr17:43953042-43953044
+cat is not mapped at chr17:43970107-43970109
+cat is not mapped at chr17:43960917-43960919
+cat is not mapped at chr17:43932380-43932382
+cat allele match to neither
+cat is not mapped at chr17:43968993-43968995
+cat is not mapped at chr17:43946535-43946537
+cat allele match to neither
+cat is not mapped at chr17:44009875-44009877
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43963415-43963417
+cat is not mapped at chr17:44011072-44011074
+cat allele match to neither
+cat is not mapped at chr17:44137188-44137190
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44146164-44146166
+cat is not mapped at chr17:44134983-44134985
+cat is not mapped at chr17:44056237-44056239
+cat is not mapped at chr17:44048335-44048337
+cat is not mapped at chr17:44133141-44133143
+cat is not mapped at chr17:44129799-44129801
+cat is not mapped at chr17:44120441-44120443
+cat is not mapped at chr17:44090537-44090539
+cat is not mapped at chr17:44031945-44031947
+cat allele match to neither
+cat is not mapped at chr17:44084843-44084845
+cat is not mapped at chr17:44114371-44114373
+cat allele match to neither
+cat is not mapped at chr17:44143343-44143345
+cat is not mapped at chr17:44126364-44126366
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44033168-44033170
+cat is not mapped at chr17:44099808-44099810
+cat is not mapped at chr17:44036913-44036915
+cat is not mapped at chr17:44072040-44072042
+cat is not mapped at chr17:44063786-44063788
+cat is not mapped at chr17:44140340-44140342
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44023086-44023088
+cat is not mapped at chr17:44042867-44042869
+cat is not mapped at chr17:44131621-44131623
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44093963-44093965
+cat is not mapped at chr17:44194151-44194153
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44191158-44191160
+cat is not mapped at chr17:44148266-44148268
+cat is not mapped at chr17:44245875-44245877
+cat allele match to neither
+cat is not mapped at chr17:44233432-44233434
+cat allele match to neither
+cat is not mapped at chr17:44293204-44293206
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44279251-44279253
+cat is not mapped at chr17:44153908-44153910
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44283021-44283023
+cat is not mapped at chr17:44173355-44173357
+cat is not mapped at chr17:44164132-44164134
+cat allele match to neither
+cat is not mapped at chr17:44169376-44169378
+cat is not mapped at chr17:44201790-44201792
+cat is not mapped at chr17:44266289-44266291
+cat is not mapped at chr17:44186054-44186056
+cat is not mapped at chr17:44276577-44276579
+cat is not mapped at chr17:44217225-44217227
+cat is not mapped at chr17:44237789-44237791
+cat is not mapped at chr17:44305198-44305200
+cat is not mapped at chr17:44182705-44182707
+cat allele match to neither
+cat is not mapped at chr17:44170611-44170613
+cat is not mapped at chr17:44263728-44263730
+cat is not mapped at chr17:44258913-44258915
+cat is not mapped at chr17:44242787-44242789
+cat is not mapped at chr17:44166196-44166198
+cat is not mapped at chr17:44188754-44188756
+cat is not mapped at chr20:23436279-23436281
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:10492273-10492275
+cat allele match to neither
+cat is not mapped at chr17:77407111-77407113
+cat is not mapped at chr20:46103127-46103129
+cat is not mapped at chr17:44317102-44317104
+cat allele match to neither
+cat is not mapped at chr17:68741824-68741826
+cat allele match to neither
+cat is not mapped at chr18:8437665-8437667
+cat is not mapped at chr19:49312999-49313001
+cat is not mapped at chr19:50853351-50853353
+cat is not mapped at chr19:39112861-39112863
+cat is not mapped at chr19:50856334-50856336
+cat is not mapped at chr18:59820819-59820821
+cat allele match to neither
+cat is not mapped at chr17:44339407-44339409
+cat is not mapped at chr21:34610486-34610488
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr21:34596749-34596751
+cat is not mapped at chr21:34614833-34614835
+cat is not mapped at chr18:36921850-36921852
+cat is not mapped at chr19:39067176-39067178
+cat is not mapped at chr2:42729614-42729616
+cat is not mapped at chr19:50874793-50874795
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr2:68145270-68145272
+cat allele match to neither
+cat is not mapped at chr19:49302322-49302324
+cat is not mapped at chr19:10423337-10423339
+cat is not mapped at chr3:46086223-46086225
+cat is not mapped at chr21:44747208-44747210
+cat allele match to neither
+cat is not mapped at chr3:46096797-46096799
+cat is not mapped at chr3:46213593-46213595
+cat is not mapped at chr21:35323835-35323837
+cat is not mapped at chr3:46202236-46202238
+cat is not mapped at chr3:45936944-45936946
+cat is not mapped at chr3:46198070-46198072
+cat is not mapped at chr3:46047657-46047659
+cat is not mapped at chr3:46041581-46041583
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46091057-46091059
+cat allele match to neither
+cat is not mapped at chr3:46111868-46111870
+cat is not mapped at chr3:46083356-46083358
+cat is not mapped at chr21:34634877-34634879
+cat is not mapped at chr3:46226645-46226647
+cat is not mapped at chr3:46035096-46035098
+cat is not mapped at chr3:46056172-46056174
+cat is not mapped at chr3:46053580-46053582
+cat is not mapped at chr3:46191025-46191027
+cat is not mapped at chr3:46219832-46219834
+cat is not mapped at chr3:46174693-46174695
+cat is not mapped at chr3:46123054-46123056
+cat is not mapped at chr3:46080911-46080913
+cat is not mapped at chr3:46074710-46074712
+cat is not mapped at chr3:45996500-45996502
+cat allele match to neither
+cat is not mapped at chr3:45848759-45848761
+cat is not mapped at chr3:46018343-46018345
+cat is not mapped at chr3:46187705-46187707
+cat is not mapped at chr3:46169039-46169041
+cat is not mapped at chr3:46071762-46071764
+cat is not mapped at chr3:46068472-46068474
+cat is not mapped at chr3:101424457-101424459
+cat is not mapped at chr3:51932001-51932003
+cat is not mapped at chr3:46423665-46423667
+cat is not mapped at chr3:46381506-46381508
+cat allele match to neither
+cat is not mapped at chr3:101279005-101279007
+cat is not mapped at chr3:101509474-101509476
+cat is not mapped at chr3:101337862-101337864
+cat is not mapped at chr3:100822717-100822719
+cat is not mapped at chr3:46392975-46392977
+cat allele match to neither
+cat is not mapped at chr3:46371580-46371582
+cat is not mapped at chr3:46469383-46469385
+cat is not mapped at chr3:46460262-46460264
+cat is not mapped at chr3:46247455-46247457
+cat is not mapped at chr3:101308873-101308875
+cat allele match to neither
+cat is not mapped at chr3:101470235-101470237
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46265853-46265855
+cat is not mapped at chr3:46386856-46386858
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:101393295-101393297
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46305440-46305442
+cat is not mapped at chr3:46272455-46272457
+cat is not mapped at chr3:101374703-101374705
+cat is not mapped at chr3:101519020-101519022
+cat is not mapped at chr3:46254790-46254792
+cat is not mapped at chr3:46240171-46240173
+cat allele match to neither
+cat is not mapped at chr3:58793724-58793726
+cat is not mapped at chr3:46315656-46315658
+cat is not mapped at chr3:101456683-101456685
+cat is not mapped at chr3:46293783-46293785
+cat is not mapped at chr3:46298376-46298378
+cat is not mapped at chr3:46259957-46259959
+cat is not mapped at chr3:46355491-46355493
+cat is not mapped at chr3:69685474-69685476
+cat is not mapped at chr3:101435224-101435226
+cat is not mapped at chr9:5682955-5682957
+cat is not mapped at chr7:118628308-118628310
+cat is not mapped at chr7:139666053-139666055
+cat is not mapped at chr8:11675010-11675012
+cat is not mapped at chr3:168355090-168355092
+cat is not mapped at chr9:110759720-110759722
+cat is not mapped at chr6:9957361-9957363
+cat is not mapped at chr8:26817699-26817701
+cat allele match to neither
+cat is not mapped at chr8:125366132-125366134
+cat is not mapped at chr6:163302724-163302726
+cat is not mapped at chr5:13938575-13938577
+cat is not mapped at chr8:29307520-29307522
+cat is not mapped at chr5:4655827-4655829
+cat is not mapped at chr7:88673611-88673613
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr6:31121380-31121382
+cat is not mapped at chr7:50716055-50716057
+cat is not mapped at chr5:54092504-54092506
+cat is not mapped at chr3:197127008-197127010
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr5:161434941-161434943
+cat is not mapped at chr7:150482687-150482689
+cat is not mapped at chr4:69615098-69615100
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr9:86549938-86549940
+cat is not mapped at chr5:17192206-17192208
+cat is not mapped at chr9:136138228-136138230
+cat is not mapped at chr5:127822351-127822353
+cat is not mapped at chr5:30824045-30824047
+cat is not mapped at chr4:7757547-7757549
+cat allele match to neither
+cat is not mapped at chr6:91934273-91934275
+cat is not mapped at chr8:68776626-68776628
+cat allele match to neither
+cat is not mapped at chr7:75937600-75937602
+cat is not mapped at chr9:113187720-113187722
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+cat is not mapped at chr9:136317326-136317328
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 259
+human allele match to reference alleles: 476
+cat allele match to reference alleles: 53        Rate: 11.041666666666666
+cat allele match to alternative alleles: 53      Rate: 11.041666666666666
+cat allele match to neither: 109         Rate: 22.708333333333332
+
+hg19/4_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+cat is not mapped at chr1:65591955-65591957
+cat is not mapped at chr11:34491313-34491315
+cat is not mapped at chr12:113372976-113372978
+cat allele match to neither
+cat is not mapped at chr1:155153536-155153538
+cat is not mapped at chr12:113363177-113363179
+cat allele match to neither
+cat is not mapped at chr1:65587027-65587029
+cat allele match to neither
+cat is not mapped at chr1:71969016-71969018
+cat is not mapped at chr12:113364381-113364383
+cat is not mapped at chr12:28987479-28987481
+cat allele match to neither
+cat is not mapped at chr11:1068701-1068703
+cat is not mapped at chr12:113365160-113365162
+cat is not mapped at chr1:65577914-65577916
+cat is not mapped at chr12:113370965-113370967
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr1:155040653-155040655
+cat is not mapped at chr11:97784939-97784941
+cat is not mapped at chr11:23361698-23361700
+cat is not mapped at chr1:247837530-247837532
+cat is not mapped at chr11:28413092-28413094
+cat is not mapped at chr12:113358790-113358792
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113368054-113368056
+cat is not mapped at chr11:88587807-88587809
+cat is not mapped at chr1:228415500-228415502
+cat is not mapped at chr12:56890006-56890008
+cat is not mapped at chr11:97796382-97796384
+cat is not mapped at chr12:113366690-113366692
+cat is not mapped at chr12:113376451-113376453
+cat is not mapped at chr1:188492964-188492966
+cat allele match to neither
+cat is not mapped at chr11:97758119-97758121
+cat is not mapped at chr12:113360467-113360469
+cat is not mapped at chr12:113386949-113386951
+cat is not mapped at chr12:113380707-113380709
+cat allele match to neither
+cat is not mapped at chr1:188467356-188467358
+cat is not mapped at chr1:2337536-2337538
+cat allele match to neither
+cat is not mapped at chr1:65589946-65589948
+cat allele match to neither
+cat is not mapped at chr15:26562152-26562154
+cat is not mapped at chr17:43735554-43735556
+cat allele match to neither
+cat is not mapped at chr17:43572895-43572897
+cat is not mapped at chr16:3215261-3215263
+cat is not mapped at chr16:56138608-56138610
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr13:113540648-113540650
+cat allele match to neither
+cat is not mapped at chr17:43770594-43770596
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113406944-113406946
+cat allele match to neither
+cat is not mapped at chr15:49465580-49465582
+cat allele match to neither
+cat is not mapped at chr13:28817996-28817998
+cat is not mapped at chr17:43754208-43754210
+cat is not mapped at chr12:133057291-133057293
+cat is not mapped at chr17:43683610-43683612
+cat allele match to neither
+cat is not mapped at chr17:43760191-43760193
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113395703-113395705
+cat is not mapped at chr14:28741380-28741382
+cat allele match to neither
+cat is not mapped at chr17:43704418-43704420
+cat is not mapped at chr17:43748411-43748413
+cat is not mapped at chr17:43743044-43743046
+cat allele match to neither
+cat is not mapped at chr17:43798400-43798402
+cat is not mapped at chr17:43838719-43838721
+cat is not mapped at chr17:43900433-43900435
+cat is not mapped at chr17:43824381-43824383
+cat is not mapped at chr17:43791331-43791333
+cat allele match to neither
+cat is not mapped at chr17:43850644-43850646
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43792251-43792253
+cat is not mapped at chr17:43895652-43895654
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43894101-43894103
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43847038-43847040
+cat is not mapped at chr17:43808320-43808322
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43945494-43945496
+cat is not mapped at chr17:44003892-44003894
+cat is not mapped at chr17:44011525-44011527
+cat is not mapped at chr17:43946641-43946643
+cat allele match to neither
+cat is not mapped at chr17:43940824-43940826
+cat is not mapped at chr17:43939608-43939610
+cat is not mapped at chr17:44020281-44020283
+cat is not mapped at chr17:43956504-43956506
+cat is not mapped at chr17:43969018-43969020
+cat is not mapped at chr17:43970153-43970155
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43990661-43990663
+cat allele match to neither
+cat is not mapped at chr17:43942999-43943001
+cat is not mapped at chr17:43958171-43958173
+cat is not mapped at chr17:43937103-43937105
+cat allele match to neither
+cat is not mapped at chr17:43934775-43934777
+cat is not mapped at chr17:44009920-44009922
+cat is not mapped at chr17:43948976-43948978
+cat is not mapped at chr17:43966794-43966796
+cat is not mapped at chr17:43976643-43976645
+cat is not mapped at chr17:43960019-43960021
+cat is not mapped at chr17:43988204-43988206
+cat is not mapped at chr17:44006129-44006131
+cat is not mapped at chr17:43963843-43963845
+cat is not mapped at chr17:43965062-43965064
+cat allele match to neither
+cat is not mapped at chr17:43953169-43953171
+cat is not mapped at chr17:43960996-43960998
+cat is not mapped at chr17:44072422-44072424
+cat is not mapped at chr17:44126574-44126576
+cat is not mapped at chr17:44129884-44129886
+cat is not mapped at chr17:44131716-44131718
+cat is not mapped at chr17:44036935-44036937
+cat is not mapped at chr17:44076664-44076666
+cat is not mapped at chr17:44085742-44085744
+cat is not mapped at chr17:44025346-44025348
+cat is not mapped at chr17:44110270-44110272
+cat is not mapped at chr17:44093992-44093994
+cat is not mapped at chr17:44042938-44042940
+cat allele match to neither
+cat is not mapped at chr17:44035366-44035368
+cat is not mapped at chr17:44123684-44123686
+cat is not mapped at chr17:44096485-44096487
+cat is not mapped at chr17:44040119-44040121
+cat is not mapped at chr17:44133161-44133163
+cat allele match to neither
+cat is not mapped at chr17:44091987-44091989
+cat is not mapped at chr17:44137310-44137312
+cat is not mapped at chr17:44033187-44033189
+cat allele match to neither
+cat is not mapped at chr17:44032072-44032074
+cat allele match to neither
+cat is not mapped at chr17:44099826-44099828
+cat is not mapped at chr17:44143483-44143485
+cat is not mapped at chr17:44080407-44080409
+cat is not mapped at chr17:44135025-44135027
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44146335-44146337
+cat is not mapped at chr17:44089714-44089716
+cat allele match to neither
+cat is not mapped at chr17:44048349-44048351
+cat is not mapped at chr17:44066994-44066996
+cat is not mapped at chr17:44233588-44233590
+cat is not mapped at chr17:44201864-44201866
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44182916-44182918
+cat is not mapped at chr17:44294785-44294787
+cat is not mapped at chr17:44305251-44305253
+cat allele match to neither
+cat is not mapped at chr17:44188763-44188765
+cat allele match to neither
+cat is not mapped at chr17:44194380-44194382
+cat allele match to neither
+cat is not mapped at chr17:44191681-44191683
+cat is not mapped at chr17:44154032-44154034
+cat is not mapped at chr17:44283138-44283140
+cat allele match to neither
+cat is not mapped at chr17:44290758-44290760
+cat is not mapped at chr17:44169405-44169407
+cat is not mapped at chr17:44258953-44258955
+cat is not mapped at chr17:44173407-44173409
+cat is not mapped at chr17:44152446-44152448
+cat is not mapped at chr17:44266530-44266532
+cat is not mapped at chr17:44164322-44164324
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44226029-44226031
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44242968-44242970
+cat is not mapped at chr17:44203412-44203414
+cat is not mapped at chr17:70318749-70318751
+cat is not mapped at chr21:34614986-34614988
+cat allele match to neither
+cat is not mapped at chr19:293071-293073
+cat is not mapped at chr21:34605777-34605779
+cat allele match to neither
+cat is not mapped at chr2:240690840-240690842
+cat is not mapped at chr2:167974761-167974763
+cat is not mapped at chr17:47903145-47903147
+cat is not mapped at chr19:46173213-46173215
+cat is not mapped at chr19:10423814-10423816
+cat is not mapped at chr21:34589269-34589271
+cat is not mapped at chr18:8439404-8439406
+cat allele match to neither
+cat is not mapped at chr19:50864720-50864722
+cat is not mapped at chr2:126555103-126555105
+cat is not mapped at chr21:34611317-34611319
+cat is not mapped at chr21:34598384-34598386
+cat allele match to neither
+cat is not mapped at chr19:10496620-10496622
+cat is not mapped at chr20:46106930-46106932
+cat allele match to neither
+cat is not mapped at chr19:49317709-49317711
+cat is not mapped at chr19:50875684-50875686
+cat allele match to neither
+cat is not mapped at chr19:39067426-39067428
+cat allele match to neither
+cat is not mapped at chr17:44318183-44318185
+cat is not mapped at chr19:50853645-50853647
+cat is not mapped at chr17:44348220-44348222
+cat is not mapped at chr2:188276617-188276619
+cat allele match to neither
+cat is not mapped at chr2:126512950-126512952
+cat is not mapped at chr19:39094247-39094249
+cat is not mapped at chr2:45281540-45281542
+cat is not mapped at chr17:44339472-44339474
+cat allele match to neither
+cat is not mapped at chr19:4692353-4692355
+cat allele match to neither
+cat is not mapped at chr21:34618438-34618440
+cat is not mapped at chr3:46191412-46191414
+cat is not mapped at chr3:46202237-46202239
+cat is not mapped at chr3:46220499-46220501
+cat is not mapped at chr3:46047766-46047768
+cat is not mapped at chr21:34625997-34625999
+cat is not mapped at chr3:46198172-46198174
+cat is not mapped at chr3:39204988-39204990
+cat is not mapped at chr3:46136437-46136439
+cat allele match to neither
+cat is not mapped at chr3:46188752-46188754
+cat is not mapped at chr3:46041836-46041838
+cat is not mapped at chr3:46102172-46102174
+cat is not mapped at chr3:46114215-46114217
+cat is not mapped at chr3:46056910-46056912
+cat is not mapped at chr3:46074857-46074859
+cat is not mapped at chr3:46184619-46184621
+cat is not mapped at chr3:45850782-45850784
+cat is not mapped at chr3:46053777-46053779
+cat is not mapped at chr3:46081107-46081109
+cat is not mapped at chr3:46226724-46226726
+cat is not mapped at chr3:46068763-46068765
+cat is not mapped at chr3:46061996-46061998
+cat is not mapped at chr3:46086224-46086226
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr21:35325094-35325096
+cat is not mapped at chr21:35362847-35362849
+cat is not mapped at chr3:46098525-46098527
+cat is not mapped at chr3:45960419-45960421
+cat allele match to neither
+cat is not mapped at chr3:46007701-46007703
+cat is not mapped at chr3:46083633-46083635
+cat is not mapped at chr3:45974967-45974969
+cat is not mapped at chr3:46091733-46091735
+cat is not mapped at chr3:45880480-45880482
+cat is not mapped at chr3:46071867-46071869
+cat is not mapped at chr3:101470336-101470338
+cat is not mapped at chr3:46272510-46272512
+cat is not mapped at chr3:101399582-101399584
+cat is not mapped at chr3:46481304-46481306
+cat is not mapped at chr3:46260007-46260009
+cat is not mapped at chr3:101509947-101509949
+cat is not mapped at chr3:101437432-101437434
+cat is not mapped at chr3:58795724-58795726
+cat is not mapped at chr3:101235100-101235102
+cat is not mapped at chr3:46381771-46381773
+cat is not mapped at chr3:46247583-46247585
+cat is not mapped at chr3:69685917-69685919
+cat allele match to neither
+cat is not mapped at chr3:46470533-46470535
+cat is not mapped at chr3:46393462-46393464
+cat is not mapped at chr3:101424799-101424801
+cat is not mapped at chr3:101460651-101460653
+cat is not mapped at chr3:46328626-46328628
+cat is not mapped at chr3:46268576-46268578
+cat is not mapped at chr3:46240825-46240827
+cat is not mapped at chr3:46335886-46335888
+cat is not mapped at chr3:46371792-46371794
+cat is not mapped at chr3:46316004-46316006
+cat is not mapped at chr3:46263243-46263245
+cat is not mapped at chr3:101519096-101519098
+cat is not mapped at chr3:46298900-46298902
+cat is not mapped at chr3:46463873-46463875
+cat is not mapped at chr3:46266210-46266212
+cat allele match to neither
+cat is not mapped at chr3:100825232-100825234
+cat is not mapped at chr3:101346032-101346034
+cat is not mapped at chr3:46424609-46424611
+cat is not mapped at chr3:101375757-101375759
+cat is not mapped at chr3:46278918-46278920
+cat allele match to neither
+cat is not mapped at chr3:46388699-46388701
+cat is not mapped at chr3:101148103-101148105
+cat allele match to neither
+cat is not mapped at chr3:46294119-46294121
+cat is not mapped at chr3:51933177-51933179
+cat is not mapped at chr3:101313939-101313941
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr9:113168238-113168240
+cat is not mapped at chr8:26828014-26828016
+cat allele match to neither
+cat is not mapped at chr5:4656181-4656183
+cat is not mapped at chr6:11358209-11358211
+cat is not mapped at chr7:75938165-75938167
+cat is not mapped at chr7:46396839-46396841
+cat is not mapped at chr8:80617720-80617722
+cat allele match to neither
+cat is not mapped at chr5:13938589-13938591
+cat is not mapped at chr5:13936499-13936501
+cat is not mapped at chr4:12865683-12865685
+cat is not mapped at chr9:136138316-136138318
+cat allele match to neither
+cat is not mapped at chr8:26820406-26820408
+cat allele match to neither
+cat is not mapped at chr6:93866535-93866537
+cat allele match to neither
+cat is not mapped at chr8:68777876-68777878
+cat is not mapped at chr7:123514616-123514618
+cat is not mapped at chr8:122828600-122828602
+cat is not mapped at chr7:8659321-8659323
+cat allele match to neither
+cat is not mapped at chr8:18033875-18033877
+cat is not mapped at chr8:29308075-29308077
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr7:139667270-139667272
+cat is not mapped at chr3:117475682-117475684
+cat is not mapped at chr8:29321569-29321571
+cat is not mapped at chr6:31121425-31121427
+cat is not mapped at chr6:165592647-165592649
+cat is not mapped at chr9:136127267-136127269
+cat is not mapped at chr9:136163305-136163307
+human allele does not match to reference
+human allele does not match to reference
+cat is not mapped at chr9:136318329-136318331
+cat is not mapped at chr9:136219061-136219063
+cat is not mapped at chr9:136150465-136150467
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 266
+human allele match to reference alleles: 474
+cat allele match to reference alleles: 64        Rate: 13.389121338912133
+cat allele match to alternative alleles: 56      Rate: 11.715481171548117
+cat allele match to neither: 89  Rate: 18.619246861924683
+
+hg19/5_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr12:113364470-113364472
+cat is not mapped at chr12:113360562-113360564
+cat is not mapped at chr1:65587238-65587240
+cat is not mapped at chr1:71969513-71969515
+cat is not mapped at chr12:68082307-68082309
+cat is not mapped at chr12:113371113-113371115
+cat allele match to neither
+cat is not mapped at chr1:188509376-188509378
+cat is not mapped at chr11:28413504-28413506
+cat is not mapped at chr1:2338568-2338570
+cat allele match to neither
+cat is not mapped at chr12:113363282-113363284
+cat is not mapped at chr12:113365200-113365202
+cat is not mapped at chr12:113358793-113358795
+cat is not mapped at chr12:113366898-113366900
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr1:7204665-7204667
+cat is not mapped at chr12:113376912-113376914
+cat is not mapped at chr12:29002412-29002414
+cat is not mapped at chr11:97796501-97796503
+cat allele match to neither
+cat is not mapped at chr1:65590510-65590512
+cat is not mapped at chr11:88574222-88574224
+cat is not mapped at chr12:113373562-113373564
+cat allele match to neither
+cat is not mapped at chr12:113381216-113381218
+cat is not mapped at chr11:18691792-18691794
+cat is not mapped at chr1:228416600-228416602
+cat is not mapped at chr11:88596424-88596426
+cat allele match to neither
+cat is not mapped at chr1:65591968-65591970
+cat is not mapped at chr12:113368078-113368080
+cat is not mapped at chr1:65583153-65583155
+cat is not mapped at chr1:188469296-188469298
+cat is not mapped at chr1:239917786-239917788
+cat is not mapped at chr12:56904024-56904026
+cat is not mapped at chr17:43736762-43736764
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43573230-43573232
+cat is not mapped at chr17:43778405-43778407
+cat is not mapped at chr16:56263168-56263170
+cat is not mapped at chr15:63395427-63395429
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113408207-113408209
+cat allele match to neither
+cat is not mapped at chr17:43757160-43757162
+cat is not mapped at chr17:43754504-43754506
+cat is not mapped at chr17:43712656-43712658
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43760198-43760200
+cat is not mapped at chr12:133057539-133057541
+cat is not mapped at chr16:54550863-54550865
+cat is not mapped at chr17:43717414-43717416
+cat is not mapped at chr14:34843726-34843728
+cat allele match to neither
+cat is not mapped at chr13:113543354-113543356
+cat is not mapped at chr17:43705355-43705357
+cat allele match to neither
+cat is not mapped at chr17:43684562-43684564
+cat is not mapped at chr12:113425678-113425680
+cat is not mapped at chr16:3215556-3215558
+cat allele match to neither
+cat is not mapped at chr16:56128025-56128027
+cat is not mapped at chr13:28833371-28833373
+cat is not mapped at chr17:43709414-43709416
+cat allele match to neither
+cat is not mapped at chr13:88733018-88733020
+cat is not mapped at chr16:56014647-56014649
+cat allele match to neither
+cat is not mapped at chr14:74624886-74624888
+cat allele match to neither
+human allele does not match to reference
+cat allele match to neither
+cat is not mapped at chr12:113396009-113396011
+cat is not mapped at chr17:43824847-43824849
+cat is not mapped at chr17:43850965-43850967
+cat allele match to neither
+cat is not mapped at chr17:43838918-43838920
+cat allele match to neither
+cat is not mapped at chr17:43899400-43899402
+cat is not mapped at chr17:43847094-43847096
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43787305-43787307
+cat is not mapped at chr17:43917817-43917819
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43887479-43887481
+cat is not mapped at chr17:43822397-43822399
+cat is not mapped at chr17:43785097-43785099
+cat is not mapped at chr17:43793387-43793389
+cat is not mapped at chr17:43802970-43802972
+cat is not mapped at chr17:43814426-43814428
+cat allele match to neither
+cat is not mapped at chr17:43792325-43792327
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43900696-43900698
+cat is not mapped at chr17:43791343-43791345
+cat is not mapped at chr17:43798545-43798547
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43953178-43953180
+cat is not mapped at chr17:44006251-44006253
+cat is not mapped at chr17:44000201-44000203
+cat allele match to neither
+cat is not mapped at chr17:43956641-43956643
+cat allele match to neither
+cat is not mapped at chr17:43949007-43949009
+cat is not mapped at chr17:44022318-44022320
+cat allele match to neither
+cat is not mapped at chr17:43946706-43946708
+cat is not mapped at chr17:43933170-43933172
+cat allele match to neither
+cat is not mapped at chr17:43990918-43990920
+cat is not mapped at chr17:44013188-44013190
+cat is not mapped at chr17:44004075-44004077
+cat is not mapped at chr17:43970302-43970304
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43958430-43958432
+cat is not mapped at chr17:44002061-44002063
+cat is not mapped at chr17:43963942-43963944
+cat is not mapped at chr17:43969135-43969137
+cat is not mapped at chr17:43945686-43945688
+cat allele match to neither
+cat is not mapped at chr17:43939637-43939639
+cat is not mapped at chr17:43965594-43965596
+cat allele match to neither
+cat is not mapped at chr17:43966954-43966956
+cat allele match to neither
+cat is not mapped at chr17:43961043-43961045
+cat is not mapped at chr17:43960171-43960173
+cat is not mapped at chr17:43937161-43937163
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43934825-43934827
+cat allele match to neither
+cat is not mapped at chr17:44032469-44032471
+cat is not mapped at chr17:44144151-44144153
+cat is not mapped at chr17:44102688-44102690
+cat allele match to neither
+cat is not mapped at chr17:44025591-44025593
+cat allele match to neither
+cat is not mapped at chr17:44137675-44137677
+cat is not mapped at chr17:44023841-44023843
+cat is not mapped at chr17:44059214-44059216
+cat is not mapped at chr17:44042950-44042952
+cat is not mapped at chr17:44044984-44044986
+cat allele match to neither
+cat is not mapped at chr17:44096552-44096554
+cat is not mapped at chr17:44033393-44033395
+cat allele match to neither
+cat is not mapped at chr17:44094111-44094113
+cat is not mapped at chr17:44123716-44123718
+cat allele match to neither
+cat is not mapped at chr17:44133395-44133397
+cat is not mapped at chr17:44092107-44092109
+cat is not mapped at chr17:44135358-44135360
+cat is not mapped at chr17:44069969-44069971
+cat is not mapped at chr17:44037078-44037080
+cat is not mapped at chr17:44035515-44035517
+cat is not mapped at chr17:44129948-44129950
+cat allele match to neither
+cat is not mapped at chr17:44126649-44126651
+cat is not mapped at chr17:44131797-44131799
+cat allele match to neither
+cat is not mapped at chr17:44106219-44106221
+cat is not mapped at chr17:44040822-44040824
+cat is not mapped at chr17:44027315-44027317
+cat is not mapped at chr17:44146356-44146358
+cat is not mapped at chr17:44062688-44062690
+cat is not mapped at chr17:44089726-44089728
+cat is not mapped at chr17:44068479-44068481
+cat allele match to neither
+cat is not mapped at chr17:44290909-44290911
+cat allele match to neither
+cat is not mapped at chr17:44226125-44226127
+cat is not mapped at chr17:44209312-44209314
+cat allele match to neither
+cat is not mapped at chr17:44243178-44243180
+cat is not mapped at chr17:44169436-44169438
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44186251-44186253
+cat is not mapped at chr17:44238570-44238572
+cat allele match to neither
+cat is not mapped at chr17:44313756-44313758
+cat is not mapped at chr17:44252097-44252099
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44201886-44201888
+cat is not mapped at chr17:44266971-44266973
+cat is not mapped at chr17:44171553-44171555
+cat is not mapped at chr17:44228823-44228825
+cat is not mapped at chr17:44161469-44161471
+cat allele match to neither
+cat is not mapped at chr17:44152759-44152761
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44165048-44165050
+cat allele match to neither
+cat is not mapped at chr17:44189066-44189068
+cat allele match to neither
+cat is not mapped at chr17:44194518-44194520
+cat is not mapped at chr17:44150232-44150234
+cat is not mapped at chr17:44259039-44259041
+cat is not mapped at chr17:44203519-44203521
+cat is not mapped at chr17:44174234-44174236
+cat is not mapped at chr17:44154047-44154049
+cat is not mapped at chr19:47010314-47010316
+cat is not mapped at chr17:44340252-44340254
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr21:34611544-34611546
+cat is not mapped at chr21:34599083-34599085
+cat is not mapped at chr19:4572977-4572979
+cat is not mapped at chr17:47950328-47950330
+cat is not mapped at chr17:77407991-77407993
+cat allele match to neither
+cat is not mapped at chr17:44351928-44351930
+cat allele match to neither
+cat is not mapped at chr19:50854090-50854092
+cat is not mapped at chr2:126486198-126486200
+cat allele match to neither
+cat is not mapped at chr19:10424950-10424952
+cat allele match to neither
+cat is not mapped at chr2:126512983-126512985
+cat is not mapped at chr18:24350716-24350718
+cat is not mapped at chr17:44343929-44343931
+cat is not mapped at chr20:11541028-11541030
+cat allele match to neither
+cat is not mapped at chr19:10497975-10497977
+cat is not mapped at chr17:44862346-44862348
+cat is not mapped at chr2:228578327-228578329
+cat is not mapped at chr17:47907382-47907384
+cat is not mapped at chr17:44354102-44354104
+cat is not mapped at chr17:71403461-71403463
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:39097676-39097678
+cat is not mapped at chr2:188814712-188814714
+cat is not mapped at chr21:34589810-34589812
+cat is not mapped at chr19:49319003-49319005
+cat is not mapped at chr21:34615209-34615211
+cat is not mapped at chr17:44348264-44348266
+cat allele match to neither
+cat is not mapped at chr2:8101998-8102000
+cat is not mapped at chr3:45888689-45888691
+cat is not mapped at chr21:34626853-34626855
+cat is not mapped at chr3:46099153-46099155
+cat is not mapped at chr3:46075089-46075091
+cat is not mapped at chr3:46041908-46041910
+cat is not mapped at chr3:46220505-46220507
+cat is not mapped at chr3:46184638-46184640
+cat is not mapped at chr3:46057232-46057234
+cat is not mapped at chr22:48165075-48165077
+cat is not mapped at chr3:46215106-46215108
+cat is not mapped at chr3:46103679-46103681
+cat is not mapped at chr3:45916785-45916787
+cat is not mapped at chr3:46226768-46226770
+cat allele match to neither
+cat is not mapped at chr3:45975092-45975094
+cat is not mapped at chr3:46172823-46172825
+cat allele match to neither
+cat is not mapped at chr3:46049763-46049765
+cat is not mapped at chr3:46092287-46092289
+cat is not mapped at chr3:46116009-46116011
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46081305-46081307
+cat is not mapped at chr3:46083940-46083942
+cat is not mapped at chr3:46198375-46198377
+cat is not mapped at chr3:46191649-46191651
+cat allele match to neither
+cat is not mapped at chr21:35325804-35325806
+cat is not mapped at chr3:39278494-39278496
+cat allele match to neither
+cat is not mapped at chr3:46053881-46053883
+cat allele match to neither
+cat is not mapped at chr3:46087991-46087993
+cat allele match to neither
+cat is not mapped at chr3:46202777-46202779
+cat is not mapped at chr3:46123332-46123334
+cat is not mapped at chr3:101377473-101377475
+cat is not mapped at chr3:46382016-46382018
+cat allele match to neither
+cat is not mapped at chr3:101470560-101470562
+cat is not mapped at chr3:46403960-46403962
+cat allele match to neither
+cat is not mapped at chr3:101460742-101460744
+cat is not mapped at chr3:46389165-46389167
+cat allele match to neither
+cat is not mapped at chr3:101351471-101351473
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46372377-46372379
+cat is not mapped at chr3:46248223-46248225
+cat is not mapped at chr3:46332183-46332185
+cat is not mapped at chr3:58802379-58802381
+cat is not mapped at chr3:46268663-46268665
+cat is not mapped at chr3:101535346-101535348
+cat is not mapped at chr3:46294956-46294958
+cat is not mapped at chr3:46266378-46266380
+cat is not mapped at chr3:46317550-46317552
+cat is not mapped at chr3:46463883-46463885
+cat is not mapped at chr3:46471738-46471740
+cat is not mapped at chr3:46425959-46425961
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46272708-46272710
+cat allele match to neither
+cat is not mapped at chr3:101437861-101437863
+cat is not mapped at chr3:101316836-101316838
+cat is not mapped at chr3:101243633-101243635
+cat allele match to neither
+cat is not mapped at chr3:46260038-46260040
+cat is not mapped at chr3:101425702-101425704
+cat allele match to neither
+cat is not mapped at chr3:101150963-101150965
+cat is not mapped at chr3:46241528-46241530
+cat is not mapped at chr3:46299764-46299766
+cat is not mapped at chr3:46279149-46279151
+cat is not mapped at chr3:101510387-101510389
+cat is not mapped at chr3:197130196-197130198
+cat allele match to neither
+cat is not mapped at chr9:86632713-86632715
+cat is not mapped at chr5:17201329-17201331
+cat is not mapped at chr7:9049484-9049486
+cat allele match to neither
+cat is not mapped at chr3:168376380-168376382
+cat is not mapped at chr4:69660186-69660188
+cat is not mapped at chr5:163125304-163125306
+cat is not mapped at chr6:29798793-29798795
+cat is not mapped at chr5:17191615-17191617
+cat is not mapped at chr8:29323537-29323539
+cat allele match to neither
+cat is not mapped at chr3:117476176-117476178
+cat is not mapped at chr8:26832298-26832300
+cat is not mapped at chr9:113168343-113168345
+cat allele match to neither
+cat is not mapped at chr5:56376900-56376902
+cat is not mapped at chr7:145514239-145514241
+cat is not mapped at chr9:136128545-136128547
+cat is not mapped at chr8:22044323-22044325
+cat is not mapped at chr7:49527253-49527255
+cat allele match to neither
+cat is not mapped at chr8:68780599-68780601
+cat is not mapped at chr5:91803049-91803051
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr8:29308080-29308082
+cat is not mapped at chr7:75938435-75938437
+cat is not mapped at chr3:169069153-169069155
+cat allele match to neither
+cat is not mapped at chr5:35967961-35967963
+cat is not mapped at chr8:80771148-80771150
+human allele does not match to reference
+human allele does not match to reference
+human allele does not match to reference
+cat is not mapped at chr9:136163328-136163330
+cat is not mapped at chr9:136150483-136150485
+human allele does not match to reference: 4
+no liftover from human to cat: 262
+human allele match to reference alleles: 480
+cat allele match to reference alleles: 67        Rate: 13.842975206611571
+cat allele match to alternative alleles: 43      Rate: 8.884297520661157
+cat allele match to neither: 108         Rate: 22.31404958677686
+
+hg19/6_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+cat is not mapped at chr1:34876828-34876830
+cat allele match to neither
+cat is not mapped at chr12:113364503-113364505
+cat allele match to neither
+cat is not mapped at chr12:113362057-113362059
+cat is not mapped at chr12:113368124-113368126
+cat is not mapped at chr11:22828272-22828274
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat allele match to neither
+cat is not mapped at chr11:28387771-28387773
+cat is not mapped at chr12:113373587-113373589
+cat is not mapped at chr1:65590761-65590763
+cat is not mapped at chr1:7208383-7208385
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113371522-113371524
+cat allele match to neither
+cat is not mapped at chr12:113363283-113363285
+cat is not mapped at chr1:65597703-65597705
+cat allele match to neither
+cat is not mapped at chr1:188470818-188470820
+cat is not mapped at chr1:228416711-228416713
+cat is not mapped at chr12:113377821-113377823
+cat allele match to neither
+cat is not mapped at chr11:88574884-88574886
+cat is not mapped at chr12:113390747-113390749
+cat is not mapped at chr11:97797308-97797310
+cat is not mapped at chr1:2339073-2339075
+cat allele match to neither
+cat is not mapped at chr1:65587239-65587241
+cat allele match to neither
+cat is not mapped at chr12:113381375-113381377
+cat is not mapped at chr1:65583171-65583173
+cat is not mapped at chr12:113360574-113360576
+cat is not mapped at chr12:113367308-113367310
+cat is not mapped at chr17:43573418-43573420
+cat is not mapped at chr17:43776740-43776742
+cat is not mapped at chr16:3216550-3216552
+cat is not mapped at chr12:133057962-133057964
+cat is not mapped at chr16:3158919-3158921
+cat allele match to neither
+cat is not mapped at chr12:113397124-113397126
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr15:63397037-63397039
+cat is not mapped at chr12:113459167-113459169
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43751100-43751102
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43705517-43705519
+cat allele match to neither
+cat is not mapped at chr17:43757449-43757451
+cat is not mapped at chr15:49474101-49474103
+cat is not mapped at chr17:43685697-43685699
+cat is not mapped at chr14:43457717-43457719
+cat is not mapped at chr12:113409412-113409414
+cat allele match to neither
+cat is not mapped at chr17:43737039-43737041
+cat allele match to neither
+human allele does not match to reference
+cat is not mapped at chr17:43733047-43733049
+cat is not mapped at chr16:56128891-56128893
+cat is not mapped at chr17:43709866-43709868
+cat is not mapped at chr17:43824907-43824909
+cat allele match to neither
+cat is not mapped at chr17:43815140-43815142
+cat is not mapped at chr17:43791404-43791406
+cat is not mapped at chr17:43812397-43812399
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43847373-43847375
+cat allele match to neither
+cat is not mapped at chr17:43798774-43798776
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43808762-43808764
+cat is not mapped at chr17:43918189-43918191
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43792357-43792359
+cat is not mapped at chr17:43914727-43914729
+cat is not mapped at chr17:43897201-43897203
+cat allele match to neither
+cat is not mapped at chr17:43835350-43835352
+cat is not mapped at chr17:43912634-43912636
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43900816-43900818
+cat is not mapped at chr17:43899416-43899418
+cat allele match to neither
+cat is not mapped at chr17:43822510-43822512
+cat is not mapped at chr17:43851017-43851019
+cat allele match to neither
+cat is not mapped at chr17:43933306-43933308
+cat allele match to neither
+cat is not mapped at chr17:43931906-43931908
+cat is not mapped at chr17:43945854-43945856
+cat is not mapped at chr17:44002137-44002139
+cat is not mapped at chr17:44000233-44000235
+cat is not mapped at chr17:43981794-43981796
+cat is not mapped at chr17:43967137-43967139
+cat is not mapped at chr17:43992805-43992807
+cat allele match to neither
+cat is not mapped at chr17:43946837-43946839
+cat allele match to neither
+cat is not mapped at chr17:43964162-43964164
+cat is not mapped at chr17:44020544-44020546
+cat is not mapped at chr17:43961141-43961143
+cat is not mapped at chr17:43960282-43960284
+cat is not mapped at chr17:43956733-43956735
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43949091-43949093
+cat allele match to neither
+cat is not mapped at chr17:43939658-43939660
+cat is not mapped at chr17:43937183-43937185
+cat is not mapped at chr17:43988883-43988885
+cat is not mapped at chr17:43969167-43969169
+cat allele match to neither
+cat is not mapped at chr17:43965679-43965681
+cat is not mapped at chr17:43958735-43958737
+cat is not mapped at chr17:44017665-44017667
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43934895-43934897
+cat is not mapped at chr17:44004471-44004473
+cat is not mapped at chr17:44097234-44097236
+cat is not mapped at chr17:44130586-44130588
+cat allele match to neither
+cat is not mapped at chr17:44146450-44146452
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44068480-44068482
+cat is not mapped at chr17:44092496-44092498
+cat is not mapped at chr17:44094373-44094375
+cat is not mapped at chr17:44064758-44064760
+cat is not mapped at chr17:44025649-44025651
+cat is not mapped at chr17:44135826-44135828
+cat is not mapped at chr17:44030114-44030116
+cat is not mapped at chr17:44045473-44045475
+cat is not mapped at chr17:44126672-44126674
+cat is not mapped at chr17:44086099-44086101
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44037298-44037300
+cat is not mapped at chr17:44070110-44070112
+cat is not mapped at chr17:44132268-44132270
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44035705-44035707
+cat is not mapped at chr17:44033400-44033402
+cat is not mapped at chr17:44133402-44133404
+cat is not mapped at chr17:44137677-44137679
+cat is not mapped at chr17:44032596-44032598
+cat allele match to neither
+cat is not mapped at chr17:44209363-44209365
+cat allele match to neither
+cat is not mapped at chr17:44243867-44243869
+cat allele match to neither
+cat is not mapped at chr17:44252196-44252198
+cat is not mapped at chr17:44202146-44202148
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44189372-44189374
+cat is not mapped at chr17:44174350-44174352
+cat is not mapped at chr17:44280522-44280524
+cat allele match to neither
+cat is not mapped at chr17:44169580-44169582
+cat is not mapped at chr17:44238937-44238939
+cat allele match to neither
+cat is not mapped at chr17:44165068-44165070
+cat is not mapped at chr17:44171564-44171566
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44211501-44211503
+cat is not mapped at chr17:44270808-44270810
+cat allele match to neither
+cat is not mapped at chr17:44204303-44204305
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44154104-44154106
+cat allele match to neither
+cat is not mapped at chr17:44194620-44194622
+cat is not mapped at chr17:44200032-44200034
+cat is not mapped at chr17:44178838-44178840
+cat is not mapped at chr17:44226560-44226562
+cat allele match to neither
+cat is not mapped at chr17:44161859-44161861
+cat allele match to neither
+cat is not mapped at chr17:44291364-44291366
+cat is not mapped at chr17:44267163-44267165
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44314065-44314067
+cat is not mapped at chr17:44181117-44181119
+cat is not mapped at chr2:126513082-126513084
+cat allele match to neither
+cat is not mapped at chr2:228670130-228670132
+cat is not mapped at chr17:44348369-44348371
+cat allele match to neither
+cat is not mapped at chr19:50866883-50866885
+cat allele match to neither
+cat is not mapped at chr17:47914637-47914639
+cat is not mapped at chr2:49810570-49810572
+cat is not mapped at chr19:50854148-50854150
+cat is not mapped at chr17:44354230-44354232
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr2:26955028-26955030
+cat is not mapped at chr19:10427720-10427722
+cat allele match to neither
+cat is not mapped at chr18:24355158-24355160
+cat allele match to neither
+cat is not mapped at chr18:59986990-59986992
+cat is not mapped at chr19:47013037-47013039
+cat allele match to neither
+cat is not mapped at chr17:44344096-44344098
+cat allele match to neither
+cat is not mapped at chr21:34611570-34611572
+cat is not mapped at chr19:4582761-4582763
+cat allele match to neither
+cat is not mapped at chr19:50879139-50879141
+cat is not mapped at chr2:126561009-126561011
+cat allele match to neither
+cat is not mapped at chr19:49303826-49303828
+cat allele match to neither
+cat is not mapped at chr21:34600507-34600509
+cat is not mapped at chr19:39069229-39069231
+cat is not mapped at chr17:71405550-71405552
+cat allele match to neither
+cat is not mapped at chr2:168979221-168979223
+cat is not mapped at chr17:44340327-44340329
+cat is not mapped at chr21:34620206-34620208
+cat allele match to neither
+cat is not mapped at chr3:46123838-46123840
+cat is not mapped at chr3:45997821-45997823
+cat is not mapped at chr3:45975442-45975444
+cat is not mapped at chr3:46063752-46063754
+cat is not mapped at chr3:46100137-46100139
+cat is not mapped at chr3:46042072-46042074
+cat is not mapped at chr21:35368401-35368403
+cat is not mapped at chr3:46057866-46057868
+cat is not mapped at chr3:45843241-45843243
+cat is not mapped at chr3:46220681-46220683
+cat is not mapped at chr3:46069209-46069211
+cat is not mapped at chr3:46192784-46192786
+cat is not mapped at chr22:51070099-51070101
+cat is not mapped at chr21:35327264-35327266
+cat is not mapped at chr3:45888955-45888957
+cat is not mapped at chr3:46049764-46049766
+cat is not mapped at chr3:46093857-46093859
+cat is not mapped at chr3:46172902-46172904
+cat is not mapped at chr3:39289935-39289937
+cat is not mapped at chr3:46204378-46204380
+cat is not mapped at chr3:45861931-45861933
+cat is not mapped at chr3:46198387-46198389
+cat is not mapped at chr3:46081332-46081334
+cat is not mapped at chr3:46184679-46184681
+cat is not mapped at chr21:34626854-34626856
+cat is not mapped at chr3:45960699-45960701
+cat is not mapped at chr3:46038446-46038448
+cat allele match to neither
+cat is not mapped at chr3:46144980-46144982
+cat is not mapped at chr3:45908513-45908515
+cat is not mapped at chr3:46084371-46084373
+cat is not mapped at chr3:46189489-46189491
+cat is not mapped at chr3:46088281-46088283
+cat is not mapped at chr3:46002961-46002963
+cat is not mapped at chr3:46116786-46116788
+cat is not mapped at chr3:46053967-46053969
+cat is not mapped at chr3:46215709-46215711
+cat is not mapped at chr3:46077331-46077333
+cat is not mapped at chr3:46227170-46227172
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46072518-46072520
+cat is not mapped at chr3:101441689-101441691
+cat allele match to neither
+cat is not mapped at chr3:46266725-46266727
+cat is not mapped at chr3:46329007-46329009
+cat allele match to neither
+cat is not mapped at chr3:46337691-46337693
+cat is not mapped at chr3:46260194-46260196
+cat is not mapped at chr3:101290576-101290578
+cat is not mapped at chr3:101250007-101250009
+cat is not mapped at chr3:46297123-46297125
+cat is not mapped at chr3:46332189-46332191
+cat is not mapped at chr3:46374652-46374654
+cat is not mapped at chr3:51935718-51935720
+cat is not mapped at chr3:46280617-46280619
+cat is not mapped at chr3:46389546-46389548
+cat is not mapped at chr3:46255795-46255797
+cat is not mapped at chr3:101355062-101355064
+cat is not mapped at chr3:46426006-46426008
+cat is not mapped at chr3:101461176-101461178
+cat is not mapped at chr3:101318317-101318319
+cat is not mapped at chr3:101470983-101470985
+cat allele match to neither
+cat is not mapped at chr3:71570459-71570461
+cat allele match to neither
+cat is not mapped at chr3:46252504-46252506
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46395929-46395931
+cat is not mapped at chr3:46300547-46300549
+cat is not mapped at chr3:101543842-101543844
+cat is not mapped at chr3:46317897-46317899
+cat is not mapped at chr3:58802749-58802751
+cat is not mapped at chr3:101428898-101428900
+cat allele match to neither
+cat is not mapped at chr3:46273597-46273599
+cat allele match to neither
+cat is not mapped at chr3:101366068-101366070
+cat is not mapped at chr3:46471977-46471979
+cat is not mapped at chr3:46382461-46382463
+cat is not mapped at chr3:46464016-46464018
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:117476479-117476481
+cat allele match to neither
+cat is not mapped at chr3:197107318-197107320
+cat is not mapped at chr8:29310619-29310621
+cat is not mapped at chr7:75939418-75939420
+cat is not mapped at chr7:50727791-50727793
+cat is not mapped at chr8:88731038-88731040
+cat allele match to neither
+cat is not mapped at chr5:172453638-172453640
+cat is not mapped at chr7:50360662-50360664
+cat allele match to neither
+cat is not mapped at chr9:113169630-113169632
+cat is not mapped at chr8:59917787-59917789
+cat is not mapped at chr5:17201634-17201636
+cat is not mapped at chr5:127828382-127828384
+cat is not mapped at chr6:30053143-30053145
+cat is not mapped at chr9:136132011-136132013
+cat is not mapped at chr3:168385422-168385424
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr6:109872674-109872676
+cat is not mapped at chr9:86632845-86632847
+cat is not mapped at chr6:32653135-32653137
+cat is not mapped at chr9:117564874-117564876
+cat allele match to neither
+cat is not mapped at chr9:15410554-15410556
+cat allele match to neither
+cat is not mapped at chr6:43525148-43525150
+cat is not mapped at chr7:158746666-158746668
+cat allele match to neither
+cat is not mapped at chr7:150455951-150455953
+cat is not mapped at chr7:9091886-9091888
+cat is not mapped at chr4:74658292-74658294
+cat is not mapped at chr3:197131472-197131474
+cat allele match to neither
+human allele does not match to reference
+human allele does not match to reference
+cat is not mapped at chr9:136144058-136144060
+cat allele match to neither
+cat is not mapped at chr9:136168085-136168087
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 253
+human allele match to reference alleles: 473
+cat allele match to reference alleles: 58        Rate: 12.159329140461216
+cat allele match to alternative alleles: 49      Rate: 10.272536687631026
+cat allele match to neither: 113         Rate: 23.68972746331237
+
+hg19/7_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+cat allele match to neither
+cat is not mapped at chr12:113381694-113381696
+cat allele match to neither
+cat is not mapped at chr1:188497906-188497908
+cat is not mapped at chr10:7171182-7171184
+cat is not mapped at chr11:28388643-28388645
+cat allele match to neither
+cat is not mapped at chr12:113365452-113365454
+cat is not mapped at chr12:113367324-113367326
+cat is not mapped at chr12:113390987-113390989
+cat allele match to neither
+cat is not mapped at chr1:228417464-228417466
+cat allele match to neither
+__main__:68: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr12:113378080-113378082
+cat is not mapped at chr12:29229855-29229857
+cat is not mapped at chr11:34495806-34495808
+cat is not mapped at chr10:133144994-133144996
+cat is not mapped at chr1:155172724-155172726
+cat is not mapped at chr12:113368248-113368250
+cat is not mapped at chr1:228410440-228410442
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113360736-113360738
+cat allele match to neither
+cat is not mapped at chr12:113371645-113371647
+cat allele match to neither
+cat is not mapped at chr11:88606838-88606840
+cat allele match to neither
+cat is not mapped at chr12:113363407-113363409
+cat is not mapped at chr12:113364511-113364513
+cat allele match to neither
+cat is not mapped at chr12:58108051-58108053
+cat is not mapped at chr1:65590803-65590805
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113374016-113374018
+cat is not mapped at chr1:65587694-65587696
+cat is not mapped at chr11:23251873-23251875
+cat is not mapped at chr12:589316-589318
+cat is not mapped at chr16:56130106-56130108
+cat is not mapped at chr17:43757775-43757777
+cat is not mapped at chr12:133058156-133058158
+cat is not mapped at chr17:43746417-43746419
+cat is not mapped at chr16:56116668-56116670
+cat allele match to neither
+cat is not mapped at chr17:43765880-43765882
+cat allele match to neither
+cat is not mapped at chr12:113397142-113397144
+cat is not mapped at chr17:43778751-43778753
+cat is not mapped at chr17:43709892-43709894
+cat is not mapped at chr14:27536654-27536656
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr15:78319089-78319091
+cat is not mapped at chr17:43776741-43776743
+cat allele match to neither
+cat is not mapped at chr17:43664334-43664336
+cat is not mapped at chr17:43718335-43718337
+cat is not mapped at chr17:43762254-43762256
+cat is not mapped at chr13:101595808-101595810
+cat is not mapped at chr17:43751426-43751428
+cat is not mapped at chr14:103619845-103619847
+cat is not mapped at chr17:43733982-43733984
+cat is not mapped at chr15:49477475-49477477
+cat is not mapped at chr17:43685825-43685827
+cat allele match to neither
+cat is not mapped at chr13:31480394-31480396
+cat is not mapped at chr16:3219599-3219601
+cat allele match to neither
+cat is not mapped at chr12:113410315-113410317
+human allele does not match to reference
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113468172-113468174
+cat is not mapped at chr15:31675997-31675999
+cat is not mapped at chr13:43357304-43357306
+cat allele match to neither
+cat is not mapped at chr14:43459083-43459085
+cat is not mapped at chr17:43705600-43705602
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43798901-43798903
+cat is not mapped at chr17:43901000-43901002
+cat is not mapped at chr17:43899610-43899612
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43903841-43903843
+cat allele match to neither
+cat is not mapped at chr17:43812598-43812600
+cat is not mapped at chr17:43791428-43791430
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43918238-43918240
+cat is not mapped at chr17:43847740-43847742
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43795767-43795769
+cat allele match to neither
+cat is not mapped at chr17:43804305-43804307
+cat allele match to neither
+cat is not mapped at chr17:43792410-43792412
+cat is not mapped at chr17:43839950-43839952
+cat allele match to neither
+cat is not mapped at chr17:43815335-43815337
+cat allele match to neither
+cat is not mapped at chr17:43992938-43992940
+cat is not mapped at chr17:43964190-43964192
+cat is not mapped at chr17:43926754-43926756
+cat is not mapped at chr17:44006895-44006897
+cat is not mapped at chr17:43969685-43969687
+cat is not mapped at chr17:44017940-44017942
+cat allele match to neither
+cat is not mapped at chr17:44000504-44000506
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43953528-43953530
+cat is not mapped at chr17:43989086-43989088
+cat is not mapped at chr17:43961291-43961293
+cat is not mapped at chr17:43984398-43984400
+cat is not mapped at chr17:43974888-43974890
+cat is not mapped at chr17:43981830-43981832
+cat is not mapped at chr17:43958743-43958745
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43956777-43956779
+cat is not mapped at chr17:44010363-44010365
+cat is not mapped at chr17:43937332-43937334
+cat is not mapped at chr17:44002430-44002432
+cat allele match to neither
+cat is not mapped at chr17:43938795-43938797
+cat is not mapped at chr17:43996720-43996722
+cat is not mapped at chr17:43945930-43945932
+cat is not mapped at chr17:43960322-43960324
+cat is not mapped at chr17:43932027-43932029
+cat is not mapped at chr17:43949341-43949343
+cat is not mapped at chr17:43946874-43946876
+cat is not mapped at chr17:43934947-43934949
+cat is not mapped at chr17:44005185-44005187
+cat allele match to neither
+cat is not mapped at chr17:43967561-43967563
+cat allele match to neither
+cat is not mapped at chr17:43933578-43933580
+cat is not mapped at chr17:43965686-43965688
+cat is not mapped at chr17:44036046-44036048
+cat is not mapped at chr17:44132378-44132380
+cat is not mapped at chr17:44086520-44086522
+cat is not mapped at chr17:44030194-44030196
+cat is not mapped at chr17:44146566-44146568
+cat is not mapped at chr17:44126690-44126692
+cat is not mapped at chr17:44135984-44135986
+cat is not mapped at chr17:44092743-44092745
+cat is not mapped at chr17:44100905-44100907
+cat allele match to neither
+cat is not mapped at chr17:44037490-44037492
+cat allele match to neither
+cat is not mapped at chr17:44108099-44108101
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44122344-44122346
+cat is not mapped at chr17:44045973-44045975
+cat is not mapped at chr17:44033467-44033469
+cat is not mapped at chr17:44067507-44067509
+cat is not mapped at chr17:44113358-44113360
+cat is not mapped at chr17:44130667-44130669
+cat is not mapped at chr17:44032767-44032769
+cat allele match to neither
+cat is not mapped at chr17:44118847-44118849
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44094470-44094472
+cat is not mapped at chr17:44072983-44072985
+cat allele match to neither
+cat is not mapped at chr17:44142120-44142122
+cat allele match to neither
+cat is not mapped at chr17:44284419-44284421
+cat is not mapped at chr17:44189407-44189409
+cat allele match to neither
+cat is not mapped at chr17:44274765-44274767
+cat allele match to neither
+cat is not mapped at chr17:44296521-44296523
+cat is not mapped at chr17:44161874-44161876
+cat is not mapped at chr17:44169604-44169606
+cat allele match to neither
+cat is not mapped at chr17:44314178-44314180
+cat is not mapped at chr17:44196798-44196800
+cat is not mapped at chr17:44209473-44209475
+cat allele match to neither
+cat is not mapped at chr17:44243869-44243871
+cat is not mapped at chr17:44154392-44154394
+cat allele match to neither
+cat is not mapped at chr17:44234059-44234061
+cat allele match to neither
+cat is not mapped at chr17:44202230-44202232
+cat is not mapped at chr17:44165097-44165099
+cat is not mapped at chr17:44178883-44178885
+cat is not mapped at chr17:44246996-44246998
+cat is not mapped at chr17:44149447-44149449
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44157596-44157598
+cat is not mapped at chr17:44181453-44181455
+cat allele match to neither
+cat is not mapped at chr17:44200077-44200079
+cat is not mapped at chr17:44227185-44227187
+cat is not mapped at chr17:44192617-44192619
+cat is not mapped at chr17:44211901-44211903
+cat is not mapped at chr17:44267169-44267171
+cat is not mapped at chr17:44186592-44186594
+cat is not mapped at chr17:44174512-44174514
+cat is not mapped at chr17:44183789-44183791
+cat allele match to neither
+cat is not mapped at chr17:44352360-44352362
+cat is not mapped at chr2:168979289-168979291
+cat is not mapped at chr19:4589189-4589191
+cat is not mapped at chr19:4724733-4724735
+cat is not mapped at chr20:23332603-23332605
+cat is not mapped at chr17:47804306-47804308
+cat allele match to neither
+cat is not mapped at chr21:34611729-34611731
+cat is not mapped at chr19:10556896-10556898
+cat is not mapped at chr2:229773794-229773796
+cat is not mapped at chr19:4705003-4705005
+cat allele match to neither
+cat is not mapped at chr19:50854259-50854261
+cat is not mapped at chr2:126569329-126569331
+cat is not mapped at chr19:10429119-10429121
+cat is not mapped at chr19:50867105-50867107
+cat allele match to neither
+cat is not mapped at chr19:49304058-49304060
+cat allele match to neither
+cat is not mapped at chr2:240700638-240700640
+cat is not mapped at chr17:44340505-44340507
+cat is not mapped at chr19:47013269-47013271
+cat allele match to neither
+cat is not mapped at chr19:39071256-39071258
+cat is not mapped at chr21:34602245-34602247
+cat is not mapped at chr2:126513171-126513173
+cat is not mapped at chr2:190836636-190836638
+cat is not mapped at chr17:44355302-44355304
+cat is not mapped at chr2:49812061-49812063
+cat is not mapped at chr20:41674974-41674976
+cat allele match to neither
+cat is not mapped at chr21:34607222-34607224
+cat is not mapped at chr17:44333422-44333424
+cat is not mapped at chr21:34593121-34593123
+cat allele match to neither
+cat is not mapped at chr3:45976661-45976663
+cat is not mapped at chr3:46206998-46207000
+cat is not mapped at chr3:46189771-46189773
+cat allele match to neither
+cat is not mapped at chr3:46146313-46146315
+cat is not mapped at chr3:46124417-46124419
+cat is not mapped at chr3:46177863-46177865
+cat is not mapped at chr3:46049826-46049828
+cat allele match to neither
+cat is not mapped at chr3:46081706-46081708
+cat is not mapped at chr3:46221530-46221532
+cat is not mapped at chr3:46199679-46199681
+cat is not mapped at chr3:45889920-45889922
+cat is not mapped at chr3:46173071-46173073
+cat allele match to neither
+cat is not mapped at chr3:46002962-46002964
+cat is not mapped at chr3:45940635-45940637
+cat is not mapped at chr21:35290974-35290976
+cat is not mapped at chr3:46077389-46077391
+cat is not mapped at chr3:46014544-46014546
+cat is not mapped at chr21:35327623-35327625
+cat is not mapped at chr3:46042412-46042414
+cat is not mapped at chr3:46038643-46038645
+cat is not mapped at chr3:46194527-46194529
+cat is not mapped at chr3:46054155-46054157
+cat is not mapped at chr3:46072629-46072631
+cat is not mapped at chr3:45920297-45920299
+cat is not mapped at chr3:46216083-46216085
+cat is not mapped at chr3:45862951-45862953
+cat allele match to neither
+cat is not mapped at chr3:45908858-45908860
+cat is not mapped at chr3:45962602-45962604
+cat is not mapped at chr3:46088335-46088337
+cat is not mapped at chr3:46064617-46064619
+cat is not mapped at chr3:46094062-46094064
+cat is not mapped at chr3:46069572-46069574
+cat allele match to neither
+cat is not mapped at chr3:46100293-46100295
+cat is not mapped at chr22:51071467-51071469
+cat is not mapped at chr3:46084460-46084462
+cat is not mapped at chr3:51935921-51935923
+cat is not mapped at chr3:46465355-46465357
+cat is not mapped at chr3:46253213-46253215
+cat allele match to neither
+cat is not mapped at chr3:46382621-46382623
+cat is not mapped at chr3:46310839-46310841
+cat is not mapped at chr3:101318902-101318904
+cat allele match to neither
+cat is not mapped at chr3:46297259-46297261
+cat is not mapped at chr3:101111107-101111109
+cat is not mapped at chr3:101366697-101366699
+cat is not mapped at chr3:101180329-101180331
+cat allele match to neither
+cat is not mapped at chr3:101547732-101547734
+cat is not mapped at chr3:101472375-101472377
+cat is not mapped at chr3:101400987-101400989
+cat is not mapped at chr3:46472574-46472576
+cat is not mapped at chr3:46359937-46359939
+cat is not mapped at chr3:46332275-46332277
+cat is not mapped at chr3:46389648-46389650
+cat is not mapped at chr3:101463312-101463314
+cat is not mapped at chr3:101255723-101255725
+cat is not mapped at chr3:101355426-101355428
+cat allele match to neither
+cat is not mapped at chr3:101511152-101511154
+cat is not mapped at chr3:46300553-46300555
+cat is not mapped at chr3:46260443-46260445
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46329277-46329279
+cat is not mapped at chr3:101488180-101488182
+cat is not mapped at chr3:46249721-46249723
+cat is not mapped at chr3:58808180-58808182
+cat allele match to neither
+cat is not mapped at chr3:46257295-46257297
+cat is not mapped at chr3:46242615-46242617
+cat is not mapped at chr3:46427036-46427038
+cat is not mapped at chr3:46273726-46273728
+cat allele match to neither
+cat is not mapped at chr3:46375554-46375556
+cat allele match to neither
+cat is not mapped at chr3:197133647-197133649
+cat is not mapped at chr8:125304145-125304147
+cat is not mapped at chr8:59897595-59897597
+cat is not mapped at chr6:32667170-32667172
+cat is not mapped at chr8:22440207-22440209
+cat is not mapped at chr4:156280119-156280121
+cat is not mapped at chr5:122865613-122865615
+cat is not mapped at chr8:92370863-92370865
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr7:9095290-9095292
+cat is not mapped at chr8:29310638-29310640
+cat allele match to neither
+cat is not mapped at chr7:134667120-134667122
+cat is not mapped at chr8:76776892-76776894
+cat allele match to neither
+cat is not mapped at chr9:113171697-113171699
+cat is not mapped at chr5:173884510-173884512
+cat is not mapped at chr3:168484794-168484796
+cat is not mapped at chr9:136138775-136138777
+cat is not mapped at chr4:74662813-74662815
+cat allele match to neither
+cat is not mapped at chr9:86640122-86640124
+cat allele match to neither
+cat is not mapped at chr4:32145122-32145124
+cat allele match to neither
+cat is not mapped at chr7:150467020-150467022
+cat is not mapped at chr5:91806291-91806293
+cat is not mapped at chr9:15411304-15411306
+cat is not mapped at chr8:26834901-26834903
+cat allele match to neither
+cat is not mapped at chr9:136170731-136170733
+cat is not mapped at chr9:136147011-136147013
+cat is not mapped at chr9:136152069-136152071
+human allele does not match to reference
+cat allele match to neither
+cat is not mapped at chr9:136267148-136267150
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 269
+human allele match to reference alleles: 478
+cat allele match to reference alleles: 59        Rate: 12.240663900414937
+cat allele match to alternative alleles: 49      Rate: 10.16597510373444
+cat allele match to neither: 102         Rate: 21.16182572614108
+
+hg19/8_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr11:28439772-28439774
+cat is not mapped at chr12:113364632-113364634
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:42566579-42566581
+cat is not mapped at chr11:28390510-28390512
+cat is not mapped at chr10:12644136-12644138
+cat allele match to neither
+cat is not mapped at chr12:113381748-113381750
+cat is not mapped at chr12:113365580-113365582
+cat allele match to neither
+cat is not mapped at chr12:113371972-113371974
+cat is not mapped at chr1:228410531-228410533
+cat is not mapped at chr12:113368504-113368506
+cat is not mapped at chr12:113391362-113391364
+cat allele match to neither
+cat is not mapped at chr12:113360785-113360787
+cat is not mapped at chr1:228422936-228422938
+cat is not mapped at chr11:97738084-97738086
+cat is not mapped at chr11:110201821-110201823
+cat is not mapped at chr11:88588735-88588737
+cat is not mapped at chr1:65588328-65588330
+cat is not mapped at chr1:155071166-155071168
+cat is not mapped at chr12:113367331-113367333
+cat is not mapped at chr10:133929035-133929037
+cat is not mapped at chr1:188500700-188500702
+cat is not mapped at chr11:40700245-40700247
+cat is not mapped at chr12:113374747-113374749
+cat allele match to neither
+cat is not mapped at chr1:242780588-242780590
+cat allele match to neither
+cat is not mapped at chr1:65585347-65585349
+cat is not mapped at chr11:23251902-23251904
+cat is not mapped at chr12:113352158-113352160
+cat is not mapped at chr12:113363549-113363551
+cat is not mapped at chr12:58108201-58108203
+cat is not mapped at chr1:65590964-65590966
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113378676-113378678
+cat is not mapped at chr11:88576800-88576802
+cat is not mapped at chr17:43665467-43665469
+cat is not mapped at chr17:43775401-43775403
+cat allele match to neither
+cat is not mapped at chr17:43710126-43710128
+cat is not mapped at chr13:31487977-31487979
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43705755-43705757
+cat is not mapped at chr12:113398138-113398140
+cat is not mapped at chr17:43757776-43757778
+cat is not mapped at chr14:28733842-28733844
+cat is not mapped at chr12:113418849-113418851
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr14:103620649-103620651
+cat is not mapped at chr17:43754849-43754851
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113468253-113468255
+cat allele match to neither
+cat is not mapped at chr17:43686419-43686421
+cat is not mapped at chr17:43734144-43734146
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43762428-43762430
+cat is not mapped at chr17:43752038-43752040
+cat is not mapped at chr15:49495025-49495027
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr16:6718744-6718746
+cat allele match to neither
+cat is not mapped at chr17:43830381-43830383
+cat is not mapped at chr17:43896031-43896033
+cat is not mapped at chr17:43847867-43847869
+cat allele match to neither
+cat is not mapped at chr17:43804388-43804390
+cat allele match to neither
+cat is not mapped at chr17:43918417-43918419
+cat is not mapped at chr17:43812623-43812625
+cat is not mapped at chr17:43818945-43818947
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43899654-43899656
+cat is not mapped at chr17:43800986-43800988
+cat is not mapped at chr17:43897448-43897450
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43809015-43809017
+cat is not mapped at chr17:43791467-43791469
+cat is not mapped at chr17:43836050-43836052
+cat allele match to neither
+cat is not mapped at chr17:43815712-43815714
+cat is not mapped at chr17:43909007-43909009
+cat is not mapped at chr17:43837781-43837783
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43901237-43901239
+cat is not mapped at chr17:43904109-43904111
+cat is not mapped at chr17:43798902-43798904
+cat is not mapped at chr17:43792417-43792419
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43951994-43951996
+cat allele match to neither
+cat is not mapped at chr17:44006953-44006955
+cat is not mapped at chr17:43937459-43937461
+cat is not mapped at chr17:43935117-43935119
+cat allele match to neither
+cat is not mapped at chr17:43994251-43994253
+cat is not mapped at chr17:43943956-43943958
+cat is not mapped at chr17:43926947-43926949
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43933672-43933674
+cat is not mapped at chr17:44002554-44002556
+cat is not mapped at chr17:43932048-43932050
+cat is not mapped at chr17:43975262-43975264
+cat is not mapped at chr17:43962016-43962018
+cat is not mapped at chr17:43960324-43960326
+cat is not mapped at chr17:44005225-44005227
+cat is not mapped at chr17:44010404-44010406
+cat is not mapped at chr17:43953694-43953696
+cat is not mapped at chr17:43940011-43940013
+cat is not mapped at chr17:43969778-43969780
+cat is not mapped at chr17:43964282-43964284
+cat is not mapped at chr17:43968218-43968220
+cat is not mapped at chr17:43930797-43930799
+cat is not mapped at chr17:44000609-44000611
+cat is not mapped at chr17:43945937-43945939
+cat allele match to neither
+cat is not mapped at chr17:43984645-43984647
+cat is not mapped at chr17:43965954-43965956
+cat is not mapped at chr17:43957220-43957222
+cat allele match to neither
+cat is not mapped at chr17:43981957-43981959
+cat is not mapped at chr17:43959091-43959093
+cat is not mapped at chr17:44125065-44125067
+cat allele match to neither
+cat is not mapped at chr17:44082180-44082182
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44046201-44046203
+cat is not mapped at chr17:44033487-44033489
+cat allele match to neither
+cat is not mapped at chr17:44032878-44032880
+cat allele match to neither
+cat is not mapped at chr17:44133632-44133634
+cat is not mapped at chr17:44043818-44043820
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44075098-44075100
+cat is not mapped at chr17:44088771-44088773
+cat is not mapped at chr17:44142426-44142428
+cat is not mapped at chr17:44132457-44132459
+cat allele match to neither
+cat is not mapped at chr17:44041816-44041818
+cat is not mapped at chr17:44100915-44100917
+cat is not mapped at chr17:44030230-44030232
+cat is not mapped at chr17:44130877-44130879
+cat is not mapped at chr17:44122347-44122349
+cat is not mapped at chr17:44118998-44119000
+cat allele match to neither
+cat is not mapped at chr17:44136576-44136578
+cat is not mapped at chr17:44126976-44126978
+cat allele match to neither
+cat is not mapped at chr17:44057594-44057596
+cat is not mapped at chr17:44094666-44094668
+cat is not mapped at chr17:44113490-44113492
+cat is not mapped at chr17:44070955-44070957
+cat is not mapped at chr17:44092800-44092802
+cat is not mapped at chr17:44036128-44036130
+cat is not mapped at chr17:44147410-44147412
+cat is not mapped at chr17:44054387-44054389
+cat is not mapped at chr17:44169758-44169760
+cat is not mapped at chr17:44271429-44271431
+cat is not mapped at chr17:44257782-44257784
+cat is not mapped at chr17:44157621-44157623
+cat allele match to neither
+cat is not mapped at chr17:44212031-44212033
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44154460-44154462
+cat is not mapped at chr17:44223242-44223244
+cat allele match to neither
+cat is not mapped at chr17:44274984-44274986
+cat is not mapped at chr17:44150919-44150921
+cat is not mapped at chr17:44284541-44284543
+cat is not mapped at chr17:44281451-44281453
+cat is not mapped at chr17:44189798-44189800
+cat is not mapped at chr17:44194834-44194836
+cat is not mapped at chr17:44200509-44200511
+cat is not mapped at chr17:44149536-44149538
+cat is not mapped at chr17:44196821-44196823
+cat is not mapped at chr17:44289219-44289221
+cat is not mapped at chr17:44296522-44296524
+cat allele match to neither
+cat is not mapped at chr17:44204748-44204750
+cat is not mapped at chr17:44179722-44179724
+cat is not mapped at chr17:44161984-44161986
+cat is not mapped at chr17:44239957-44239959
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44267226-44267228
+cat allele match to neither
+cat is not mapped at chr17:44202563-44202565
+cat is not mapped at chr17:44215044-44215046
+cat allele match to neither
+cat is not mapped at chr17:44316075-44316077
+cat is not mapped at chr17:44227195-44227197
+cat is not mapped at chr17:44261136-44261138
+cat is not mapped at chr17:44220784-44220786
+cat is not mapped at chr19:50880474-50880476
+cat is not mapped at chr18:59992664-59992666
+cat is not mapped at chr2:241121694-241121696
+cat is not mapped at chr20:41675078-41675080
+cat is not mapped at chr21:34602304-34602306
+cat is not mapped at chr2:230147119-230147121
+cat is not mapped at chr20:57953383-57953385
+cat is not mapped at chr21:34593149-34593151
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44340524-44340526
+cat is not mapped at chr19:47014368-47014370
+cat is not mapped at chr19:39071630-39071632
+cat is not mapped at chr17:44333888-44333890
+cat is not mapped at chr19:4729330-4729332
+cat allele match to neither
+cat is not mapped at chr17:44349866-44349868
+cat is not mapped at chr21:34607435-34607437
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:50867491-50867493
+cat is not mapped at chr19:50855093-50855095
+cat is not mapped at chr20:23309429-23309431
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:4653327-4653329
+cat is not mapped at chr18:32727934-32727936
+cat is not mapped at chr19:49304214-49304216
+cat is not mapped at chr19:49329284-49329286
+cat is not mapped at chr17:44356948-44356950
+cat is not mapped at chr17:71768205-71768207
+cat is not mapped at chr21:34611991-34611993
+cat is not mapped at chr2:202572154-202572156
+cat is not mapped at chr3:46089340-46089342
+cat is not mapped at chr3:46015568-46015570
+cat is not mapped at chr21:35382260-35382262
+cat is not mapped at chr3:46186309-46186311
+cat is not mapped at chr22:51072105-51072107
+cat is not mapped at chr3:46173209-46173211
+cat is not mapped at chr3:46055249-46055251
+cat is not mapped at chr3:46077524-46077526
+cat is not mapped at chr3:46127556-46127558
+cat is not mapped at chr3:46222036-46222038
+cat is not mapped at chr21:34629174-34629176
+cat is not mapped at chr3:45629286-45629288
+cat allele match to neither
+cat is not mapped at chr3:46082101-46082103
+cat is not mapped at chr3:46072703-46072705
+cat is not mapped at chr3:46064625-46064627
+cat is not mapped at chr3:45962751-45962753
+cat is not mapped at chr3:46039059-46039061
+cat is not mapped at chr3:45889948-45889950
+cat is not mapped at chr3:46208782-46208784
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46189923-46189925
+cat is not mapped at chr3:45828585-45828587
+cat is not mapped at chr3:46147503-46147505
+cat is not mapped at chr3:46100490-46100492
+cat is not mapped at chr3:46094461-46094463
+cat allele match to neither
+cat is not mapped at chr3:46194588-46194590
+cat allele match to neither
+cat is not mapped at chr21:35293086-35293088
+cat is not mapped at chr3:46045181-46045183
+cat is not mapped at chr3:46051701-46051703
+cat is not mapped at chr3:46216244-46216246
+cat is not mapped at chr3:46200859-46200861
+cat is not mapped at chr3:46084741-46084743
+cat is not mapped at chr21:35330250-35330252
+cat is not mapped at chr3:46070336-46070338
+cat is not mapped at chr3:46177991-46177993
+cat is not mapped at chr3:45863266-45863268
+cat is not mapped at chr3:46288010-46288012
+cat allele match to neither
+cat is not mapped at chr3:46257695-46257697
+cat is not mapped at chr3:101463390-101463392
+cat is not mapped at chr3:101356534-101356536
+cat allele match to neither
+cat is not mapped at chr3:46249928-46249930
+cat is not mapped at chr3:46383611-46383613
+cat is not mapped at chr3:46468466-46468468
+cat is not mapped at chr3:101260117-101260119
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46242784-46242786
+cat is not mapped at chr3:101120029-101120031
+cat is not mapped at chr3:46297270-46297272
+cat allele match to neither
+cat is not mapped at chr3:46474901-46474903
+cat is not mapped at chr3:46300869-46300871
+cat is not mapped at chr3:101511201-101511203
+cat is not mapped at chr3:46273765-46273767
+cat is not mapped at chr3:46441175-46441177
+cat is not mapped at chr3:46430588-46430590
+cat is not mapped at chr3:101505467-101505469
+cat is not mapped at chr3:46329367-46329369
+cat is not mapped at chr3:101324062-101324064
+cat is not mapped at chr3:46398363-46398365
+cat is not mapped at chr3:46320119-46320121
+cat is not mapped at chr3:46267581-46267583
+cat is not mapped at chr3:46260497-46260499
+cat allele match to neither
+cat is not mapped at chr3:63620527-63620529
+cat is not mapped at chr3:46375656-46375658
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:51936192-51936194
+cat is not mapped at chr3:101472593-101472595
+cat is not mapped at chr3:101433439-101433441
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr8:26824265-26824267
+cat allele match to neither
+cat is not mapped at chr4:108468864-108468866
+cat is not mapped at chr9:86640376-86640378
+cat is not mapped at chr8:26837932-26837934
+cat is not mapped at chr8:144067649-144067651
+cat is not mapped at chr8:22440741-22440743
+cat allele match to neither
+cat is not mapped at chr3:168573197-168573199
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr8:125319272-125319274
+cat allele match to neither
+cat is not mapped at chr5:13964587-13964589
+cat is not mapped at chr8:29318702-29318704
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr8:76777353-76777355
+cat allele match to neither
+cat is not mapped at chr7:150473174-150473176
+cat is not mapped at chr7:50730007-50730009
+human allele does not match to reference
+cat allele match to neither
+cat is not mapped at chr6:123663894-123663896
+cat is not mapped at chr5:173885706-173885708
+cat is not mapped at chr7:134704169-134704171
+cat is not mapped at chr8:8722674-8722676
+cat is not mapped at chr5:122957481-122957483
+cat is not mapped at chr7:78108302-78108304
+cat is not mapped at chr7:9097030-9097032
+cat is not mapped at chr9:15411345-15411347
+cat is not mapped at chr6:33055354-33055356
+cat is not mapped at chr9:136133147-136133149
+cat is not mapped at chr9:113176778-113176780
+cat is not mapped at chr7:50706837-50706839
+cat is not mapped at chr9:136296529-136296531
+cat is not mapped at chr9:136171343-136171345
+human allele does not match to reference
+cat is not mapped at chr9:136333486-136333488
+human allele does not match to reference
+cat is not mapped at chr9:136144625-136144627
+human allele does not match to reference
+human allele does not match to reference: 4
+no liftover from human to cat: 273
+human allele match to reference alleles: 486
+cat allele match to reference alleles: 51        Rate: 10.408163265306122
+cat allele match to alternative alleles: 64      Rate: 13.061224489795919
+cat allele match to neither: 98  Rate: 20.0
+
+hg19/9_projections.fa.gz
+__main__:18: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:19: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:20: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:30: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+__main__:31: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+__main__:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/generic.py:5494: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self[name] = value
+cat is not mapped at chr1:237280204-237280206
+__main__:73: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+/home/s1544765/.local/lib/python3.7/site-packages/pandas/core/indexing.py:1637: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_single_block(indexer, value, name)
+cat is not mapped at chr12:113367342-113367344
+cat is not mapped at chr10:96012949-96012951
+cat allele match to neither
+cat is not mapped at chr12:68043158-68043160
+cat is not mapped at chr12:113371976-113371978
+cat is not mapped at chr1:155198221-155198223
+cat is not mapped at chr1:155087082-155087084
+cat is not mapped at chr11:28403970-28403972
+cat is not mapped at chr1:188488144-188488146
+cat is not mapped at chr10:12667473-12667475
+cat is not mapped at chr12:113368604-113368606
+cat allele match to neither
+cat is not mapped at chr1:65591100-65591102
+cat is not mapped at chr12:113365666-113365668
+cat is not mapped at chr11:88589785-88589787
+cat is not mapped at chr1:3735595-3735597
+cat is not mapped at chr1:228411422-228411424
+cat allele match to neither
+cat is not mapped at chr12:10546009-10546011
+cat is not mapped at chr12:113392064-113392066
+cat is not mapped at chr1:228423794-228423796
+cat is not mapped at chr11:1062866-1062868
+cat is not mapped at chr12:113359317-113359319
+cat is not mapped at chr1:65588419-65588421
+cat is not mapped at chr12:113362750-113362752
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr1:7214654-7214656
+cat is not mapped at chr12:113379038-113379040
+cat is not mapped at chr11:28442675-28442677
+cat is not mapped at chr12:113375035-113375037
+cat is not mapped at chr12:42620760-42620762
+cat is not mapped at chr12:113364779-113364781
+cat is not mapped at chr11:97743132-97743134
+cat is not mapped at chr1:65582332-65582334
+cat is not mapped at chr12:113363691-113363693
+cat is not mapped at chr1:65585502-65585504
+cat allele match to neither
+cat is not mapped at chr11:23253213-23253215
+cat is not mapped at chr12:113381955-113381957
+cat is not mapped at chr1:85538506-85538508
+cat is not mapped at chr17:43688386-43688388
+cat is not mapped at chr17:43775478-43775480
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113419176-113419178
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr15:78345235-78345237
+cat is not mapped at chr15:26549141-26549143
+cat is not mapped at chr17:43719869-43719871
+cat allele match to neither
+cat is not mapped at chr17:43769320-43769322
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr14:43461759-43461761
+cat is not mapped at chr14:28733846-28733848
+cat is not mapped at chr17:43762536-43762538
+cat is not mapped at chr17:43771626-43771628
+cat is not mapped at chr17:39138210-39138212
+cat is not mapped at chr17:43758010-43758012
+cat is not mapped at chr17:43734303-43734305
+cat is not mapped at chr17:43724554-43724556
+cat is not mapped at chr16:10645716-10645718
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr12:113402898-113402900
+cat is not mapped at chr15:49495706-49495708
+cat is not mapped at chr17:43665808-43665810
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43836190-43836192
+cat allele match to neither
+cat is not mapped at chr17:43857988-43857990
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43918523-43918525
+cat allele match to neither
+cat is not mapped at chr17:43812648-43812650
+cat is not mapped at chr17:43897479-43897481
+cat is not mapped at chr17:43791609-43791611
+cat is not mapped at chr17:43785937-43785939
+cat is not mapped at chr17:43792585-43792587
+cat is not mapped at chr17:43815819-43815821
+cat allele match to neither
+cat is not mapped at chr17:43833823-43833825
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43899656-43899658
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43920299-43920301
+cat allele match to neither
+cat is not mapped at chr17:43793950-43793952
+cat is not mapped at chr17:43809263-43809265
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43915311-43915313
+cat is not mapped at chr17:43838013-43838015
+cat is not mapped at chr17:43932128-43932130
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43968462-43968464
+cat allele match to neither
+cat is not mapped at chr17:43994357-43994359
+cat is not mapped at chr17:43962981-43962983
+cat is not mapped at chr17:43926991-43926993
+cat is not mapped at chr17:43933878-43933880
+cat allele match to neither
+cat is not mapped at chr17:43955364-43955366
+cat allele match to neither
+cat is not mapped at chr17:43986991-43986993
+cat is not mapped at chr17:43960340-43960342
+cat is not mapped at chr17:44002594-44002596
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:43959112-43959114
+cat is not mapped at chr17:43964538-43964540
+cat allele match to neither
+cat is not mapped at chr17:43992232-43992234
+cat allele match to neither
+cat is not mapped at chr17:44010451-44010453
+cat is not mapped at chr17:44006955-44006957
+cat is not mapped at chr17:44018487-44018489
+cat allele match to neither
+cat is not mapped at chr17:43984668-43984670
+cat is not mapped at chr17:44005253-44005255
+cat allele match to neither
+cat is not mapped at chr17:43973651-43973653
+cat is not mapped at chr17:43940019-43940021
+cat is not mapped at chr17:43979467-43979469
+cat is not mapped at chr17:43937504-43937506
+cat is not mapped at chr17:43957268-43957270
+cat is not mapped at chr17:43969832-43969834
+cat allele match to neither
+cat is not mapped at chr17:43943973-43943975
+cat is not mapped at chr17:43953706-43953708
+cat is not mapped at chr17:43966177-43966179
+cat is not mapped at chr17:43930954-43930956
+cat is not mapped at chr17:44016156-44016158
+cat allele match to neither
+cat is not mapped at chr17:44142565-44142567
+cat is not mapped at chr17:44101003-44101005
+cat is not mapped at chr17:44047215-44047217
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44125287-44125289
+cat allele match to neither
+cat is not mapped at chr17:44082248-44082250
+cat allele match to neither
+cat is not mapped at chr17:44147510-44147512
+cat is not mapped at chr17:44113962-44113964
+cat is not mapped at chr17:44132591-44132593
+cat is not mapped at chr17:44075109-44075111
+cat is not mapped at chr17:44069179-44069181
+cat is not mapped at chr17:44136633-44136635
+cat is not mapped at chr17:44032914-44032916
+cat is not mapped at chr17:44133647-44133649
+cat is not mapped at chr17:44090235-44090237
+cat is not mapped at chr17:44078831-44078833
+cat is not mapped at chr17:44122353-44122355
+cat is not mapped at chr17:44095054-44095056
+cat is not mapped at chr17:44036286-44036288
+cat is not mapped at chr17:44030310-44030312
+cat allele match to neither
+cat is not mapped at chr17:44119319-44119321
+cat is not mapped at chr17:44024864-44024866
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44130923-44130925
+cat is not mapped at chr17:44071088-44071090
+cat is not mapped at chr17:44149580-44149582
+cat is not mapped at chr17:44205121-44205123
+cat is not mapped at chr17:44201108-44201110
+cat is not mapped at chr17:44189854-44189856
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44261752-44261754
+cat allele match to neither
+cat is not mapped at chr17:44169768-44169770
+cat is not mapped at chr17:44235892-44235894
+cat is not mapped at chr17:44176169-44176171
+cat is not mapped at chr17:44277866-44277868
+cat is not mapped at chr17:44284733-44284735
+cat is not mapped at chr17:44244396-44244398
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44291819-44291821
+cat is not mapped at chr17:44316279-44316281
+cat is not mapped at chr17:44220789-44220791
+cat allele match to neither
+cat is not mapped at chr17:44194890-44194892
+cat is not mapped at chr17:44247313-44247315
+cat is not mapped at chr17:44157981-44157983
+cat is not mapped at chr17:44179748-44179750
+cat is not mapped at chr17:44251547-44251549
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr17:44298101-44298103
+cat is not mapped at chr17:44223386-44223388
+cat is not mapped at chr17:44202607-44202609
+cat is not mapped at chr17:44257787-44257789
+cat is not mapped at chr17:44215822-44215824
+cat is not mapped at chr17:44154606-44154608
+cat allele match to neither
+cat is not mapped at chr17:44281587-44281589
+cat is not mapped at chr19:10436354-10436356
+cat is not mapped at chr21:34593573-34593575
+cat is not mapped at chr19:50855235-50855237
+cat is not mapped at chr20:23310434-23310436
+cat allele match to neither
+cat is not mapped at chr20:23334212-23334214
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:49334478-49334480
+cat is not mapped at chr18:60001742-60001744
+cat is not mapped at chr19:8202296-8202298
+cat is not mapped at chr17:44333889-44333891
+cat is not mapped at chr17:44812187-44812189
+cat is not mapped at chr2:233545636-233545638
+cat allele match to neither
+cat is not mapped at chr17:47929883-47929885
+cat is not mapped at chr17:71768273-71768275
+cat allele match to neither
+cat is not mapped at chr19:4708101-4708103
+cat is not mapped at chr2:37889612-37889614
+cat is not mapped at chr21:34613300-34613302
+cat is not mapped at chr17:44350089-44350091
+cat allele match to neither
+cat is not mapped at chr19:39073150-39073152
+cat is not mapped at chr17:49701896-49701898
+cat is not mapped at chr20:59664454-59664456
+cat is not mapped at chr21:34621947-34621949
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr19:47014491-47014493
+cat is not mapped at chr3:46173641-46173643
+cat is not mapped at chr3:45844197-45844199
+cat is not mapped at chr3:45864255-45864257
+cat is not mapped at chr3:46094622-46094624
+cat is not mapped at chr3:46208857-46208859
+cat is not mapped at chr3:46100495-46100497
+cat is not mapped at chr3:46078291-46078293
+cat is not mapped at chr3:46200924-46200926
+cat is not mapped at chr3:46190063-46190065
+cat is not mapped at chr3:45909527-45909529
+cat is not mapped at chr3:46072767-46072769
+cat is not mapped at chr3:46194768-46194770
+cat is not mapped at chr3:46039151-46039153
+cat is not mapped at chr3:46141503-46141505
+cat is not mapped at chr3:46178537-46178539
+cat is not mapped at chr3:46051773-46051775
+cat is not mapped at chr3:46046458-46046460
+human allele does not match to reference
+cat is not mapped at chr3:45897447-45897449
+cat is not mapped at chr3:46000727-46000729
+cat is not mapped at chr21:35333133-35333135
+cat is not mapped at chr3:46032387-46032389
+cat is not mapped at chr3:46128541-46128543
+cat is not mapped at chr3:46118438-46118440
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr21:35320940-35320942
+cat allele match to neither
+cat is not mapped at chr3:46224849-46224851
+cat is not mapped at chr3:46055715-46055717
+cat is not mapped at chr3:46070352-46070354
+cat is not mapped at chr21:34631132-34631134
+cat allele match to neither
+cat is not mapped at chr3:46186322-46186324
+cat is not mapped at chr3:46084948-46084950
+cat is not mapped at chr3:46216623-46216625
+cat is not mapped at chr3:46233689-46233691
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr3:46090012-46090014
+cat is not mapped at chr3:46274258-46274260
+cat is not mapped at chr3:46301422-46301424
+cat allele match to neither
+cat is not mapped at chr3:101300874-101300876
+cat is not mapped at chr3:46244272-46244274
+cat is not mapped at chr3:46375736-46375738
+cat is not mapped at chr3:46384546-46384548
+cat is not mapped at chr3:46289402-46289404
+cat is not mapped at chr3:46297527-46297529
+cat is not mapped at chr3:101385766-101385768
+cat is not mapped at chr3:100817477-100817479
+cat is not mapped at chr3:46271398-46271400
+cat is not mapped at chr3:101122574-101122576
+cat is not mapped at chr3:46329474-46329476
+cat is not mapped at chr3:101327768-101327770
+cat is not mapped at chr3:101450257-101450259
+cat allele match to neither
+cat is not mapped at chr3:46402430-46402432
+cat is not mapped at chr3:46474991-46474993
+cat is not mapped at chr3:46260859-46260861
+cat is not mapped at chr3:46346035-46346037
+cat is not mapped at chr3:46250007-46250009
+cat is not mapped at chr3:101410974-101410976
+cat is not mapped at chr3:101472828-101472830
+cat is not mapped at chr3:46433242-46433244
+cat is not mapped at chr3:46258225-46258227
+cat is not mapped at chr3:101187839-101187841
+cat is not mapped at chr3:101490277-101490279
+cat is not mapped at chr3:101397622-101397624
+cat is not mapped at chr3:65727611-65727613
+cat allele match to neither
+cat is not mapped at chr3:46322170-46322172
+cat is not mapped at chr3:51936366-51936368
+cat is not mapped at chr3:101511666-101511668
+cat is not mapped at chr3:46493166-46493168
+cat is not mapped at chr3:46449390-46449392
+cat is not mapped at chr3:101269941-101269943
+cat allele match to neither
+cat is not mapped at chr3:101433514-101433516
+cat is not mapped at chr3:101505506-101505508
+cat is not mapped at chr3:101360586-101360588
+cat is not mapped at chr3:46468698-46468700
+cat is not mapped at chr7:50731869-50731871
+cat is not mapped at chr5:91686871-91686873
+cat allele match to neither
+cat is not mapped at chr8:96836948-96836950
+cat allele match to neither
+cat is not mapped at chr9:1686321-1686323
+cat is not mapped at chr9:136139296-136139298
+cat is not mapped at chr6:30066357-30066359
+cat is not mapped at chr6:74100461-74100463
+cat is not mapped at chr5:17191808-17191810
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr8:22440897-22440899
+cat is not mapped at chr6:148381497-148381499
+cat is not mapped at chr8:26826299-26826301
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr7:78108702-78108704
+cat is not mapped at chr9:15414426-15414428
+cat is not mapped at chr8:8723650-8723652
+cat is not mapped at chr5:16811126-16811128
+cat is not mapped at chr5:38611767-38611769
+cat is not mapped at chr3:168574611-168574613
+cat allele match to neither
+cat allele match to neither
+cat is not mapped at chr9:86650972-86650974
+cat is not mapped at chr7:99629060-99629062
+cat is not mapped at chr3:197115689-197115691
+cat is not mapped at chr5:127845277-127845279
+cat is not mapped at chr7:50708082-50708084
+cat is not mapped at chr7:150473409-150473411
+cat is not mapped at chr4:59797011-59797013
+cat is not mapped at chr9:113176791-113176793
+cat is not mapped at chr7:134794961-134794963
+cat allele match to neither
+human allele does not match to reference
+cat is not mapped at chr9:136153980-136153982
+human allele does not match to reference
+cat is not mapped at chr9:136147294-136147296
+human allele does not match to reference: 4
+no liftover from human to cat: 270
+human allele match to reference alleles: 478
+cat allele match to reference alleles: 52        Rate: 10.78838174273859
+cat allele match to alternative alleles: 56      Rate: 11.618257261410788
+cat allele match to neither: 101         Rate: 20.95435684647303
+

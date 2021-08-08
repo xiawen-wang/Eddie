@@ -1,0 +1,70 @@
+human allele does not match to reference: 4
+no liftover from human to loxAfr3: 274
+human allele match to reference alleles: 482
+loxAfr3 allele match to reference alleles: 73	 Rate: 15.020576131687244
+loxAfr3 allele match to alternative alleles: 60	 Rate: 12.345679012345679
+loxAfr3 allele match to neither: 75	 Rate: 15.432098765432098
+
+human allele does not match to reference: 4
+no liftover from human to loxAfr3: 277
+human allele match to reference alleles: 479
+loxAfr3 allele match to reference alleles: 70	 Rate: 14.492753623188406
+loxAfr3 allele match to alternative alleles: 55	 Rate: 11.387163561076605
+loxAfr3 allele match to neither: 77	 Rate: 15.942028985507244
+
+human allele does not match to reference: 6
+no liftover from human to loxAfr3: 293
+human allele match to reference alleles: 483
+loxAfr3 allele match to reference alleles: 64	 Rate: 13.0879345603272
+loxAfr3 allele match to alternative alleles: 47	 Rate: 9.611451942740286
+loxAfr3 allele match to neither: 79	 Rate: 16.155419222903884
+
+human allele does not match to reference: 6
+no liftover from human to loxAfr3: 278
+human allele match to reference alleles: 474
+loxAfr3 allele match to reference alleles: 75	 Rate: 15.625
+loxAfr3 allele match to alternative alleles: 47	 Rate: 9.791666666666666
+loxAfr3 allele match to neither: 74	 Rate: 15.416666666666668
+
+human allele does not match to reference: 3
+no liftover from human to loxAfr3: 283
+human allele match to reference alleles: 475
+loxAfr3 allele match to reference alleles: 61	 Rate: 12.761506276150628
+loxAfr3 allele match to alternative alleles: 58	 Rate: 12.133891213389122
+loxAfr3 allele match to neither: 73	 Rate: 15.271966527196653
+
+human allele does not match to reference: 4
+no liftover from human to loxAfr3: 262
+human allele match to reference alleles: 480
+loxAfr3 allele match to reference alleles: 83	 Rate: 17.148760330578515
+loxAfr3 allele match to alternative alleles: 63	 Rate: 13.016528925619836
+loxAfr3 allele match to neither: 72	 Rate: 14.87603305785124
+
+human allele does not match to reference: 4
+no liftover from human to loxAfr3: 268
+human allele match to reference alleles: 473
+loxAfr3 allele match to reference alleles: 88	 Rate: 18.448637316561843
+loxAfr3 allele match to alternative alleles: 44	 Rate: 9.224318658280922
+loxAfr3 allele match to neither: 73	 Rate: 15.30398322851153
+
+human allele does not match to reference: 3
+no liftover from human to loxAfr3: 282
+human allele match to reference alleles: 479
+loxAfr3 allele match to reference alleles: 79	 Rate: 16.390041493775932
+loxAfr3 allele match to alternative alleles: 48	 Rate: 9.95850622406639
+loxAfr3 allele match to neither: 70	 Rate: 14.522821576763487
+
+human allele does not match to reference: 4
+no liftover from human to loxAfr3: 290
+human allele match to reference alleles: 486
+loxAfr3 allele match to reference alleles: 67	 Rate: 13.673469387755102
+loxAfr3 allele match to alternative alleles: 51	 Rate: 10.408163265306122
+loxAfr3 allele match to neither: 78	 Rate: 15.918367346938775
+
+human allele does not match to reference: 3
+no liftover from human to loxAfr3: 279
+human allele match to reference alleles: 479
+loxAfr3 allele match to reference alleles: 77	 Rate: 15.975103734439832
+loxAfr3 allele match to alternative alleles: 50	 Rate: 10.37344398340249
+loxAfr3 allele match to neither: 73	 Rate: 15.145228215767634
+
